@@ -38,7 +38,6 @@ public class LightingSwitch : MonoBehaviour
             }
             if (EmissiveObject != null)
             {
-                Debug.Log(material.GetColor("_EmissionColor"));
                 material.SetColor("_EmissionColor", onColor);
             }
         }
@@ -50,7 +49,6 @@ public class LightingSwitch : MonoBehaviour
             }
             if (EmissiveObject != null)
             {
-                Debug.Log(material.GetColor("_EmissionColor"));
                 material.SetColor("_EmissionColor", offColor);
             }
         }
