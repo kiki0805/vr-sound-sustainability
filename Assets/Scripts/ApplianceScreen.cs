@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Screen : MonoBehaviour
+public class ApplianceScreen : MonoBehaviour
 {
     public GameObject EmissiveScreen;
     public bool ScreenPowerOn = false;
