@@ -796,6 +796,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
+                },
+                {
+                    "name": "Joystick Pressed",
+                    "type": "Button",
+                    "id": "2af75cee-d8d6-4eec-bed2-7c173b5e6d27",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -879,9 +888,9 @@
                 {
                     "name": "up",
                     "id": "2b466c01-134f-40f2-b376-f7e9684e423b",
-                    "path": "",
+                    "path": "<XRController>{RightHand}/Primary2DAxis/y",
                     "interactions": "",
-                    "processors": "",
+                    "processors": "Clamp(max=1)",
                     "groups": "Generic XR Controller",
                     "action": "Rotate Anchor",
                     "isComposite": false,
@@ -890,9 +899,9 @@
                 {
                     "name": "down",
                     "id": "79757cb3-5b81-4a3d-bc3c-d2582f85d5db",
-                    "path": "",
+                    "path": "<XRController>{RightHand}/Primary2DAxis/y",
                     "interactions": "",
-                    "processors": "",
+                    "processors": "Clamp(min=-1),Invert",
                     "groups": "Generic XR Controller",
                     "action": "Rotate Anchor",
                     "isComposite": false,
@@ -974,6 +983,17 @@
                     "action": "Translate Anchor",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "48bcb085-be1b-4b86-a371-65a47c8a794c",
+                    "path": "<OculusTouchController>{RightHand}/thumbstickClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "Joystick Pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },

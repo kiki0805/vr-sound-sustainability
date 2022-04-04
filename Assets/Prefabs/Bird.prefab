@@ -48,7 +48,7 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
-  Spatialize: 0
+  Spatialize: 1
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
@@ -140,5 +140,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 930090f0f16c76e4ca50ba1b7acad731, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minInterval: 60
-  maxInterval: 600
+  MinInterval: 60
+  MaxInterval: 600
