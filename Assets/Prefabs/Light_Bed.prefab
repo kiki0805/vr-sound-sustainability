@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8423323688854133028}
   - component: {fileID: 8744063860428589548}
   - component: {fileID: 2967927913629364214}
+  - component: {fileID: 6993439953213062923}
   m_Layer: 0
   m_Name: Spot Light
   m_TagString: Untagged
@@ -45,18 +46,18 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
-  m_Range: 10
-  m_SpotAngle: 151.97577
-  m_InnerSpotAngle: 143.77782
+  m_Range: 5
+  m_SpotAngle: 179
+  m_InnerSpotAngle: 133.00429
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
+    m_Bias: 0
+    m_NormalBias: 0
+    m_NearPlane: 0.049999997
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
@@ -81,12 +82,12 @@ Light:
   m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 255
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -111,6 +112,19 @@ MonoBehaviour:
   lightEnabled: 0
   OnSound: {fileID: 805218779670702720}
   OffSound: {fileID: 6585755221220606216}
+--- !u!114 &6993439953213062923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488578010391954093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UsePipelineSettings: 0
 --- !u!1 &2985926537326079047
 GameObject:
   m_ObjectHideFlags: 0
@@ -566,7 +580,7 @@ GameObject:
   - component: {fileID: 6539605154844617767}
   - component: {fileID: 9017806744243624173}
   - component: {fileID: 3230714619179132194}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Light_Bed
   m_TagString: Untagged
   m_Icon: {fileID: 0}

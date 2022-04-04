@@ -13,10 +13,10 @@ TagManager:
   - UI
   - Grabbable
   - Door
-  - 
-  - 
-  - 
-  - 
+  - IgnoreBedLight
+  - IgnoreBedLight1
+  - IgnoreBedLight2
+  - IgnoreBedLight3
   - 
   - 
   - 

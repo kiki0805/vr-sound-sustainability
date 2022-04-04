@@ -608,6 +608,7 @@ GameObject:
   - component: {fileID: 4476819848247041202}
   - component: {fileID: 1257622589037763049}
   - component: {fileID: 1908876853617193934}
+  - component: {fileID: 8735902735814262466}
   m_Layer: 0
   m_Name: Spot Light
   m_TagString: Untagged
@@ -641,19 +642,19 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 3
   m_Range: 10
-  m_SpotAngle: 145.57527
-  m_InnerSpotAngle: 137.37737
+  m_SpotAngle: 164.74016
+  m_InnerSpotAngle: 146.00156
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
+    m_Bias: 7.18
+    m_NormalBias: 0.47
+    m_NearPlane: 2.64
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
@@ -680,10 +681,10 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -708,6 +709,19 @@ MonoBehaviour:
   lightEnabled: 0
   OnSound: {fileID: 1827455101080432335}
   OffSound: {fileID: 4623339039672492481}
+--- !u!114 &8735902735814262466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8652666513939397608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UsePipelineSettings: 0
 --- !u!1 &9139794058999047466
 GameObject:
   m_ObjectHideFlags: 0
