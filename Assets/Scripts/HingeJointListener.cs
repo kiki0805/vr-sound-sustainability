@@ -9,7 +9,10 @@ public class HingeJointListener: MonoBehaviour
     public UnityEvent ReachMaxLimit;
     public UnityEvent DetachMinLimit;
     public UnityEvent DetachMaxLimit;
+    public UnityEvent StartMove;
+    public UnityEvent StopMove;
     float lastAngle;
+    bool moving;
 
     HingeJoint hinge;
 
@@ -43,6 +46,16 @@ public class HingeJointListener: MonoBehaviour
         if (Mathf.Round(hinge.angle - lastAngle) != 0)
         {
             lastAngle = hinge.angle;
+        }
+        if (hinge.velocity > 5 && !moving)
+        {
+            moving = true;
+            StartMove.Invoke();
+        }
+        if (hinge.velocity < 5 && moving)
+        {
+            moving = false;
+            StopMove.Invoke();
         }
     }
 }

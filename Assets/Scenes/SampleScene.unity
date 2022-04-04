@@ -747,7 +747,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2656977534747984219, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_ConnectedAnchor.x
-      value: -3.1009998
+      value: -3.191
       objectReference: {fileID: 0}
     - target: {fileID: 2656977534747984219, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_ConnectedAnchor.z
@@ -756,6 +756,10 @@ PrefabInstance:
     - target: {fileID: 2798368937982766437, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_Name
       value: Kitchen_Drawer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2798368937982766437, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3287096756613117919, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_RootOrder
@@ -3732,6 +3736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kitchen_Top_Drawer (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6594940306525096481, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_ConnectedAnchor.x
       value: -3.236
@@ -5339,6 +5347,10 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -5495,6 +5507,10 @@ PrefabInstance:
     - target: {fileID: 3319592103136774295, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
       propertyPath: m_Name
       value: Kitchen_Drawer_Double (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3319592103136774295, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7581380209457984507, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -6150,6 +6166,10 @@ PrefabInstance:
     - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_Name
       value: Kitchen_Top_Drawer (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6594940306525096481, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -6853,6 +6873,10 @@ PrefabInstance:
       value: Light_Top (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7132,6 +7156,10 @@ PrefabInstance:
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Name
       value: Light_Top (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7837,6 +7865,10 @@ PrefabInstance:
       value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7991,6 +8023,10 @@ PrefabInstance:
       value: Light_Top (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -8139,6 +8175,10 @@ PrefabInstance:
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Name
       value: Light_Top (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8297,6 +8337,10 @@ PrefabInstance:
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Name
       value: Light_Top (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8786,7 +8830,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_SpotAngle
@@ -8795,6 +8839,10 @@ PrefabInstance:
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_InnerSpotAngle
       value: 120.12896
+      objectReference: {fileID: 0}
+    - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_Shadows.m_Bias
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Shadows.m_NearPlane
@@ -8828,6 +8876,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 1908876853617193934, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: lightEnabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2133453683263063688, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
@@ -8855,6 +8907,10 @@ PrefabInstance:
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Name
       value: Light_Top (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9921,6 +9977,10 @@ PrefabInstance:
     - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
       propertyPath: m_Layer
       value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12803,6 +12863,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kitchen_Top_Drawer_R (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5220623499711348234, guid: 33b74a75ec9f963448aec9a926433875, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33b74a75ec9f963448aec9a926433875, type: 3}
 --- !u!4 &2040371751 stripped
@@ -12955,6 +13019,10 @@ PrefabInstance:
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Name
       value: Light_Top (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13518,6 +13586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kitchen_Drawer_Double (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3319592103136774295, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5515367556713585931, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
       propertyPath: m_ConnectedAnchor.x
       value: -4.18
@@ -13607,6 +13679,10 @@ PrefabInstance:
     - target: {fileID: 2798368937982766437, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_Name
       value: Kitchen_Drawer (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2798368937982766437, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3287096756613117919, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_RootOrder
@@ -15578,6 +15654,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Toaster
       objectReference: {fileID: 0}
+    - target: {fileID: 8411154766180842219, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9219356751650529361, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -17215,6 +17295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Microwave
       objectReference: {fileID: 0}
+    - target: {fileID: 5266105543869841166, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7710360840881262522, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
       propertyPath: m_ConnectedAnchor.z
       value: -0.85140014
@@ -17728,6 +17812,10 @@ PrefabInstance:
     - target: {fileID: 5220623499711348234, guid: 33b74a75ec9f963448aec9a926433875, type: 3}
       propertyPath: m_Name
       value: Kitchen_Top_Drawer_R
+      objectReference: {fileID: 0}
+    - target: {fileID: 5220623499711348234, guid: 33b74a75ec9f963448aec9a926433875, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33b74a75ec9f963448aec9a926433875, type: 3}
@@ -18998,6 +19086,10 @@ PrefabInstance:
     - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
       propertyPath: m_Name
       value: Light_Bed
+      objectReference: {fileID: 0}
+    - target: {fileID: 7360380445561518392, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7885384756087268226, guid: 4902cb37666ec524ba4be4b5f4eb6e6d, type: 3}
       propertyPath: m_RootOrder
@@ -21337,10 +21429,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1079701786}
     m_Modifications:
-    - target: {fileID: 1465762824577057219, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
-      propertyPath: m_ConnectedAnchor.y
-      value: 0.205827
-      objectReference: {fileID: 0}
     - target: {fileID: 4667273601874812179, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_Name
       value: Oven
@@ -22898,6 +22986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kitchen_Drawer_Double
       objectReference: {fileID: 0}
+    - target: {fileID: 3319592103136774295, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5515367556713585931, guid: 028c4eb1a94ade143937a34fe40306ff, type: 3}
       propertyPath: m_ConnectedAnchor.y
       value: 0.6344751
@@ -23858,6 +23950,10 @@ PrefabInstance:
     - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Name
       value: Light_Top
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134599699614936284, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4412466541007161435, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_RootOrder
@@ -25549,6 +25645,10 @@ PrefabInstance:
     - target: {fileID: 7687642851443097959, guid: 89d5713dcb3958447b87d03499c741e6, type: 3}
       propertyPath: m_Name
       value: CoffeeMachine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7687642851443097959, guid: 89d5713dcb3958447b87d03499c741e6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89d5713dcb3958447b87d03499c741e6, type: 3}
@@ -27523,6 +27623,10 @@ PrefabInstance:
     - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_Name
       value: Kitchen_Top_Drawer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6594940306525096481, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -29534,6 +29638,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kitchen_Drawer
       objectReference: {fileID: 0}
+    - target: {fileID: 2798368937982766437, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3287096756613117919, guid: 26d0f04c6a841954bb6ad483570bd62e, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -29686,6 +29794,10 @@ PrefabInstance:
     - target: {fileID: 5977730285684159920, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
       propertyPath: m_Name
       value: Dishwasher
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977730285684159920, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6466881725618990858, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
       propertyPath: m_RootOrder
@@ -34704,6 +34816,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1901970314}
     m_Modifications:
+    - target: {fileID: 692874815, guid: e05c148e543b0ae468b1d04fa04aa0c3, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1049214829, guid: e05c148e543b0ae468b1d04fa04aa0c3, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 13320037940345081, guid: e05c148e543b0ae468b1d04fa04aa0c3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -37639,9 +37759,21 @@ PrefabInstance:
       propertyPath: m_ConnectedAnchor.z
       value: -3.9710004
       objectReference: {fileID: 0}
+    - target: {fileID: 4661878716186180841, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661878716751639666, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4661878717125166091, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
       propertyPath: m_Name
       value: Refrigerator
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661878717125166091, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5474549014496239281, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
       propertyPath: m_RootOrder
@@ -37690,6 +37822,58 @@ PrefabInstance:
     - target: {fileID: 6302191641468235849, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
       propertyPath: m_ConnectedAnchor.z
       value: -3.9710004
+      objectReference: {fileID: 0}
+    - target: {fileID: 6607534430558660062, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269060409890564658, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -3.792
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269060409890564658, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_AutoConfigureConnectedAnchor
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455433606267983792, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.50182545
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455433606267983792, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -3.792
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455433606267983792, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_AutoConfigureConnectedAnchor
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7951428575019222669, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -3.861
+      objectReference: {fileID: 0}
+    - target: {fileID: 7951428575019222669, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_AutoConfigureConnectedAnchor
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284487940564195084, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.73882544
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284487940564195084, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -3.792
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284487940564195084, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_AutoConfigureConnectedAnchor
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8544801995036818268, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.3139757
+      objectReference: {fileID: 0}
+    - target: {fileID: 8544801995036818268, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -3.9920003
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
@@ -39301,6 +39485,10 @@ PrefabInstance:
     - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_Name
       value: Kitchen_Top_Drawer
+      objectReference: {fileID: 0}
+    - target: {fileID: 6496264754624455020, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6594940306525096481, guid: 535ebefd85c8d2144a5143c1d27f99d1, type: 3}
       propertyPath: m_Limits.max
