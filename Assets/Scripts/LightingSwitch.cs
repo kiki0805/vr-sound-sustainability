@@ -43,6 +43,7 @@ public class LightingSwitch : MonoBehaviour
             {
                 material.SetColor("_EmissionColor", onColor);
             }
+            OnSound.Play();
         }
         else
         {
@@ -54,6 +55,7 @@ public class LightingSwitch : MonoBehaviour
             {
                 material.SetColor("_EmissionColor", offColor);
             }
+            OffSound.Play();
         }
         GetComponent<Light>().enabled = !lightEnabled;
     }
