@@ -524,7 +524,7 @@ GameObject:
   - component: {fileID: 99214181}
   m_Layer: 6
   m_Name: Burger
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -890,7 +890,7 @@ GameObject:
   - component: {fileID: 183618973}
   m_Layer: 6
   m_Name: Bacon
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1120,7 +1120,7 @@ GameObject:
   - component: {fileID: 193863891}
   m_Layer: 6
   m_Name: Lettuce
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1596,7 +1596,7 @@ GameObject:
   - component: {fileID: 287748364}
   m_Layer: 6
   m_Name: Cheese
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2098,7 +2098,7 @@ GameObject:
   - component: {fileID: 390338754}
   m_Layer: 6
   m_Name: Shrimp
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2666,7 +2666,7 @@ GameObject:
   - component: {fileID: 474706418}
   m_Layer: 6
   m_Name: Hot_dog_sausage
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3771,7 +3771,7 @@ GameObject:
   - component: {fileID: 581691181}
   m_Layer: 6
   m_Name: Ketchup
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4181,7 +4181,7 @@ GameObject:
   - component: {fileID: 597544150}
   m_Layer: 6
   m_Name: Mushroom
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6520,7 +6520,7 @@ GameObject:
   - component: {fileID: 935136126}
   m_Layer: 6
   m_Name: Soup_plate
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7464,7 +7464,7 @@ GameObject:
   - component: {fileID: 1100678938}
   m_Layer: 6
   m_Name: Mustard
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8535,7 +8535,7 @@ GameObject:
   - component: {fileID: 1265536632}
   m_Layer: 6
   m_Name: Chicken
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9185,7 +9185,7 @@ GameObject:
   - component: {fileID: 1384867841}
   m_Layer: 6
   m_Name: Sandwich
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9666,7 +9666,7 @@ GameObject:
   - component: {fileID: 1480622891}
   m_Layer: 6
   m_Name: Bun
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10346,7 +10346,7 @@ GameObject:
   - component: {fileID: 1613154380}
   m_Layer: 6
   m_Name: Crab
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11097,7 +11097,7 @@ GameObject:
   - component: {fileID: 1662852700}
   m_Layer: 6
   m_Name: Sausage
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11422,7 +11422,7 @@ GameObject:
   - component: {fileID: 1697272570}
   m_Layer: 6
   m_Name: Potatoes
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11752,7 +11752,7 @@ GameObject:
   - component: {fileID: 1778091740}
   m_Layer: 6
   m_Name: Hotdog
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12622,7 +12622,7 @@ GameObject:
   - component: {fileID: 2018288338}
   m_Layer: 6
   m_Name: Cake
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13167,7 +13167,7 @@ GameObject:
   - component: {fileID: 2076781676}
   m_Layer: 6
   m_Name: Mushroom
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22697,7 +22697,7 @@ GameObject:
   - component: {fileID: 3528902268580941309}
   m_Layer: 6
   m_Name: Butter
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27201,7 +27201,7 @@ GameObject:
   - component: {fileID: 4999071658412381458}
   m_Layer: 6
   m_Name: Potato
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29355,7 +29355,7 @@ GameObject:
   - component: {fileID: 5659932867526887328}
   m_Layer: 6
   m_Name: Zucchini
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33290,7 +33290,7 @@ GameObject:
   - component: {fileID: 6919627207719892092}
   m_Layer: 6
   m_Name: Lemon
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
