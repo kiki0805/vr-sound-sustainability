@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.2
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.028170122, g: 0.03519463, b: 0.047176726, a: 0.2}
+  m_IndirectSpecularColor: {r: 0.028170077, g: 0.035194587, b: 0.04717667, a: 0.2}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -21501,6 +21501,18 @@ PrefabInstance:
       propertyPath: m_ConnectedAnchor.x
       value: -4.8810887
       objectReference: {fileID: 0}
+    - target: {fileID: 3019998871260923208, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: prewarm
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3071423618029797877, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: db6285e6b65576443aaf3f7e76ab6e1d, type: 3}
+    - target: {fileID: 3395091633440947832, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: db6285e6b65576443aaf3f7e76ab6e1d, type: 3}
     - target: {fileID: 4478495903931570364, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_ConnectedAnchor.x
       value: -4.7788887
@@ -21509,6 +21521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oven
       objectReference: {fileID: 0}
+    - target: {fileID: 5242078273941028934, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: db6285e6b65576443aaf3f7e76ab6e1d, type: 3}
     - target: {fileID: 5444478323037964201, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -21552,6 +21568,14 @@ PrefabInstance:
     - target: {fileID: 5444478323037964201, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6054409578889542955, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: db6285e6b65576443aaf3f7e76ab6e1d, type: 3}
+    - target: {fileID: 6505455081416947750, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.918
       objectReference: {fileID: 0}
     - target: {fileID: 8126418114729052380, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_ConnectedAnchor.x

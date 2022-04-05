@@ -11,6 +11,7 @@ public class HingeJointListener: MonoBehaviour
     public UnityEvent DetachMaxLimit;
     public UnityEvent StartMove;
     public UnityEvent StopMove;
+    public GasFire GasFireController;
     float lastAngle;
     bool moving;
 
@@ -46,6 +47,7 @@ public class HingeJointListener: MonoBehaviour
         if (Mathf.Round(hinge.angle - lastAngle) != 0)
         {
             lastAngle = hinge.angle;
+            GasFireController.SetSpeed((hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min));
         }
         if (hinge.velocity > 5 && !moving)
         {
