@@ -17,22 +17,24 @@ public class ConfigurableJointListener : MonoBehaviour
     bool moving;
 
     ConfigurableJoint joint;
-    Rigidbody rigidbody;
 
     // Start is called before the first frame update
     void Start()
     {
         joint = GetComponent<ConfigurableJoint>();
-        rigidbody = GetComponent<Rigidbody>();
         lastPosition = (float)transform.position.z;
         closePosition = (float)lastPosition;
         openPosition = (float)lastPosition + 0.4f;
+        Debug.Log($"closePosition {closePosition}");
+        Debug.Log($"openPosition {openPosition}");
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Debug.Log(rigidbody.velocity);
+        Debug.Log($"velocity {GetComponent<Rigidbody>().velocity.z}");
+        Debug.Log($"position {transform.position.z}");
+
         if(Mathf.Round(transform.position.z - closePosition) == 0 && Mathf.Round(lastPosition - closePosition) != 0)
         {
             ReachMinLimit.Invoke();
@@ -53,12 +55,12 @@ public class ConfigurableJointListener : MonoBehaviour
         {
             lastPosition = (float)transform.position.z;
         }
-        if (rigidbody.velocity.z > 5 && !moving)
+        if (GetComponent<Rigidbody>().velocity.z > 5 && !moving)
         {
             moving = true;
             StartMove.Invoke();
         }
-        if (rigidbody.velocity.z < 5 && moving)
+        if (GetComponent<Rigidbody>().velocity.z < 5 && moving)
         {
             moving = false;
             StopMove.Invoke();

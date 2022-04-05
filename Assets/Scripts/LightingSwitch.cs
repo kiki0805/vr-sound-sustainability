@@ -20,11 +20,19 @@ public class LightingSwitch : MonoBehaviour
         {
             eulerRotation = Switch.transform.rotation.eulerAngles;
         }
+        GetComponent<Light>().enabled = lightEnabled;
         if (EmissiveObject != null)
         {
             material = EmissiveObject.GetComponent<Renderer>().materials[1];
+            if (lightEnabled)
+            {
+                material.SetColor("_EmissionColor", onColor);
+            }
+            else
+            {
+                material.SetColor("_EmissionColor", offColor);
+            }
         }
-        GetComponent<Light>().enabled = lightEnabled;
     }
 
     // Update is called once per frame

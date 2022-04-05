@@ -132,7 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3506829}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -353,7 +353,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 18515089}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -457,7 +457,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 29354656}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -487,7 +487,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 91271691}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -522,7 +522,7 @@ GameObject:
   - component: {fileID: 99214178}
   - component: {fileID: 99214182}
   - component: {fileID: 99214181}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Burger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -821,7 +821,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 112574063}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -888,7 +888,7 @@ GameObject:
   - component: {fileID: 183618972}
   - component: {fileID: 183618971}
   - component: {fileID: 183618973}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bacon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1118,7 +1118,7 @@ GameObject:
   - component: {fileID: 193863890}
   - component: {fileID: 193863889}
   - component: {fileID: 193863891}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Lettuce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1594,7 +1594,7 @@ GameObject:
   - component: {fileID: 287748363}
   - component: {fileID: 287748362}
   - component: {fileID: 287748364}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cheese
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2012,7 +2012,7 @@ GameObject:
   - component: {fileID: 383443363}
   - component: {fileID: 383443365}
   - component: {fileID: 383443364}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: jarst_soup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2096,7 +2096,7 @@ GameObject:
   - component: {fileID: 390338753}
   - component: {fileID: 390338752}
   - component: {fileID: 390338754}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shrimp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2664,7 +2664,7 @@ GameObject:
   - component: {fileID: 474706417}
   - component: {fileID: 474706416}
   - component: {fileID: 474706418}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hot_dog_sausage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3660,7 +3660,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 540432869}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3769,7 +3769,7 @@ GameObject:
   - component: {fileID: 581691178}
   - component: {fileID: 581691182}
   - component: {fileID: 581691181}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ketchup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4179,7 +4179,7 @@ GameObject:
   - component: {fileID: 597544147}
   - component: {fileID: 597544151}
   - component: {fileID: 597544150}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mushroom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4194,7 +4194,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 597544145}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.188, y: 1.223, z: -4.0985}
+  m_LocalPosition: {x: -1.188, y: 1.1805, z: -4.3225}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 91271691}
@@ -4557,7 +4557,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 620449969}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5000,7 +5000,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 664930105}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5705,6 +5705,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 1457270639}
+    - target: {fileID: 1642215821823508777, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7278500690933630794, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -5752,6 +5756,10 @@ PrefabInstance:
     - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_Name
       value: Toaster_bread (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 9053529052214140949, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
@@ -5895,7 +5903,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 798206972}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5927,6 +5935,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 1457270639}
+    - target: {fileID: 1642215821823508777, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7278500690933630794, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -5974,6 +5986,10 @@ PrefabInstance:
     - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_Name
       value: Toaster_bread (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
@@ -6091,7 +6107,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 864019843}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6486,7 +6502,7 @@ GameObject:
   - component: {fileID: 935136125}
   - component: {fileID: 935136124}
   - component: {fileID: 935136126}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Soup_plate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6784,7 +6800,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 981326459}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7395,7 +7411,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1098434687}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7430,7 +7446,7 @@ GameObject:
   - component: {fileID: 1100678935}
   - component: {fileID: 1100678939}
   - component: {fileID: 1100678938}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mustard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7808,7 +7824,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1153343568}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8501,7 +8517,7 @@ GameObject:
   - component: {fileID: 1265536629}
   - component: {fileID: 1265536633}
   - component: {fileID: 1265536632}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chicken
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8726,7 +8742,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1265635467}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8830,7 +8846,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_SpotAngle
@@ -8842,11 +8858,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Shadows.m_Bias
-      value: 0.1
+      value: 0.48
       objectReference: {fileID: 0}
     - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_Shadows.m_NearPlane
-      value: 0.1
+      value: 0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1257622589037763049, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
+      propertyPath: m_Shadows.m_NormalBias
+      value: 0.76
       objectReference: {fileID: 0}
     - target: {fileID: 1643915563466134512, guid: 0fe69d1e4aa789244980219bdb5929f5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8998,6 +9018,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 1457270639}
+    - target: {fileID: 1642215821823508777, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7278500690933630794, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -9045,6 +9069,10 @@ PrefabInstance:
     - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_Name
       value: Toaster_bread (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
@@ -9139,7 +9167,7 @@ GameObject:
   - component: {fileID: 1384867840}
   - component: {fileID: 1384867839}
   - component: {fileID: 1384867841}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sandwich
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9438,7 +9466,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1422356466}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9513,6 +9541,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 1457270639}
+    - target: {fileID: 1642215821823508777, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7278500690933630794, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -9561,6 +9593,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Toaster_bread (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
 --- !u!4 &1471434558 stripped
@@ -9577,7 +9613,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1479223170}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9612,7 +9648,7 @@ GameObject:
   - component: {fileID: 1480622888}
   - component: {fileID: 1480622892}
   - component: {fileID: 1480622891}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9837,7 +9873,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1488067818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10191,7 +10227,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1606693193}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10292,7 +10328,7 @@ GameObject:
   - component: {fileID: 1613154379}
   - component: {fileID: 1613154378}
   - component: {fileID: 1613154380}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11043,7 +11079,7 @@ GameObject:
   - component: {fileID: 1662852699}
   - component: {fileID: 1662852698}
   - component: {fileID: 1662852700}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sausage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11368,7 +11404,7 @@ GameObject:
   - component: {fileID: 1697272569}
   - component: {fileID: 1697272568}
   - component: {fileID: 1697272570}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Potatoes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11663,7 +11699,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1743917716}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11698,7 +11734,7 @@ GameObject:
   - component: {fileID: 1778091737}
   - component: {fileID: 1778091741}
   - component: {fileID: 1778091740}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hotdog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11713,7 +11749,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778091735}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.946, y: 1.6, z: -4.05}
+  m_LocalPosition: {x: -0.946, y: 1.5695, z: -4.0944}
   m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_Children:
   - {fileID: 1479223170}
@@ -12036,7 +12072,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1846554076}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12278,7 +12314,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898409960}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12374,7 +12410,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1943709455}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12404,7 +12440,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1954232615}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12568,7 +12604,7 @@ GameObject:
   - component: {fileID: 2018288335}
   - component: {fileID: 2018288339}
   - component: {fileID: 2018288338}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cake
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13113,7 +13149,7 @@ GameObject:
   - component: {fileID: 2076781675}
   - component: {fileID: 2076781674}
   - component: {fileID: 2076781676}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mushroom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21429,6 +21465,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1079701786}
     m_Modifications:
+    - target: {fileID: 542033174, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -4.9824886
+      objectReference: {fileID: 0}
+    - target: {fileID: 542033174, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.9218547
+      objectReference: {fileID: 0}
+    - target: {fileID: 542033174, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -1.0009
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325865660371865812, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -4.8810887
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478495903931570364, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -4.7788887
+      objectReference: {fileID: 0}
     - target: {fileID: 4667273601874812179, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_Name
       value: Oven
@@ -21476,6 +21532,10 @@ PrefabInstance:
     - target: {fileID: 5444478323037964201, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8126418114729052380, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -4.677189
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc4c75b8cf4127441b41627363fea146, type: 3}
@@ -22591,7 +22651,7 @@ GameObject:
   - component: {fileID: 7259621640640651622}
   - component: {fileID: 3528902268580941310}
   - component: {fileID: 3528902268580941309}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Butter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27095,7 +27155,7 @@ GameObject:
   - component: {fileID: 102450909901282868}
   - component: {fileID: 4999071658412381459}
   - component: {fileID: 4999071658412381458}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Potato
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29249,7 +29309,7 @@ GameObject:
   - component: {fileID: 3909897396080503542}
   - component: {fileID: 5659932867526887329}
   - component: {fileID: 5659932867526887328}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Zucchini
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33184,7 +33244,7 @@ GameObject:
   - component: {fileID: 3058528551324118147}
   - component: {fileID: 6919627207719892093}
   - component: {fileID: 6919627207719892092}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Lemon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34303,6 +34363,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 1457270639}
+    - target: {fileID: 1642215821823508777, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7278500690933630794, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -34350,6 +34414,10 @@ PrefabInstance:
     - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
       propertyPath: m_Name
       value: Toaster_bread
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278500690933630795, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fc58439b8b94074d8186ad5288b5f72, type: 3}
@@ -35947,7 +36015,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6919627207719892091}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.235, y: 1.002, z: -4.272}
+  m_LocalPosition: {x: -1.2282, y: 0.9543, z: -4.272}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1153343568}
@@ -37758,6 +37826,14 @@ PrefabInstance:
     - target: {fileID: 983848510206811936, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
       propertyPath: m_ConnectedAnchor.z
       value: -3.9710004
+      objectReference: {fileID: 0}
+    - target: {fileID: 2277030028205046749, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_Size.z
+      value: 0.061579823
+      objectReference: {fileID: 0}
+    - target: {fileID: 2277030028205046749, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
+      propertyPath: m_Center.z
+      value: 0.029261649
       objectReference: {fileID: 0}
     - target: {fileID: 4661878716186180841, guid: f667b2c27afc0c143aaf04421cb02cb3, type: 3}
       propertyPath: m_IsActive
