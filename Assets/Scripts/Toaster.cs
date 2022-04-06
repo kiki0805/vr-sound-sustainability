@@ -10,6 +10,11 @@ public class Toaster : MonoBehaviour
     public Transform LowerPosition;
     public HingeJoint hinge;
     public GameObject CookedVFX;
+    public AudioSource UpSFX;
+    public AudioSource DownSFX;
+    public AudioSource TickSFX;
+    public AudioSource DingSFX;
+
     List<IXRSelectInteractable> toasts = new List<IXRSelectInteractable>();
     float t = 0;
     bool movingHandle = false;
@@ -84,6 +89,8 @@ public class Toaster : MonoBehaviour
     void StartCooking()
     {
         Debug.Log("Start cooking");
+        DownSFX.Play();
+        TickSFX.Play();
         movingHandle = true;
         moveUpwards = false;
     }
@@ -91,6 +98,9 @@ public class Toaster : MonoBehaviour
     void FinishCooking()
     {
         Debug.Log("Finish cooking");
+        UpSFX.Play();
+        TickSFX.Stop();
+        DingSFX.Play();
         movingHandle = true;
         moveUpwards = true;
         hinge.useSpring = true;
