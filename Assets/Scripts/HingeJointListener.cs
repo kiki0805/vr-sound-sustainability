@@ -13,7 +13,9 @@ public class HingeJointListener: MonoBehaviour
     public UnityEvent StopMove;
     public GasFire GasFireController;
     float lastAngle;
-    bool moving;
+    bool moving = false;
+    public float repeatRate = 0.5f;
+    private float timer = 0;
 
     HingeJoint hinge;
 
@@ -24,8 +26,17 @@ public class HingeJointListener: MonoBehaviour
         lastAngle = hinge.angle;
     }
 
+    void Update() {
+        if (timer < 0)
+        {
+            CheckState();
+            timer = repeatRate;
+        }
+        timer -= Time.deltaTime;
+    }
+
     // Update is called once per frame
-    void Update()
+    void CheckState()
     {
         // Debug.Log(hinge.velocity);
         if(Mathf.Round(hinge.angle - hinge.limits.min) == 0 && Mathf.Round(lastAngle - hinge.limits.min) != 0)
@@ -47,17 +58,24 @@ public class HingeJointListener: MonoBehaviour
         if (Mathf.Round(hinge.angle - lastAngle) != 0)
         {
             lastAngle = hinge.angle;
-            GasFireController.SetSpeed((hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min));
+            if (GasFireController != null)
+            {
+                GasFireController.SetSpeed((hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min));
+            }
         }
-        if (hinge.velocity > 5 && !moving)
+        if (hinge.velocity > 0 && !moving)
         {
             moving = true;
+            // buggy
             StartMove.Invoke();
+            // Debug.Log("start move");
         }
-        if (hinge.velocity < 5 && moving)
+        if (hinge.velocity == 0 && moving)
         {
             moving = false;
+            // buggy
             StopMove.Invoke();
+            // Debug.Log("stop move");
         }
     }
 }
