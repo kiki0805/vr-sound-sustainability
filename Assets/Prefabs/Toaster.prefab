@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 32635668}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.109, y: 0.14999998, z: -0.055}
+  m_LocalPosition: {x: -0.005, y: 0.2596, z: -0.07}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1499055004}
@@ -54,7 +54,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 767865600}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.10899998, y: 0.14999998, z: -0.038000003}
+  m_LocalPosition: {x: -0.0046, y: 0.2596, z: -0.0547}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1481970087}
@@ -987,7 +987,7 @@ MonoBehaviour:
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
   m_AngularVelocityScale: 1
-  m_TrackPosition: 1
+  m_TrackPosition: 0
   m_SmoothPosition: 0
   m_SmoothPositionAmount: 5
   m_TightenPosition: 0.5
@@ -1096,6 +1096,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   GasFireController: {fileID: 0}
+  HeatingPowerController: {fileID: 0}
   repeatRate: 0.1
 --- !u!1 &8151670928786331547
 GameObject:
@@ -1333,7 +1334,6 @@ MonoBehaviour:
   UpperPosition: {fileID: 5837867029327122918}
   LowerPosition: {fileID: 3826480958507398518}
   hinge: {fileID: 1721764246616252871}
-  CookedVFX: {fileID: 5515682357018950290, guid: 82c4640578e1e244b886c57e252e2afb, type: 3}
   UpSFX: {fileID: 9139433469316536031}
   DownSFX: {fileID: 6517731976643172353}
   TickSFX: {fileID: 1196644790828465099}

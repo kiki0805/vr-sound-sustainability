@@ -12,6 +12,7 @@ public class HingeJointListener: MonoBehaviour
     public UnityEvent StartMove;
     public UnityEvent StopMove;
     public GasFire GasFireController;
+    public HeatingField HeatingPowerController;
     float lastAngle;
     bool moving = false;
     public float repeatRate = 0.5f;
@@ -60,7 +61,9 @@ public class HingeJointListener: MonoBehaviour
             lastAngle = hinge.angle;
             if (GasFireController != null)
             {
-                GasFireController.SetSpeed((hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min));
+                var speed = (hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min);
+                GasFireController.SetSpeed(speed);
+                HeatingPowerController.HeatingSpeed = speed;
             }
         }
         if (hinge.velocity > 0 && !moving)

@@ -6,7 +6,7 @@ TagManager:
   tags:
   - Plate
   - Food
-  - Cooked
+  - HeatingField
   layers:
   - Default
   - TransparentFX

@@ -9,7 +9,6 @@ public class Toaster : MonoBehaviour
     public Transform UpperPosition;
     public Transform LowerPosition;
     public HingeJoint hinge;
-    public GameObject CookedVFX;
     public AudioSource UpSFX;
     public AudioSource DownSFX;
     public AudioSource TickSFX;
@@ -74,7 +73,6 @@ public class Toaster : MonoBehaviour
 
     public void SetTime()
     {
-        Debug.Log("Try to set time");
         // 10-30s mapping to 30-180 degrees
         if (hinge.angle < 20)
         {
@@ -83,12 +81,10 @@ public class Toaster : MonoBehaviour
         hinge.useSpring = false;
         StartCooking();
         remainedTime = (hinge.angle / 180f) * 5 + 5; // 5-10s
-        Debug.Log($"Remained {remainedTime}");
     }
 
     void StartCooking()
     {
-        Debug.Log("Start cooking");
         DownSFX.Play();
         TickSFX.Play();
         movingHandle = true;
@@ -97,7 +93,6 @@ public class Toaster : MonoBehaviour
 
     void FinishCooking()
     {
-        Debug.Log("Finish cooking");
         UpSFX.Play();
         TickSFX.Stop();
         DingSFX.Play();
@@ -108,9 +103,9 @@ public class Toaster : MonoBehaviour
         foreach (IXRSelectInteractable toast in toasts)
         {
             Transform toastObject = toast.transform;
-            if (toastObject.gameObject.tag == "Cooked") continue;
-            GameObject cookedVFX = Instantiate(CookedVFX, toastObject, false) as GameObject;
-            toastObject.gameObject.tag = "Cooked";
+            Food food = toastObject.gameObject.GetComponent<Food>();
+            if (food.Cooked) continue;
+            food.Cooked = true;
         }
     }
 }
