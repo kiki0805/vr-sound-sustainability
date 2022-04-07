@@ -36,7 +36,7 @@ public class Food : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (cooking & !Cooked)
+        if (cooking && !Cooked)
         {
             currentCookedTime += (Time.deltaTime * heatingField.HeatingSpeed);
             if (currentCookedTime >= RequiredCookingTime)
