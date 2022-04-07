@@ -80,7 +80,7 @@ public class Toaster : MonoBehaviour
         }
         hinge.useSpring = false;
         StartCooking();
-        remainedTime = (hinge.angle / 180f) * 5 + 5; // 5-10s
+        remainedTime = (hinge.angle / 180f) * 20 + 10; // 10-30s
     }
 
     void StartCooking()

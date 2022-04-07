@@ -8,16 +8,29 @@ public class MyGrabInteractable : XRGrabInteractable
     public Transform RightAttach;
     public Transform LeftAttach;
 
-    void OnSelectEntering(SelectEnterEventArgs args)
+    // void OnSelectEntering(SelectEnterEventArgs args)
+    // {
+    //     if (args.interactorObject.transform.gameObject.name == "RightHand Controller")
+    //     {
+    //         args.interactableObject.attachTransform = RightAttach;
+    //         // args.interactorObject.attachTransform = RightAttach;
+    //     }
+    //     else
+    //     {
+    //         args.interactableObject.attachTransform = LeftAttach;
+    //         // args.interactorObject.attachTransform = LeftAttach;
+    //     }
+    //     base.OnSelectEntering(args);
+    // }
+    public Transform GetAttachTransform(IXRInteractor interactor)
     {
-        if (args.interactorObject.transform.gameObject.name == "RightHand Controller")
+        if (interactor.transform.gameObject.name == "RightHand Controller")
         {
-            attachTransform = RightAttach;
+            return RightAttach;
         }
         else
         {
-            attachTransform = LeftAttach;
+            return LeftAttach;
         }
-        base.OnSelectEntering(args);
     }
 }

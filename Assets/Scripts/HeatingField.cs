@@ -4,32 +4,19 @@ using UnityEngine;
 
 public class HeatingField : MonoBehaviour
 {
-    public float HeatingSpeed = 1; // 0 - 1
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    public bool Heating = true;
+    public float heatingSpeed = 0; // 0-1
+    public float HeatingSpeed {
+        get {
+            if (Heating)
+            {
+                return heatingSpeed;
+            }
+            return 0;
+        }
+
+        set {
+            heatingSpeed = value;
+        }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    // private void OnTriggerEnter(Collider other) {
-    //     Debug.Log("trigger enter in heating field");
-    // }
-
-    // private void OnTriggerExit(Collider other) {
-    //     Debug.Log("trigger exit in heating filed");
-    // }
-
-    // void OnCollisionEnter(Collision other) {
-    //     Debug.Log("collision enter in heating field");
-    // }
-
-    // void OnCollisionExit(Collision other) {
-    //     Debug.Log("collision exit in heating field");
-    // }
 }

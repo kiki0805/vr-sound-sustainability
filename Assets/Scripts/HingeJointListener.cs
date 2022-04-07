@@ -59,10 +59,13 @@ public class HingeJointListener: MonoBehaviour
         if (Mathf.Round(hinge.angle - lastAngle) != 0)
         {
             lastAngle = hinge.angle;
+            var speed = (hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min);
             if (GasFireController != null)
             {
-                var speed = (hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min);
                 GasFireController.SetSpeed(speed);
+            }
+            if (HeatingPowerController != null)
+            {
                 HeatingPowerController.HeatingSpeed = speed;
             }
         }
