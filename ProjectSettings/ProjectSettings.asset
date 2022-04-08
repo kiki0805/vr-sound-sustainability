@@ -593,7 +593,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    7: UIKIT_XR_INTERACTION;UIKIT_TMP
+    7: UIKIT_XR_INTERACTION;UIKIT_TMP;VRCONCEPT_OCULUS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
