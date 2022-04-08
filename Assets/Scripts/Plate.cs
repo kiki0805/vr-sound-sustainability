@@ -51,7 +51,6 @@ public class Plate : MonoBehaviour
         if (other.gameObject.tag == "Food" && !underUsing)
         {
             underUsing = true;
-            Debug.Log("being touched by food");
         }
     }
 
@@ -59,7 +58,6 @@ public class Plate : MonoBehaviour
         if (other.gameObject.tag == "Food" && underUsing)
         {
             underUsing = false;
-            Debug.Log("leave food");
         }
     }
 }
