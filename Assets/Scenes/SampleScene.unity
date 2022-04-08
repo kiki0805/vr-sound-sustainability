@@ -17426,77 +17426,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1079701786}
     m_Modifications:
-    - target: {fileID: 1196644790828465099, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1196644790828465099, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1196644790828465099, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1721764246616252871, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: m_Limits.max
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 6517731976643172353, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6517731976643172353, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6517731976643172353, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7749041039351235942, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7749041039351235942, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7749041039351235942, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8411154766180842219, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
       propertyPath: m_Name
       value: Toaster
-      objectReference: {fileID: 0}
-    - target: {fileID: 8411154766180842219, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8830626473106125426, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8830626473106125426, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8830626473106125426, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 9139433469316536031, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 9139433469316536031, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 9139433469316536031, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9219356751650529361, guid: f91dcb178ea950e43aeef6a388db6b8c, type: 3}
       propertyPath: m_RootOrder
@@ -32013,10 +31945,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dishwasher
       objectReference: {fileID: 0}
-    - target: {fileID: 5977730285684159920, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6466881725618990858, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -32060,42 +31988,6 @@ PrefabInstance:
     - target: {fileID: 6466881725618990858, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6627856623016091846, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: m_ConnectedAnchor.x
-      value: -0.63
-      objectReference: {fileID: 0}
-    - target: {fileID: 6627856623016091846, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: m_ConnectedAnchor.y
-      value: 0.10692704
-      objectReference: {fileID: 0}
-    - target: {fileID: 6627856623016091846, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: m_ConnectedAnchor.z
-      value: -0.41799998
-      objectReference: {fileID: 0}
-    - target: {fileID: 6914168488684414177, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6914168488684414177, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6914168488684414177, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7726453096437792760, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: Spatialize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7726453096437792760, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: SpatializePostEffects
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7726453096437792760, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
-      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
