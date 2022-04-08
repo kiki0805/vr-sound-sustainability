@@ -697,7 +697,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 620449969}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -1073,7 +1073,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1265635467}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -1303,7 +1303,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 29354656}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -1946,7 +1946,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1488067818}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -2581,7 +2581,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 540432869}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -3385,7 +3385,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 981326459}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -4571,7 +4571,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1846554076}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -4981,7 +4981,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 91271691}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -7530,7 +7530,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1098434687}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -8663,7 +8663,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1606693193}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -9957,7 +9957,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1898409960}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -10605,7 +10605,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 112574063}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -11188,7 +11188,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 664930105}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -11878,7 +11878,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1743917716}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -12629,7 +12629,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 864019843}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -12954,7 +12954,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1943709455}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -13303,7 +13303,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1479223170}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -14361,7 +14361,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 798206972}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -14940,7 +14940,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 3506829}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -24688,7 +24688,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1954232615}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -29284,7 +29284,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 18515089}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -31462,7 +31462,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1422356466}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -35405,7 +35405,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1153343568}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 0
+  m_MovementType: 1
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
