@@ -727,7 +727,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -1245,7 +1245,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -5.2723446, y: 1.0456, z: -0.89120007}
+  m_ConnectedAnchor: {x: -5.2723446, y: 1.0456, z: -0.8912}
   m_UseSpring: 0
   m_Spring:
     spring: 10
@@ -1762,7 +1762,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.14, z: 0}
   m_Axis: {x: 0, y: 1, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -5.7028446, y: 1.087, z: -0.85140014}
+  m_ConnectedAnchor: {x: -5.7028446, y: 1.087, z: -0.8514}
   m_UseSpring: 1
   m_Spring:
     spring: 0
@@ -2176,7 +2176,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -5.273645, y: 1.1243, z: -0.89120007}
+  m_ConnectedAnchor: {x: -5.273645, y: 1.1243, z: -0.8912}
   m_UseSpring: 0
   m_Spring:
     spring: 0

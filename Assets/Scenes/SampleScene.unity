@@ -697,7 +697,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 620449969}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -1327,7 +1327,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1265635467}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -1557,7 +1557,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 29354656}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -2200,7 +2200,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1488067818}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -3478,7 +3478,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 540432869}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -3932,6 +3932,14 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 884caf91d433ae34b9e85813cda438e6, type: 3}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
 --- !u!4 &435897420 stripped
@@ -4282,7 +4290,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 981326459}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -4711,6 +4719,14 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 60bfb5c3367a03d4a9be160b1bf0e39c, type: 3}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
 --- !u!4 &483719650 stripped
@@ -5468,7 +5484,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1846554076}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -5878,7 +5894,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 91271691}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -8576,7 +8592,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1098434687}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -9880,7 +9896,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1606693193}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -11221,7 +11237,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1898409960}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -11869,7 +11885,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 112574063}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -12586,7 +12602,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 664930105}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -13170,6 +13186,14 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: cf96a68f46ff9db47ad6dc44b7a7642a, type: 3}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
 --- !u!4 &1611231614 stripped
@@ -13342,7 +13366,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1743917716}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -13541,6 +13565,14 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 13bcb57f9dcafa44e9b2a6c9569da586, type: 3}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
 --- !u!4 &1613716446 stripped
@@ -14093,7 +14125,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 864019843}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -14418,7 +14450,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1943709455}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -14588,6 +14620,50 @@ Transform:
   m_Father: {fileID: 1613154375}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1764013481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1764013482}
+  - component: {fileID: 1764013483}
+  m_Layer: 0
+  m_Name: Handle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1764013482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1764013481}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0159, z: 0.2549}
+  m_LocalScale: {x: 0.35847387, y: 0.15343, z: 2.0736637}
+  m_Children: []
+  m_Father: {fileID: 3686888656831017839}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1764013483
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1764013481}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.1, y: 0.1, z: 0.1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1778091735
 GameObject:
   m_ObjectHideFlags: 0
@@ -14767,7 +14843,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1479223170}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -15868,6 +15944,14 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 0ac83231264a71d40857d55713d47c2a, type: 3}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
 --- !u!4 &1965635269 stripped
@@ -16389,7 +16473,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 798206972}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -17104,7 +17188,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 3506829}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -18960,20 +19044,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 271141908100312380}
   m_Mesh: {fileID: 8514850251566964880, guid: 9268065b65ca15e419a0e72aa3b71713, type: 3}
---- !u!64 &563816040555136500
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4062709893950613973}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4648536209024913782, guid: 005170f3a3ed2184c84075a048862837, type: 3}
 --- !u!4 &564707686731570187
 Transform:
   m_ObjectHideFlags: 0
@@ -21935,6 +22005,18 @@ PrefabInstance:
       propertyPath: m_Limits.min
       value: -180
       objectReference: {fileID: 0}
+    - target: {fileID: 1684977801919301562, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -5.2730446
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684977801919301562, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 1.1247001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684977801919301562, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.89120007
+      objectReference: {fileID: 0}
     - target: {fileID: 1764220817226290603, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
       propertyPath: m_Limits.max
       value: 0
@@ -21942,6 +22024,18 @@ PrefabInstance:
     - target: {fileID: 1764220817226290603, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
       propertyPath: m_Limits.min
       value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 1764220817226290603, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -5.2730446
+      objectReference: {fileID: 0}
+    - target: {fileID: 1764220817226290603, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 1.0457001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1764220817226290603, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.89120007
       objectReference: {fileID: 0}
     - target: {fileID: 1866599651879539009, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22162,6 +22256,10 @@ PrefabInstance:
     - target: {fileID: 6390041298539193325, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
       propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7710360840881262522, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.85140014
       objectReference: {fileID: 0}
     - target: {fileID: 7852430169312447003, guid: 71092f7feb5bbb44aa94fe0466f2785b, type: 3}
       propertyPath: DetachMaxLimit.m_PersistentCalls.m_Calls.Array.size
@@ -23037,6 +23135,14 @@ PrefabInstance:
     - target: {fileID: 1495309537065706706, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: SpatializePostEffects
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1495309537065706707, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d1468598fd704f91bbbb6bb226e75, type: 3}
@@ -27992,7 +28098,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1954232615}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -28454,6 +28560,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1056472163}
+  - {fileID: 1764013482}
   m_Father: {fileID: 1079701786}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
@@ -29476,9 +29583,9 @@ GameObject:
   - component: {fileID: 3686888656831017839}
   - component: {fileID: 325858027542117578}
   - component: {fileID: 2549417200042346496}
-  - component: {fileID: 563816040555136500}
   - component: {fileID: 4062709893950613975}
   - component: {fileID: 4062709893950613974}
+  - component: {fileID: 4062709893950613976}
   m_Layer: 0
   m_Name: Pan_07_C2
   m_TagString: Untagged
@@ -29499,7 +29606,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_InteractionManager: {fileID: 1457270639}
-  m_Colliders: []
+  m_Colliders:
+  - {fileID: 4062709893950613976}
+  - {fileID: 1764013483}
   m_InteractionLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -29617,6 +29726,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &4062709893950613976
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4062709893950613973}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.27923307, y: 0.023630826, z: 0.28402057}
+  m_Center: {x: -0.00000011920929, y: 0.011815394, z: 0.0023937076}
 --- !u!33 &4069373637867116932
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -29828,20 +29950,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4175918836364638158
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6884259623802196714}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -3397341725708905156, guid: d0608e0d72bbe9447984611802dc4456, type: 3}
 --- !u!1 &4178308503005414413
 GameObject:
   m_ObjectHideFlags: 0
@@ -32605,7 +32713,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 18515089}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -32898,20 +33006,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1291716339620752811}
   m_Mesh: {fileID: 4382231620917831794, guid: 9268065b65ca15e419a0e72aa3b71713, type: 3}
---- !u!64 &5098016749753320786
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6375914940450328866}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 6351943486802644566, guid: d9f85be110f69d347a04df1c3b6bb3b6, type: 3}
 --- !u!64 &5105889397152253110
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -34783,7 +34877,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1422356466}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -35309,6 +35403,14 @@ PrefabInstance:
     - target: {fileID: 6466881725618990858, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627856623016091846, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.10692704
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627856623016091846, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.41799998
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 888b76e2f107e024d9deb8e7aff7cf7c, type: 3}
@@ -36924,9 +37026,9 @@ GameObject:
   - component: {fileID: 5994322405434428312}
   - component: {fileID: 7250733701436965949}
   - component: {fileID: 4862533734765326583}
-  - component: {fileID: 5098016749753320786}
   - component: {fileID: 6375914940450328868}
   - component: {fileID: 6375914940450328867}
+  - component: {fileID: 6375914940450328869}
   m_Layer: 0
   m_Name: CuttingBoard_02
   m_TagString: Untagged
@@ -37065,6 +37167,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &6375914940450328869
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6375914940450328866}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.39999998, y: 0.010000041, z: 0.25}
+  m_Center: {x: 0, y: 0.005, z: 0}
 --- !u!23 &6381531013912961990
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38449,9 +38564,9 @@ GameObject:
   - component: {fileID: 6107475981255772240}
   - component: {fileID: 7164600966656034805}
   - component: {fileID: 4938533267971568447}
-  - component: {fileID: 4175918836364638158}
   - component: {fileID: 6884259623802196716}
   - component: {fileID: 6884259623802196715}
+  - component: {fileID: 6884259623802196717}
   m_Layer: 0
   m_Name: Knife_03
   m_TagString: Untagged
@@ -38590,6 +38705,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &6884259623802196717
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6884259623802196714}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03271976, y: 0.012846413, z: 0.28144702}
+  m_Center: {x: 0.005193112, y: -0.0000000013969839, z: -0.085899495}
 --- !u!1 &6890228204960546626
 GameObject:
   m_ObjectHideFlags: 0
@@ -38726,7 +38854,7 @@ MonoBehaviour:
       m_Calls: []
   m_AttachTransform: {fileID: 1153343568}
   m_AttachEaseInTime: 0.15
-  m_MovementType: 1
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
