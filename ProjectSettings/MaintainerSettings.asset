@@ -81,6 +81,41 @@ MonoBehaviour:
       kind: 3
       value: .preset
       exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/GUIPack-Clean&Minimalist
+      exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/Oculus
+      exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/LowPolyInterior2
+      exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/UIKits
+      exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/VRConceptUI
+      exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/TextMesh Pro
+      exactMatch: 0
+    - enabled: 1
+      ignoreCase: 0
+      kind: 1
+      value: Assets/low_poly_food
+      exactMatch: 0
     pathIncludesFilters: []
     sceneIgnoresFilters: []
     ignoreScenesInBuild: 1
