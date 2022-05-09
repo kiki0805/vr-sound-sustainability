@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class LightingSwitch : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class LightingSwitch : MonoBehaviour
     public bool lightEnabled = false;
     public AudioSource OnSound;
     public AudioSource OffSound;
+    public UnityEvent LightOnEvent;
+    public UnityEvent LightOffEvent;
     Vector3 eulerRotation;
     Color onColor = new Color(191f / 255f, 156f / 255f, 120f / 255f);
     Color offColor = new Color(16f / 255f, 13f / 255f, 10f / 255f);
@@ -52,6 +55,7 @@ public class LightingSwitch : MonoBehaviour
                 material.SetColor("_EmissionColor", onColor);
             }
             OnSound.Play();
+            LightOnEvent.Invoke();
         }
         else
         {
@@ -64,6 +68,7 @@ public class LightingSwitch : MonoBehaviour
                 material.SetColor("_EmissionColor", offColor);
             }
             OffSound.Play();
+            LightOffEvent.Invoke();
         }
         GetComponent<Light>().enabled = !lightEnabled;
     }

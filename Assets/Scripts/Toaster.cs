@@ -13,6 +13,7 @@ public class Toaster : MonoBehaviour
     public AudioSource DownSFX;
     public AudioSource TickSFX;
     public AudioSource DingSFX;
+    public SynthParamController controller;
 
     List<IXRSelectInteractable> toasts = new List<IXRSelectInteractable>();
     float t = 0;
@@ -81,12 +82,14 @@ public class Toaster : MonoBehaviour
         hinge.useSpring = false;
         StartCooking();
         remainedTime = (hinge.angle / 180f) * 20 + 10; // 10-30s
+        controller.TuneParam(hinge.angle / 180f);
     }
 
     void StartCooking()
     {
         DownSFX.Play();
         TickSFX.Play();
+        controller.PlayNotes();
         movingHandle = true;
         moveUpwards = false;
     }

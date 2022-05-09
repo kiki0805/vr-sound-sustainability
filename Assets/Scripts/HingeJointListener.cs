@@ -13,6 +13,7 @@ public class HingeJointListener: MonoBehaviour
     public UnityEvent StopMove;
     public GasFire GasFireController;
     public HeatingField HeatingPowerController;
+    public SynthParamController controller;
     float lastAngle;
     bool moving = false;
     public float repeatRate = 0.5f;
@@ -63,10 +64,16 @@ public class HingeJointListener: MonoBehaviour
             if (GasFireController != null)
             {
                 GasFireController.SetSpeed(speed);
+                if (controller != null) {
+                    controller.TuneParam(speed);
+                }
             }
             if (HeatingPowerController != null)
             {
                 HeatingPowerController.HeatingSpeed = speed;
+            }
+            if (controller != null) {
+                controller.TuneFreq(speed);
             }
         }
         if (hinge.velocity > 0 && !moving)

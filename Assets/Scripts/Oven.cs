@@ -8,9 +8,10 @@ public class Oven : MonoBehaviour
     public AudioSource OvenSound;
     public AudioSource FinishSound;
     public HingeJoint hinge;
-    public float MinTime = 15;
-    public float MaxTime = 40;
+    public float MinTime = 5;//15;
+    public float MaxTime = 7;//40;
     float remainedTime = 0;
+    public SynthParamController controller;
     // Start is called before the first frame update
     void Start()
     {
@@ -36,10 +37,12 @@ public class Oven : MonoBehaviour
     public void SetTime()
     {
         float pct = (hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min);
+        controller.TuneDecay(pct);
         if (pct < 0.1) return;
         remainedTime = (MaxTime - MinTime) * pct + MinTime;
         OvenHeatingField.Heating = true;
         OvenSound.Play();
+        controller.PlayNotes();
         Debug.Log("setTime");
     }
 
