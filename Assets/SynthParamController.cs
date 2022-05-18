@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class SynthParamController : MonoBehaviour
 {
     AudioHelm.HelmController controller;
+    AudioSource audioSource;
     public List<int> midiNotes;
 
     public bool OSC1Tune = false; // -100 to 100
@@ -12,18 +14,57 @@ public class SynthParamController : MonoBehaviour
     public bool AmpDecay = false; // 1s to 4s
     public bool OSC1Trans = false; // 0 to 15
     public bool auto = false;
+    public int interval = 3; // default: 0.3
+    public bool logOn = false;
+    bool mute = false;
+    bool soundOn = false;
     float elapsedTime = 0;
+    float realElapsedTime = 0;
+    float lastTimeMute = 0;
 
     // Start is called before the first frame update
     void Start()
     {
         controller = GetComponent<AudioHelm.HelmController>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update() {
+        realElapsedTime += Time.deltaTime;
         if (auto) {
             elapsedTime += Time.deltaTime;
             TuneParam(Mathf.Min(elapsedTime / 10f, 1));
+        }
+
+        if (logOn) {
+            Debug.LogChanges(() => realElapsedTime);
+            Debug.Log((int)realElapsedTime % interval);
+        }
+        if (((int)realElapsedTime % interval == 0) && (realElapsedTime - lastTimeMute) > 2f) {
+            mute = !mute;
+            
+            // audioSource.mute = !audioSource.mute;
+            lastTimeMute = realElapsedTime;
+            if (logOn) {
+                Debug.Log("mute switch");
+            }
+
+            if (!soundOn) {
+                return;
+            }
+
+            if (mute) {
+                for (int i = 0; i < midiNotes.Count; i++) {
+                    controller.NoteOff(midiNotes[i]);
+                }
+            }
+            else {
+                for (int i = 0; i < midiNotes.Count; i++) {
+                    controller.NoteOn(midiNotes[i]);
+                }
+            }
+
+
         }
     }
 
@@ -65,12 +106,17 @@ public class SynthParamController : MonoBehaviour
     }
 
     public void NotesOff() {
+        soundOn = false;
         for (int i = 0; i < midiNotes.Count; i++) {
             controller.NoteOff(midiNotes[i]);
         }
     }
 
     public void NotesOn() {
+        soundOn = true;
+        if (mute) {
+            return;
+        }
         for (int i = 0; i < midiNotes.Count; i++) {
             controller.NoteOn(midiNotes[i]);
         }
