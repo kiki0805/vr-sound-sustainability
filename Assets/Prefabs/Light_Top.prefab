@@ -268,7 +268,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2133453683597429066}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.769, y: 0.855, z: -2.644}
+  m_LocalPosition: {x: -0.769, y: 1.373, z: -2.644}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1643915563934981170}
@@ -709,6 +709,12 @@ MonoBehaviour:
   lightEnabled: 0
   OnSound: {fileID: 1827455101080432335}
   OffSound: {fileID: 4623339039672492481}
+  LightOnEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  LightOffEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &8735902735814262466
 MonoBehaviour:
   m_ObjectHideFlags: 0
