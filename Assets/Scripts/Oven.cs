@@ -10,6 +10,7 @@ public class Oven : MonoBehaviour
     public HingeJoint hinge;
     public float MinTime = 5;//15;
     public float MaxTime = 7;//40;
+    private bool pause = false;
     float remainedTime = 0;
     public SynthParamController controller;
     // Start is called before the first frame update
@@ -21,7 +22,7 @@ public class Oven : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (remainedTime > 0)
+        if (remainedTime > 0 && !pause)
         {
             remainedTime -= Time.deltaTime;
             if (remainedTime <= 0)
@@ -30,7 +31,23 @@ public class Oven : MonoBehaviour
                 OvenSound.Stop();
                 FinishSound.Play();
                 hinge.useSpring = true;
+                remainedTime = 0;
             }
+        }
+    }
+
+    public void Pause() {
+        if (remainedTime == 0) {
+            return;
+        }
+        if (pause) {
+            pause = false;
+            OvenSound.Play();
+            Debug.Log("Recover");
+        } else {
+            pause = true;
+            OvenSound.Pause();
+            Debug.Log("Pause");
         }
     }
 
@@ -40,11 +57,14 @@ public class Oven : MonoBehaviour
         if (pct < 0.1 && !controller.reversePct) return;
         if (pct > 0.9 && controller.reversePct) return;
         controller.TuneRelease(pct);
-        remainedTime = (MaxTime - MinTime) * pct + MinTime;
-        OvenHeatingField.Heating = true;
-        OvenSound.Play();
+        if (remainedTime == 0) {
+            OvenHeatingField.Heating = true;
+            if (!pause) {
+                OvenSound.Play();
+            }
+        }
         controller.PlayNotes();
+        remainedTime = (MaxTime - MinTime) * pct + MinTime;
         Debug.Log("setTime");
     }
-
 }
