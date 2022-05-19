@@ -37,8 +37,9 @@ public class Oven : MonoBehaviour
     public void SetTime()
     {
         float pct = (hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min);
-        controller.TuneDecay(pct);
-        if (pct < 0.1) return;
+        if (pct < 0.1 && !controller.reversePct) return;
+        if (pct > 0.9 && controller.reversePct) return;
+        controller.TuneRelease(pct);
         remainedTime = (MaxTime - MinTime) * pct + MinTime;
         OvenHeatingField.Heating = true;
         OvenSound.Play();

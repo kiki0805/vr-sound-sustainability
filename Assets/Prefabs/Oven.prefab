@@ -862,11 +862,13 @@ MonoBehaviour:
   midiNotes: 34000000
   OSC1Tune: 0
   ARPFreq: 1
-  AmpDecay: 0
+  AmpRelease: 0
   OSC1Trans: 0
   auto: 0
   interval: 3
   logOn: 0
+  reversePct: 0
+  forceRelease: -1
 --- !u!1 &1606003944713177135
 GameObject:
   m_ObjectHideFlags: 0
@@ -1058,11 +1060,13 @@ MonoBehaviour:
   midiNotes: 35000000
   OSC1Tune: 0
   ARPFreq: 1
-  AmpDecay: 0
+  AmpRelease: 0
   OSC1Trans: 0
   auto: 0
   interval: 3
   logOn: 0
+  reversePct: 0
+  forceRelease: -1
 --- !u!1 &1647985617905041680
 GameObject:
   m_ObjectHideFlags: 0
@@ -7504,11 +7508,13 @@ MonoBehaviour:
   midiNotes: 32000000
   OSC1Tune: 0
   ARPFreq: 1
-  AmpDecay: 0
+  AmpRelease: 0
   OSC1Trans: 0
   auto: 0
   interval: 3
   logOn: 0
+  reversePct: 0
+  forceRelease: -1
 --- !u!1 &3897908255732852766
 GameObject:
   m_ObjectHideFlags: 0
@@ -24025,11 +24031,13 @@ MonoBehaviour:
   midiNotes: 24000000
   OSC1Tune: 0
   ARPFreq: 0
-  AmpDecay: 1
+  AmpRelease: 1
   OSC1Trans: 1
   auto: 0
   interval: 3
   logOn: 0
+  reversePct: 1
+  forceRelease: -1
 --- !u!1 &6635477078969752940
 GameObject:
   m_ObjectHideFlags: 0
@@ -24429,11 +24437,13 @@ MonoBehaviour:
   midiNotes: 30000000
   OSC1Tune: 0
   ARPFreq: 1
-  AmpDecay: 0
+  AmpRelease: 0
   OSC1Trans: 0
   auto: 0
   interval: 3
   logOn: 0
+  reversePct: 0
+  forceRelease: -1
 --- !u!1 &7538922985972508460
 GameObject:
   m_ObjectHideFlags: 0
