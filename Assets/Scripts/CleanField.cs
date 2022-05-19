@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class CleanField : MonoBehaviour
 {
+    public float duration = 20;
     private List<Plate> plates;
+    private float elapsedTime = 0;
+    private bool running = false;
+    public AudioSource runningSound;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -14,7 +19,30 @@ public class CleanField : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (running) {
+            elapsedTime += Time.deltaTime;
+            if (elapsedTime > duration) {
+                CleanPlates();
+                StopCleaning();
+            }
+        }
+    }
+
+    public void StartCleaning() {
+        if (running) {
+            return;
+        }
+        running = true;
+        runningSound.Play();
+    }
+
+    public void StopCleaning() {
+        if (!running) {
+            return;
+        }
+        running = false;
+        elapsedTime = 0;
+        runningSound.Stop();
     }
 
     public void CleanPlates()
