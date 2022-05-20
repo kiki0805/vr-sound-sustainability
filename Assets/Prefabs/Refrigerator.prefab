@@ -98,6 +98,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3639749598945570150}
   - component: {fileID: 1399715387645698606}
+  - component: {fileID: 6853687115911769921}
   m_Layer: 0
   m_Name: Audio Source Close Upper
   m_TagString: Untagged
@@ -215,6 +216,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &6853687115911769921
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1056148905015457929}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &1155232806233862814
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,7 +268,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 533b9e3f2b02f60449dd7ae1c90e83b5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.659
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -473,7 +483,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 533b9e3f2b02f60449dd7ae1c90e83b5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.659
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1086,6 +1096,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8754052291119544381}
   - component: {fileID: 1537737363976876801}
+  - component: {fileID: 5428176521570570178}
   m_Layer: 0
   m_Name: Audio Source Open Upper
   m_TagString: Untagged
@@ -1203,6 +1214,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &5428176521570570178
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2036079176077184593}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &2427912112259093841
 GameObject:
   m_ObjectHideFlags: 0
@@ -1433,6 +1453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4936762948790562901}
   - component: {fileID: 393296067560849138}
+  - component: {fileID: 1041898319615470442}
   m_Layer: 0
   m_Name: Audio Source Close Lower
   m_TagString: Untagged
@@ -1550,6 +1571,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &1041898319615470442
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3628537583324162413}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &3854187297124541548
 GameObject:
   m_ObjectHideFlags: 0
@@ -1593,7 +1623,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 533b9e3f2b02f60449dd7ae1c90e83b5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.659
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -4147,6 +4177,7 @@ GameObject:
   m_Component:
   - component: {fileID: 885448824871316750}
   - component: {fileID: 6040300307473973092}
+  - component: {fileID: 827291086928660696}
   m_Layer: 0
   m_Name: Audio Source Open Lower
   m_TagString: Untagged
@@ -4264,6 +4295,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &827291086928660696
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6691177962925533222}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &6852657875000221318
 GameObject:
   m_ObjectHideFlags: 0
@@ -5117,7 +5157,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 533b9e3f2b02f60449dd7ae1c90e83b5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.659
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5299,6 +5339,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3959904765635270093}
   - component: {fileID: 9067673700387011883}
+  - component: {fileID: 4458884364617534415}
   m_Layer: 0
   m_Name: Audio Source
   m_TagString: Untagged
@@ -5416,6 +5457,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &4458884364617534415
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8173213507716381251}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &8568577533880704179
 GameObject:
   m_ObjectHideFlags: 0

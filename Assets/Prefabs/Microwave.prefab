@@ -828,7 +828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e088e3d17ec7ea24b8c97c045009a3b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  midiNotes: 3c000000
+  midiNotes: 30000000
   OSC1Tune: 0
   ARPFreq: 0
   AmpRelease: 1
