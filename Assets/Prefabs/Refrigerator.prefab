@@ -2307,7 +2307,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.52, z: 0}
   m_Axis: {x: 0, y: 1, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -0.78800005, y: 1.3558254, z: -3.9710004}
+  m_ConnectedAnchor: {x: -0.78800005, y: 1.3558254, z: -3.9710002}
   m_UseSpring: 1
   m_Spring:
     spring: 0
@@ -2669,7 +2669,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.37, z: 0}
   m_Axis: {x: 0, y: 1, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -0.78800005, y: 0.43082547, z: -3.9710004}
+  m_ConnectedAnchor: {x: -0.78800005, y: 0.43082547, z: -3.9710002}
   m_UseSpring: 1
   m_Spring:
     spring: 0
@@ -3840,7 +3840,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6646964136227691046}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.24399997, y: 0.38899994, z: 0.635}
+  m_LocalPosition: {x: -0.24399997, y: 1.266, z: 0.635}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5474549014496239281}
@@ -5339,7 +5339,7 @@ AudioSource:
   Spatialize: 1
   SpatializePostEffects: 1
   Priority: 128
-  DopplerLevel: 1
+  DopplerLevel: 0
   MinDistance: 1
   MaxDistance: 500
   Pan2D: 0

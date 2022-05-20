@@ -493,8 +493,13 @@ MonoBehaviour:
   midiNotes: 3c000000
   OSC1Tune: 0
   ARPFreq: 0
-  AmpDecay: 1
+  AmpRelease: 0
   OSC1Trans: 0
+  auto: 0
+  interval: 3
+  logOn: 0
+  reversePct: 0
+  forceRelease: -1
 --- !u!1 &593812542439793669
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,7 +636,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962501935444186216}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.078, z: 0}
+  m_LocalPosition: {x: 0.148, y: 0.129, z: -0}
   m_LocalScale: {x: 0.99999976, y: 1, z: 0.99999976}
   m_Children: []
   m_Father: {fileID: 9219356751650529361}
@@ -1290,6 +1295,7 @@ MonoBehaviour:
       m_Calls: []
   GasFireController: {fileID: 0}
   HeatingPowerController: {fileID: 0}
+  controller: {fileID: 0}
   repeatRate: 0.1
 --- !u!1 &8151670928786331547
 GameObject:
@@ -1316,7 +1322,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8151670928786331547}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.078, z: 0}
+  m_LocalPosition: {x: 0.148, y: 0.129, z: -0}
   m_LocalScale: {x: 0.99999976, y: 1, z: 0.99999976}
   m_Children: []
   m_Father: {fileID: 9219356751650529361}

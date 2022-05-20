@@ -4,6 +4,13 @@ using UnityEngine;
 using UnityEngine.XR;
 using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.InputSystem;
+using UnityEngine.Audio;
+
+public enum Group {
+    Group1,
+    Group2,
+    Group3,
+}
 
 public class ExperimentManager : MonoBehaviour
 {
@@ -11,13 +18,16 @@ public class ExperimentManager : MonoBehaviour
     public GameObject RayInteractor;
     public GameObject MenuObject;
     public InputActionReference ControllerPressReference;
+    public Group currentGroup;
+    public AudioMixerSnapshot group1Snapshot;
+    public AudioMixerSnapshot group2Snapshot;
+    public AudioMixerSnapshot group3Snapshot;
 
-    // Start is called before the first frame update
     void Start()
     {
+        
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(ControllerPressReference.action.triggered)

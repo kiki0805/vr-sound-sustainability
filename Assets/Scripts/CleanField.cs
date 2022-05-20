@@ -34,6 +34,7 @@ public class CleanField : MonoBehaviour
         }
         running = true;
         runningSound.Play();
+        Debug.Log("play sounds");
     }
 
     public void StopCleaning() {
