@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5582301009876408596}
   - component: {fileID: 1292151167288994048}
+  - component: {fileID: 2040750234528803051}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -127,6 +128,70 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &2040750234528803051
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136333543942152073}
+  m_Enabled: 1
+  m_DistortionLevel: 0
+--- !u!1 &448557462951904315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3455120839068564688}
+  - component: {fileID: 2973526901111780111}
+  m_Layer: 0
+  m_Name: UsingCountMonitor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3455120839068564688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448557462951904315}
+  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
+  m_LocalPosition: {x: -4.369832, y: 0.0128388405, z: 3.642003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4782585016869971380}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2973526901111780111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448557462951904315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 248a61cc78d8cc147bd6f19d3e814128, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filters:
+  - {fileID: 2040750234528803051}
+  - {fileID: 1115880733852334861}
+  - {fileID: 3031271179916129297}
+  - {fileID: 4556976573308531740}
+  - {fileID: 7949017180522426414}
+  usingRef: 0
+  monitorDuration: 10
+  updateFreq: 0.5
+  maxUsingTime: 15
+  maxUsingCount: 4
+  maxDistortionLevel: 0.7
 --- !u!1 &493834534891988121
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,6 +417,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1724086074425722264}
   - component: {fileID: 6758242648964191513}
+  - component: {fileID: 7949017180522426414}
   m_Layer: 0
   m_Name: Audio Source Finish
   m_TagString: Untagged
@@ -469,6 +535,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &7949017180522426414
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532504865959121419}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &1720171142984118078
 GameObject:
   m_ObjectHideFlags: 0
@@ -848,6 +923,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4505767888430082975}
   - component: {fileID: 3403404204379907161}
+  - component: {fileID: 3031271179916129297}
   m_Layer: 0
   m_Name: Audio Source Rotate
   m_TagString: Untagged
@@ -965,6 +1041,66 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &3031271179916129297
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2527157741927012473}
+  m_Enabled: 1
+  m_DistortionLevel: 0
+--- !u!1 &2668502727458835940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7050256931773958008}
+  - component: {fileID: 1766789098360833987}
+  m_Layer: 0
+  m_Name: UsingTimeMonitor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7050256931773958008
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2668502727458835940}
+  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
+  m_LocalPosition: {x: -4.369832, y: 0.0128388405, z: 3.642003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4782585016869971380}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1766789098360833987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2668502727458835940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 248a61cc78d8cc147bd6f19d3e814128, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filters:
+  - {fileID: 1509119834173824192}
+  usingRef: 0
+  monitorDuration: 10
+  updateFreq: 0.5
+  maxUsingTime: 15
+  maxUsingCount: 4
+  maxDistortionLevel: 0.7
 --- !u!1 &3402520121268304402
 GameObject:
   m_ObjectHideFlags: 0
@@ -1498,6 +1634,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1766789098360833987}
+        m_TargetAssemblyTypeName: UsageMonitor, Assembly-CSharp
+        m_MethodName: RemoveUsingRefer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   DetachMinLimit:
     m_PersistentCalls:
       m_Calls: []
@@ -1507,6 +1655,30 @@ MonoBehaviour:
       - m_Target: {fileID: 4853719676734620883}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2973526901111780111}
+        m_TargetAssemblyTypeName: UsageMonitor, Assembly-CSharp
+        m_MethodName: UseOnce
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1766789098360833987}
+        m_TargetAssemblyTypeName: UsageMonitor, Assembly-CSharp
+        m_MethodName: AddUsingRefer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1565,6 +1737,8 @@ Transform:
   - {fileID: 6650309865627931992}
   - {fileID: 2699896642834781718}
   - {fileID: 4170052595964141671}
+  - {fileID: 3455120839068564688}
+  - {fileID: 7050256931773958008}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
@@ -2092,6 +2266,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2193313394457287101}
   - component: {fileID: 8618058531455588976}
+  - component: {fileID: 1115880733852334861}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -2209,6 +2384,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &1115880733852334861
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6246357428742874950}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &6860842599202281890
 GameObject:
   m_ObjectHideFlags: 0
@@ -2482,6 +2666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3075140278283427181}
   - component: {fileID: 4853719676734620883}
+  - component: {fileID: 4556976573308531740}
   m_Layer: 0
   m_Name: Audio Source Rotate (1)
   m_TagString: Untagged
@@ -2599,6 +2784,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &4556976573308531740
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7047678639290003516}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &7320309126359875616
 GameObject:
   m_ObjectHideFlags: 0
@@ -2609,6 +2803,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5087675620684172400}
   - component: {fileID: 2683504201035482717}
+  - component: {fileID: 1509119834173824192}
   m_Layer: 0
   m_Name: Audio Source Running
   m_TagString: Untagged
@@ -2726,6 +2921,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &1509119834173824192
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7320309126359875616}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &8107682621666372217
 GameObject:
   m_ObjectHideFlags: 0

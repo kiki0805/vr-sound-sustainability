@@ -54,6 +54,7 @@ GameObject:
   m_Component:
   - component: {fileID: 352590623133493466}
   - component: {fileID: 6914168488684414177}
+  - component: {fileID: 7837694147955800044}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -171,6 +172,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &7837694147955800044
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990557778354251241}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &2511554845109357494
 GameObject:
   m_ObjectHideFlags: 0
@@ -181,6 +191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6068183739736349586}
   - component: {fileID: 747177720292780778}
+  - component: {fileID: 2520139330391145918}
   m_Layer: 0
   m_Name: Audio Source Running
   m_TagString: Untagged
@@ -298,6 +309,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &2520139330391145918
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2511554845109357494}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &2549446925116020182
 GameObject:
   m_ObjectHideFlags: 0
@@ -308,6 +328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1566089518727225262}
   - component: {fileID: 205120646114142092}
+  - component: {fileID: 7878586721457483016}
   m_Layer: 0
   m_Name: Audio Source
   m_TagString: Untagged
@@ -425,6 +446,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &7878586721457483016
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2549446925116020182}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &3642088131048024055
 GameObject:
   m_ObjectHideFlags: 0
@@ -521,6 +551,7 @@ Transform:
   - {fileID: 5392645744525675948}
   - {fileID: 1566089518727225262}
   - {fileID: 6068183739736349586}
+  - {fileID: 943346796077007960}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
@@ -703,6 +734,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 8733336613556714968}
+        m_TargetAssemblyTypeName: UsageMonitor, Assembly-CSharp
+        m_MethodName: UseOnce
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_HoverExited:
     m_PersistentCalls:
       m_Calls: []
@@ -798,6 +841,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1654218195116017845}
   - component: {fileID: 7726453096437792760}
+  - component: {fileID: 3180553329397291014}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -915,6 +959,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!170 &3180553329397291014
+AudioDistortionFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7008407559335759430}
+  m_Enabled: 1
+  m_DistortionLevel: 0
 --- !u!1 &8045410763455063333
 GameObject:
   m_ObjectHideFlags: 0
@@ -1254,6 +1307,60 @@ MonoBehaviour:
   HeatingPowerController: {fileID: 0}
   controller: {fileID: 0}
   repeatRate: 0.5
+--- !u!1 &8962023049431687883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 943346796077007960}
+  - component: {fileID: 8733336613556714968}
+  m_Layer: 0
+  m_Name: UsingCountMonitor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &943346796077007960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8962023049431687883}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -3.9100034, y: 0.9240119, z: 0.7360132}
+  m_LocalScale: {x: 0.99999976, y: 1, z: 0.99999976}
+  m_Children: []
+  m_Father: {fileID: 6466881725618990858}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8733336613556714968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8962023049431687883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 248a61cc78d8cc147bd6f19d3e814128, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filters:
+  - {fileID: 7837694147955800044}
+  - {fileID: 3180553329397291014}
+  - {fileID: 7878586721457483016}
+  - {fileID: 2520139330391145918}
+  usingRef: 0
+  monitorDuration: 30
+  updateFreq: 0.5
+  maxUsingTime: 15
+  maxUsingCount: 4
+  maxDistortionLevel: 0.7
 --- !u!1001 &5852321199621925253
 PrefabInstance:
   m_ObjectHideFlags: 0
