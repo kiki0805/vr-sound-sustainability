@@ -11,6 +11,7 @@ public class UsageMonitor : MonoBehaviour
     public float maxUsingTime = 15; // seconds
     public int maxUsingCount = 4;
     public float maxDistortionLevel = 0.7f;
+    public ExperimentManager manager;
     private float elapsedTime = 0;
     private int usingCount = 0;
     private int UsingCount {
@@ -27,7 +28,7 @@ public class UsageMonitor : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        manager = GameObject.Find("ExperimentManager").GetComponent<ExperimentManager>();
     }
 
     // Update is called once per frame
@@ -70,6 +71,9 @@ public class UsageMonitor : MonoBehaviour
     }
 
     private void UpdateFilters(float level) {
+        if (manager.currentGroup != Group.Group2) {
+            return;
+        }
         for (int i = 0; i < filters.Count; i++) {
             var filter = filters[i];
             filter.distortionLevel = level * maxDistortionLevel;
