@@ -31,6 +31,10 @@ public class Food : MonoBehaviour
     void setCooked()
     {
         Instantiate(CookedVFX, gameObject.transform, false);
+        var ingredient = GetComponent<Ingredient>();
+        if (ingredient) {
+            ingredient.cookedBy = heatingField.cookingMethod;
+        }
     }
 
     // Update is called once per frame

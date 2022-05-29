@@ -99,6 +99,7 @@ GameObject:
   - component: {fileID: 3639749598945570150}
   - component: {fileID: 1399715387645698606}
   - component: {fileID: 6853687115911769921}
+  - component: {fileID: 8130063073552784566}
   m_Layer: 0
   m_Name: Audio Source Close Upper
   m_TagString: Untagged
@@ -225,6 +226,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1056148905015457929}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &8130063073552784566
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1056148905015457929}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1155232806233862814
 GameObject:
   m_ObjectHideFlags: 0
@@ -236,6 +252,7 @@ GameObject:
   - component: {fileID: 1862889698671714815}
   - component: {fileID: 5253048869852014877}
   - component: {fileID: 2718895812006479985}
+  - component: {fileID: 667352247523992723}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -362,6 +379,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1155232806233862814}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &667352247523992723
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1155232806233862814}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1296902257077648390
 GameObject:
   m_ObjectHideFlags: 0
@@ -461,6 +493,7 @@ GameObject:
   - component: {fileID: 156555755130868790}
   - component: {fileID: 6079932141018747929}
   - component: {fileID: 5722222254446613993}
+  - component: {fileID: 5113573386474921592}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -587,6 +620,65 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1472570578118515800}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &5113573386474921592
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1472570578118515800}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
+--- !u!1 &1481006576095457053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2123394630042158666}
+  - component: {fileID: 678424356767694444}
+  m_Layer: 0
+  m_Name: Layer (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2123394630042158666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481006576095457053}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83500004, y: -0.9402, z: -2.8729997}
+  m_LocalScale: {x: 0.52471024, y: 1.0181907, z: 0.62477}
+  m_Children: []
+  m_Father: {fileID: 8853530209069554378}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &678424356767694444
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481006576095457053}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.0109393485, z: 1}
+  m_Center: {x: 0, y: 0.35819796, z: 0}
 --- !u!1 &1550751075154598695
 GameObject:
   m_ObjectHideFlags: 0
@@ -598,6 +690,7 @@ GameObject:
   - component: {fileID: 5161136970129594217}
   - component: {fileID: 211939053860141608}
   - component: {fileID: 2985608202403527774}
+  - component: {fileID: 5447993986127241446}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -724,6 +817,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1550751075154598695}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &5447993986127241446
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550751075154598695}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1730805704489664838
 GameObject:
   m_ObjectHideFlags: 0
@@ -1127,6 +1235,7 @@ GameObject:
   - component: {fileID: 8754052291119544381}
   - component: {fileID: 1537737363976876801}
   - component: {fileID: 5428176521570570178}
+  - component: {fileID: 8283792881301409413}
   m_Layer: 0
   m_Name: Audio Source Open Upper
   m_TagString: Untagged
@@ -1253,6 +1362,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 2036079176077184593}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &8283792881301409413
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2036079176077184593}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &2427912112259093841
 GameObject:
   m_ObjectHideFlags: 0
@@ -1399,6 +1523,8 @@ MonoBehaviour:
   updateFreq: 0.5
   maxUsingTime: 15
   maxUsingCount: 4
+  maxDistortionLevel: 0.7
+  manager: {fileID: 0}
 --- !u!1 &2863447541010960137
 GameObject:
   m_ObjectHideFlags: 0
@@ -1487,6 +1613,94 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3235222358284801992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3194659043919123115}
+  - component: {fileID: 5617639576269901027}
+  m_Layer: 0
+  m_Name: Layer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3194659043919123115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3235222358284801992}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83500004, y: -0.7193, z: -2.8729997}
+  m_LocalScale: {x: 0.52471024, y: 1.0181907, z: 0.62477}
+  m_Children: []
+  m_Father: {fileID: 8853530209069554378}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5617639576269901027
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3235222358284801992}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.0109393485, z: 1}
+  m_Center: {x: 0, y: 0.35819796, z: 0}
+--- !u!1 &3340492404706837841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6586506484657835493}
+  - component: {fileID: 4867123127180877242}
+  m_Layer: 0
+  m_Name: Back
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6586506484657835493
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3340492404706837841}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83500004, y: -0.98100007, z: -2.8729997}
+  m_LocalScale: {x: 0.59971, y: 1.7706741, z: 0.62477}
+  m_Children: []
+  m_Father: {fileID: 8853530209069554378}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4867123127180877242
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3340492404706837841}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 0.045196764}
+  m_Center: {x: 0, y: 0, z: -0.47740138}
 --- !u!1 &3398332869776977421
 GameObject:
   m_ObjectHideFlags: 0
@@ -1542,6 +1756,7 @@ GameObject:
   - component: {fileID: 4936762948790562901}
   - component: {fileID: 393296067560849138}
   - component: {fileID: 1041898319615470442}
+  - component: {fileID: 6952424194237753175}
   m_Layer: 0
   m_Name: Audio Source Close Lower
   m_TagString: Untagged
@@ -1668,6 +1883,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 3628537583324162413}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &6952424194237753175
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3628537583324162413}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &3854187297124541548
 GameObject:
   m_ObjectHideFlags: 0
@@ -1679,6 +1909,7 @@ GameObject:
   - component: {fileID: 2803649085065638419}
   - component: {fileID: 6708079215961387083}
   - component: {fileID: 5288628159547661138}
+  - component: {fileID: 4836352843342265419}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -1805,6 +2036,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 3854187297124541548}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &4836352843342265419
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3854187297124541548}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &3878341558846056479
 GameObject:
   m_ObjectHideFlags: 0
@@ -1858,6 +2104,8 @@ MonoBehaviour:
   updateFreq: 0.5
   maxUsingTime: 15
   maxUsingCount: 4
+  maxDistortionLevel: 0.7
+  manager: {fileID: 0}
 --- !u!1 &4136746429953805321
 GameObject:
   m_ObjectHideFlags: 0
@@ -1869,6 +2117,7 @@ GameObject:
   - component: {fileID: 8452514127421056395}
   - component: {fileID: 4293116295156876985}
   - component: {fileID: 2083858450536258049}
+  - component: {fileID: 7848798650852882759}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -1995,6 +2244,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 4136746429953805321}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &7848798650852882759
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4136746429953805321}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &4167523763106785241
 GameObject:
   m_ObjectHideFlags: 0
@@ -2039,6 +2303,50 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4319979336112540695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2506060280710277282}
+  - component: {fileID: 1699055472729297826}
+  m_Layer: 0
+  m_Name: Layer (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2506060280710277282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4319979336112540695}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83500004, y: -1.162, z: -2.8729997}
+  m_LocalScale: {x: 0.52471024, y: 1.0181907, z: 0.62477}
+  m_Children: []
+  m_Father: {fileID: 8853530209069554378}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1699055472729297826
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4319979336112540695}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.0109393485, z: 1}
+  m_Center: {x: 0, y: 0.35819796, z: 0}
 --- !u!1 &4394874695333319142
 GameObject:
   m_ObjectHideFlags: 0
@@ -2094,6 +2402,7 @@ GameObject:
   - component: {fileID: 8630497106530519327}
   - component: {fileID: 6776722982734200549}
   - component: {fileID: 7462075072783799662}
+  - component: {fileID: 1549537137681886652}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -2220,6 +2529,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 4438238888625057303}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &1549537137681886652
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4438238888625057303}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &4450891723069781654
 GameObject:
   m_ObjectHideFlags: 0
@@ -3105,6 +3429,7 @@ Transform:
   - {fileID: 9029483459233557194}
   - {fileID: 6971515767555405616}
   - {fileID: 4368340179466302745}
+  - {fileID: 8853530209069554378}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4043,6 +4368,86 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5379165642219933937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8853530209069554378}
+  m_Layer: 0
+  m_Name: Colliders
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8853530209069554378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5379165642219933937}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.8371208, y: 1.8761522, z: 3.1687093}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6586506484657835493}
+  - {fileID: 2041672628471463031}
+  - {fileID: 5415784278336725886}
+  - {fileID: 3194659043919123115}
+  - {fileID: 2123394630042158666}
+  - {fileID: 2506060280710277282}
+  m_Father: {fileID: 5474549014496239281}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6513656820283993938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5415784278336725886}
+  - component: {fileID: 4436311186192605697}
+  m_Layer: 0
+  m_Name: Left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5415784278336725886
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6513656820283993938}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.835, y: -0.981, z: -2.873}
+  m_LocalScale: {x: 0.59971, y: 1.7706741, z: 0.62477}
+  m_Children: []
+  m_Father: {fileID: 8853530209069554378}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4436311186192605697
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6513656820283993938}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.04604678, y: 1, z: 1}
+  m_Center: {x: 0.4769761, y: 0, z: 0}
 --- !u!1 &6545801005442490583
 GameObject:
   m_ObjectHideFlags: 0
@@ -4296,6 +4701,7 @@ GameObject:
   - component: {fileID: 7745685911937156613}
   - component: {fileID: 6826152346174897874}
   - component: {fileID: 6434238544986884590}
+  - component: {fileID: 5888129774211185888}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -4422,6 +4828,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 6655478175158421992}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &5888129774211185888
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6655478175158421992}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &6691177962925533222
 GameObject:
   m_ObjectHideFlags: 0
@@ -4433,6 +4854,7 @@ GameObject:
   - component: {fileID: 885448824871316750}
   - component: {fileID: 6040300307473973092}
   - component: {fileID: 827291086928660696}
+  - component: {fileID: 7617331712410501461}
   m_Layer: 0
   m_Name: Audio Source Open Lower
   m_TagString: Untagged
@@ -4559,6 +4981,65 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 6691177962925533222}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &7617331712410501461
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6691177962925533222}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
+--- !u!1 &6845919513826503985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2041672628471463031}
+  - component: {fileID: 7077475543116309862}
+  m_Layer: 0
+  m_Name: Right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2041672628471463031
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6845919513826503985}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83500004, y: -0.98100007, z: -2.8729997}
+  m_LocalScale: {x: 0.59971, y: 1.7706741, z: 0.62477}
+  m_Children: []
+  m_Father: {fileID: 8853530209069554378}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7077475543116309862
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6845919513826503985}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.05106856, y: 1, z: 1}
+  m_Center: {x: -0.47446492, y: 0, z: 0}
 --- !u!1 &6852657875000221318
 GameObject:
   m_ObjectHideFlags: 0
@@ -5380,6 +5861,7 @@ GameObject:
   - component: {fileID: 2082711032764332358}
   - component: {fileID: 3620784888812821746}
   - component: {fileID: 1984784231061135700}
+  - component: {fileID: 6405731620579414626}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -5506,6 +5988,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 7688410666233981113}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &6405731620579414626
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7688410666233981113}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &7906214321607655888
 GameObject:
   m_ObjectHideFlags: 0
@@ -5605,6 +6102,7 @@ GameObject:
   - component: {fileID: 3959904765635270093}
   - component: {fileID: 9067673700387011883}
   - component: {fileID: 4458884364617534415}
+  - component: {fileID: 4167491785228801036}
   m_Layer: 0
   m_Name: Audio Source
   m_TagString: Untagged
@@ -5731,6 +6229,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 8173213507716381251}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &4167491785228801036
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8173213507716381251}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &8568577533880704179
 GameObject:
   m_ObjectHideFlags: 0

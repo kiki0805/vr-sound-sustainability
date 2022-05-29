@@ -29,6 +29,7 @@ public class RemoteController : MonoBehaviour
     bool music = true;
     int musicIdx = 0;
     int videoIdx = 0;
+    bool withinRegion = false;
 
     Color activeColor = new Color(37f / 255f, 137f / 255f, 166f / 255f);
     Color inactiveColor = new Color(0, 0, 0);
@@ -93,6 +94,9 @@ public class RemoteController : MonoBehaviour
 
     public void PlayMusic()
     {
+        if (!withinRegion) {
+            return;
+        }
         Debug.Log("Play music");
         if (!music)
         {
@@ -109,6 +113,9 @@ public class RemoteController : MonoBehaviour
 
     public void PlayTV()
     {
+        if (!withinRegion) {
+            return;
+        }
         Debug.Log("Play TV");
         if (music)
         {
@@ -125,6 +132,9 @@ public class RemoteController : MonoBehaviour
 
     public void PlayOrPause()
     {
+        if (!withinRegion) {
+            return;
+        }
         Debug.Log("Play or pause");
         if (pause)
         {
@@ -160,6 +170,9 @@ public class RemoteController : MonoBehaviour
 
     public void NextVideo()
     {
+        if (!withinRegion) {
+            return;
+        }
         Debug.Log("Next video");
         if (music)
         {
@@ -176,5 +189,21 @@ public class RemoteController : MonoBehaviour
             pausePlayer();
             playPlayer();
         }
+    }
+
+    private void OnTriggerEnter(Collider other) {
+        if (other.gameObject.name != "ControlRegion") {
+            return;
+        }
+        withinRegion = true;
+        Debug.Log("Enter the control region");
+    }
+
+    private void OnTriggerExit(Collider other) {
+        if (other.gameObject.name != "ControlRegion") {
+            return;
+        }
+        withinRegion = false;
+        Debug.Log("Leave the control region");
     }
 }

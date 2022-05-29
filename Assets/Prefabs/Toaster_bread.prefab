@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1642215821823508777}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.72999895, z: 0.95}
+  m_LocalPosition: {x: -3.97, y: 0.72999895, z: 5.68}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7278500690933630794}
@@ -75,6 +75,7 @@ GameObject:
   - component: {fileID: 6809515392013579975}
   - component: {fileID: 224736449725811986}
   - component: {fileID: 1996899386870429019}
+  - component: {fileID: 2112986708867436333}
   m_Layer: 6
   m_Name: Toaster_bread
   m_TagString: Food
@@ -89,7 +90,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7278500690933630795}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.396, y: 0.986, z: -1.467}
   m_LocalScale: {x: 0.02, y: 0.02, z: 0.02}
   m_Children:
@@ -231,10 +232,34 @@ MonoBehaviour:
       m_Calls: []
   m_SelectEntered:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: Cheater, Assembly-CSharp
+        m_MethodName: SetTooltip
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 2112986708867436333}
+          m_ObjectArgumentAssemblyTypeName: Ingredient, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_SelectExited:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: Cheater, Assembly-CSharp
+        m_MethodName: ClearTooltip
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_Activated:
     m_PersistentCalls:
       m_Calls: []
@@ -307,3 +332,17 @@ MonoBehaviour:
   m_AttachPointCompatibilityMode: 0
   RightAttach: {fileID: 1449780057381973581}
   LeftAttach: {fileID: 6791391531355315568}
+--- !u!114 &2112986708867436333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7278500690933630795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 487bf8d54886cec4b9ae4521c6fb9ca1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ingredientType: 18
+  cookingMethod: 3

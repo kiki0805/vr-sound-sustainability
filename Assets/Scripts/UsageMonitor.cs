@@ -5,6 +5,7 @@ using UnityEngine;
 public class UsageMonitor : MonoBehaviour
 {
     public List<AudioDistortionFilter> filters;
+    private List<AudioChorusFilter> chorusFilters;
     public int usingRef = 0;
     public float monitorDuration = 10;
     public float updateFreq = 0.5f; // seconds
@@ -24,6 +25,18 @@ public class UsageMonitor : MonoBehaviour
         }
     }
     private float usingTime = 0;
+
+    void Awake() {
+        chorusFilters = new List<AudioChorusFilter>();
+        AudioDistortionFilter filter;
+        for (int i = 0; i < filters.Count; i++) {
+            filter = filters[i];
+            var chorusFilter = filter.gameObject.GetComponent<AudioChorusFilter>();
+            if (chorusFilter) {
+                chorusFilters.Add(chorusFilter);
+            }
+        }
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -76,7 +89,17 @@ public class UsageMonitor : MonoBehaviour
         }
         for (int i = 0; i < filters.Count; i++) {
             var filter = filters[i];
-            filter.distortionLevel = level * maxDistortionLevel;
+            // filter.distortionLevel = level * maxDistortionLevel;
+        }
+        for (int i = 0; i < chorusFilters.Count; i++) {
+            var chorusFilter = chorusFilters[i];
+            chorusFilter.depth = 0.3f * level + 0.5f;
+            chorusFilter.dryMix = (1 - level) * 1;
+            chorusFilter.wetMix1 = level;
+            chorusFilter.wetMix2 = level;
+            chorusFilter.wetMix3 = level;
+            chorusFilter.delay = (1 - level) * 30 + 10;
+            chorusFilter.rate = 0.8f + level * 10;
         }
     }
 }

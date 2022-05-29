@@ -55,16 +55,27 @@ public class CleanField : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other) {
-        if (other.gameObject.tag == "Plate" && !plates.Contains(other.gameObject.GetComponent<Plate>()))
+        if (other.gameObject.tag != "Plate") {
+            return;
+        }
+        var plate = other.gameObject.GetComponent<Plate>();
+        if (!plate) {
+            return;
+        }
+        if (!plates.Contains(plate))
         {
             plates.Add(other.gameObject.GetComponent<Plate>());
         }
     }
 
     private void OnTriggerExit(Collider other) {
-        if (other.gameObject.tag == "Plate")
-        {
-            plates.Remove(other.gameObject.GetComponent<Plate>());
+        if (other.gameObject.tag != "Plate") {
+            return;
         }
+        var plate = other.gameObject.GetComponent<Plate>();
+        if (!plate) {
+            return;
+        }
+        plates.Remove(other.gameObject.GetComponent<Plate>());
     }
 }

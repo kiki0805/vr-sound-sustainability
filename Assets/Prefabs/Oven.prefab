@@ -92,6 +92,7 @@ GameObject:
   - component: {fileID: 7272077055696222265}
   - component: {fileID: 7059522442491346788}
   - component: {fileID: 3079708807553562845}
+  - component: {fileID: 7394635060479010269}
   m_Layer: 0
   m_Name: Audio Source Rotate (1)
   m_TagString: Untagged
@@ -218,6 +219,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 260877968097599601}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &7394635060479010269
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260877968097599601}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &921710411822587707
 GameObject:
   m_ObjectHideFlags: 0
@@ -278,6 +294,7 @@ GameObject:
   - component: {fileID: 387094459567151475}
   - component: {fileID: 4100472386985190544}
   - component: {fileID: 5530372772370025417}
+  - component: {fileID: 3542749381479947669}
   m_Layer: 0
   m_Name: Audio Source Running
   m_TagString: Untagged
@@ -404,6 +421,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1135829169556926525}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &3542749381479947669
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1135829169556926525}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1438118028567180672
 GameObject:
   m_ObjectHideFlags: 0
@@ -666,7 +698,7 @@ MonoBehaviour:
   DetachMinLimit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5242078273941028934}
+      - m_Target: {fileID: 4421471885190646202}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Play
         m_Mode: 1
@@ -1122,6 +1154,7 @@ GameObject:
   - component: {fileID: 6696161814871486364}
   - component: {fileID: 4421471885190646202}
   - component: {fileID: 9021448638462057260}
+  - component: {fileID: 351360741432748805}
   m_Layer: 0
   m_Name: Audio Source Ignite (1)
   m_TagString: Untagged
@@ -1248,6 +1281,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1647985617905041680}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &351360741432748805
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1647985617905041680}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1987711453649935924
 GameObject:
   m_ObjectHideFlags: 0
@@ -1259,6 +1307,7 @@ GameObject:
   - component: {fileID: 3620303281437818056}
   - component: {fileID: 594488231444878055}
   - component: {fileID: 2248487777845507753}
+  - component: {fileID: 8668542867660300482}
   m_Layer: 0
   m_Name: Audio Source Ignite (3)
   m_TagString: Untagged
@@ -1385,6 +1434,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1987711453649935924}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &8668542867660300482
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1987711453649935924}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &2110335670364701151
 GameObject:
   m_ObjectHideFlags: 0
@@ -1841,6 +1905,7 @@ GameObject:
   - component: {fileID: 7165459809807299257}
   - component: {fileID: 286539853809593796}
   - component: {fileID: 6226459860292786551}
+  - component: {fileID: 9195234975563938629}
   m_Layer: 0
   m_Name: Audio Source Open
   m_TagString: Untagged
@@ -1967,6 +2032,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 2496900378503405856}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &9195234975563938629
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2496900378503405856}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &2590637671529741562
 GameObject:
   m_ObjectHideFlags: 0
@@ -7196,6 +7276,7 @@ GameObject:
   - component: {fileID: 8047502982066761389}
   - component: {fileID: 3868059111260349339}
   - component: {fileID: 4584208057215001950}
+  - component: {fileID: 184437796044554536}
   m_Layer: 0
   m_Name: Audio Source Ignite (2)
   m_TagString: Untagged
@@ -7322,6 +7403,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 3260825178683408253}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &184437796044554536
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3260825178683408253}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &3518055533662530291
 GameObject:
   m_ObjectHideFlags: 0
@@ -7333,6 +7429,7 @@ GameObject:
   - component: {fileID: 4360972276788717536}
   - component: {fileID: 900933506545314769}
   - component: {fileID: 2690242066351321704}
+  - component: {fileID: 2372310279996748375}
   m_Layer: 0
   m_Name: Audio Source Close
   m_TagString: Untagged
@@ -7459,6 +7556,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 3518055533662530291}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &2372310279996748375
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3518055533662530291}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &3564286306540194802
 GameObject:
   m_ObjectHideFlags: 0
@@ -7769,6 +7881,7 @@ GameObject:
   - component: {fileID: 7992757407885329384}
   - component: {fileID: 5242078273941028934}
   - component: {fileID: 3302688960765006599}
+  - component: {fileID: 6159084717510141300}
   m_Layer: 0
   m_Name: Audio Source Fire (1)
   m_TagString: Untagged
@@ -7895,6 +8008,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 4207863242707235720}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &6159084717510141300
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4207863242707235720}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &4303655746143203105
 GameObject:
   m_ObjectHideFlags: 0
@@ -7987,6 +8115,7 @@ GameObject:
   - component: {fileID: 8645152737304094826}
   - component: {fileID: 4074260369789721075}
   - component: {fileID: 1566852844627241156}
+  - component: {fileID: 6687240469035825195}
   m_Layer: 0
   m_Name: Audio Source Finish
   m_TagString: Untagged
@@ -8113,6 +8242,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 4348937088049316163}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &6687240469035825195
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4348937088049316163}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &4399463557400437840
 GameObject:
   m_ObjectHideFlags: 0
@@ -8423,6 +8567,7 @@ GameObject:
   - component: {fileID: 7661207761934872835}
   - component: {fileID: 3272510372868065232}
   - component: {fileID: 1636175589028348749}
+  - component: {fileID: 1022539620311716547}
   m_Layer: 0
   m_Name: Audio Source Rotate
   m_TagString: Untagged
@@ -8549,6 +8694,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 4471643206704613445}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &1022539620311716547
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4471643206704613445}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &4472335214212339241
 GameObject:
   m_ObjectHideFlags: 0
@@ -8694,8 +8854,9 @@ GameObject:
   - component: {fileID: 5444478323037964201}
   - component: {fileID: 8944561885654616076}
   - component: {fileID: 6612833382787316934}
-  - component: {fileID: 4501207216340931804}
   - component: {fileID: 4433418323928269342}
+  - component: {fileID: 65185761642028967}
+  - component: {fileID: 3937956288763937780}
   m_Layer: 0
   m_Name: Oven
   m_TagString: Untagged
@@ -8774,20 +8935,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4501207216340931804
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4667273601874812179}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 2788947150194898759, guid: d652eed4ade1dda41ab497b79a2a24fb, type: 3}
 --- !u!114 &4433418323928269342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8807,6 +8954,32 @@ MonoBehaviour:
   MinTime: 3
   MaxTime: 5
   controller: {fileID: 7004792275307644096}
+--- !u!65 &65185761642028967
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4667273601874812179}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.5999999, y: 0.20362741, z: 0.6151368}
+  m_Center: {x: 0, y: 0.8110516, z: 0.30756834}
+--- !u!65 &3937956288763937780
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4667273601874812179}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.5999999, y: 0.16891247, z: 0.6151368}
+  m_Center: {x: 0, y: 0.084456, z: 0.30756834}
 --- !u!1 &4880286553729302371
 GameObject:
   m_ObjectHideFlags: 0
@@ -18482,6 +18655,7 @@ GameObject:
   - component: {fileID: 2677642501957945147}
   - component: {fileID: 6054409578889542955}
   - component: {fileID: 4736241527656404393}
+  - component: {fileID: 6547316703867303969}
   m_Layer: 0
   m_Name: Audio Source Fire (2)
   m_TagString: Untagged
@@ -18608,6 +18782,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 5103932985929115451}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &6547316703867303969
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5103932985929115451}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &5389504800646673449
 GameObject:
   m_ObjectHideFlags: 0
@@ -23579,6 +23768,7 @@ MonoBehaviour:
   maxUsingTime: 20
   maxUsingCount: 4
   maxDistortionLevel: 0.7
+  manager: {fileID: 0}
 --- !u!1 &5598866638329417084
 GameObject:
   m_ObjectHideFlags: 0
@@ -23934,6 +24124,7 @@ GameObject:
   - component: {fileID: 5349814059789706700}
   - component: {fileID: 3071423618029797877}
   - component: {fileID: 5935368480627849719}
+  - component: {fileID: 7905089955142328893}
   m_Layer: 0
   m_Name: Audio Source Fire
   m_TagString: Untagged
@@ -24060,6 +24251,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 5725099022171121847}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &7905089955142328893
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5725099022171121847}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &6076598315005998007
 GameObject:
   m_ObjectHideFlags: 0
@@ -24358,6 +24564,7 @@ MonoBehaviour:
   maxUsingTime: 15
   maxUsingCount: 4
   maxDistortionLevel: 0.7
+  manager: {fileID: 0}
 --- !u!1 &6635477078969752940
 GameObject:
   m_ObjectHideFlags: 0
@@ -24369,6 +24576,7 @@ GameObject:
   - component: {fileID: 7597265122213624626}
   - component: {fileID: 1837030244792387960}
   - component: {fileID: 2955965532753565396}
+  - component: {fileID: 493895432522630717}
   m_Layer: 0
   m_Name: Audio Source Ignite
   m_TagString: Untagged
@@ -24495,6 +24703,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 6635477078969752940}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &493895432522630717
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6635477078969752940}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &7462832957444198035
 GameObject:
   m_ObjectHideFlags: 0
@@ -25559,6 +25782,7 @@ GameObject:
   - component: {fileID: 3646266696350942768}
   - component: {fileID: 3395091633440947832}
   - component: {fileID: 7748568825953663997}
+  - component: {fileID: 1390241753364211003}
   m_Layer: 0
   m_Name: Audio Source Fire (3)
   m_TagString: Untagged
@@ -25685,6 +25909,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 8980586450949335731}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &1390241753364211003
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8980586450949335731}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1001 &2386433335072347845
 PrefabInstance:
   m_ObjectHideFlags: 0

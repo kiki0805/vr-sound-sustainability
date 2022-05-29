@@ -20,9 +20,14 @@ public class Cheater : MonoBehaviour
         
     }
 
-    public void SetTooltip(string tooltipStr) {
-        tooltipStr = tooltipStr.Replace("\\n", "\r\n");
-        tooltip.text = tooltipStr;
+    // public void SetTooltip(string tooltipStr) {
+    //     tooltipStr = tooltipStr.Replace("\\n", "\r\n");
+    //     tooltip.text = tooltipStr;
+    //     referCount ++;
+    // }
+
+    public void SetTooltip(Ingredient ingredient) {
+        tooltip.text = ingredient.GetTipString();
         referCount ++;
     }
 

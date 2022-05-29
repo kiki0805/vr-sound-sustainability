@@ -622,6 +622,7 @@ GameObject:
   - component: {fileID: 3332774141623086445}
   - component: {fileID: 6517731976643172353}
   - component: {fileID: 4384922586432708660}
+  - component: {fileID: 1919721615685276005}
   m_Layer: 0
   m_Name: Audio Source Down
   m_TagString: Untagged
@@ -748,6 +749,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 962501935444186216}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &1919721615685276005
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 962501935444186216}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1113077664685661797
 GameObject:
   m_ObjectHideFlags: 0
@@ -759,6 +775,7 @@ GameObject:
   - component: {fileID: 2817351613062408349}
   - component: {fileID: 7749041039351235942}
   - component: {fileID: 5800919937504399862}
+  - component: {fileID: 4624641517725110340}
   m_Layer: 0
   m_Name: Audio Source Ding
   m_TagString: Untagged
@@ -885,6 +902,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 1113077664685661797}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &4624641517725110340
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113077664685661797}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &1511921601038833195
 GameObject:
   m_ObjectHideFlags: 0
@@ -939,6 +971,7 @@ MonoBehaviour:
   maxUsingTime: 15
   maxUsingCount: 4
   maxDistortionLevel: 0.7
+  manager: {fileID: 0}
 --- !u!1 &2763923554601711005
 GameObject:
   m_ObjectHideFlags: 0
@@ -950,6 +983,7 @@ GameObject:
   - component: {fileID: 7376097147169776571}
   - component: {fileID: 1196644790828465099}
   - component: {fileID: 2506462707861572405}
+  - component: {fileID: 2089182360631921991}
   m_Layer: 0
   m_Name: Audio Source Tick
   m_TagString: Untagged
@@ -1076,6 +1110,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 2763923554601711005}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &2089182360631921991
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763923554601711005}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &4997937043519188846
 GameObject:
   m_ObjectHideFlags: 0
@@ -1428,6 +1477,7 @@ GameObject:
   - component: {fileID: 1375473786520609308}
   - component: {fileID: 9139433469316536031}
   - component: {fileID: 1562678208305887041}
+  - component: {fileID: 3870729586531594806}
   m_Layer: 0
   m_Name: Audio Source Up
   m_TagString: Untagged
@@ -1554,6 +1604,21 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 8151670928786331547}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &3870729586531594806
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8151670928786331547}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
 --- !u!1 &8411154766180842219
 GameObject:
   m_ObjectHideFlags: 0
@@ -1817,6 +1882,7 @@ MonoBehaviour:
   maxUsingTime: 15
   maxUsingCount: 4
   maxDistortionLevel: 0.7
+  manager: {fileID: 0}
 --- !u!1 &9041984198299476885
 GameObject:
   m_ObjectHideFlags: 0
@@ -1828,6 +1894,7 @@ GameObject:
   - component: {fileID: 5343537220163939951}
   - component: {fileID: 8830626473106125426}
   - component: {fileID: 5865115757031088225}
+  - component: {fileID: 987980260741293335}
   m_Layer: 0
   m_Name: Audio Source Knob
   m_TagString: Untagged
@@ -1954,3 +2021,18 @@ AudioDistortionFilter:
   m_GameObject: {fileID: 9041984198299476885}
   m_Enabled: 1
   m_DistortionLevel: 0
+--- !u!166 &987980260741293335
+AudioChorusFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9041984198299476885}
+  m_Enabled: 1
+  m_DryMix: 1
+  m_WetMix1: 0
+  m_WetMix2: 0
+  m_WetMix3: 0
+  m_Delay: 10
+  m_Rate: 0.8
+  m_Depth: 0
