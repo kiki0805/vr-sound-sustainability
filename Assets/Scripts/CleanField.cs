@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class CleanField : MonoBehaviour
 {
@@ -34,7 +35,8 @@ public class CleanField : MonoBehaviour
         }
         running = true;
         runningSound.Play();
-        Debug.Log("play sounds");
+        Debug.Log($"play sounds");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Start cleaning", Record.LogFileName);
     }
 
     public void StopCleaning() {
@@ -44,6 +46,7 @@ public class CleanField : MonoBehaviour
         running = false;
         elapsedTime = 0;
         runningSound.Stop();
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Stop cleaning", Record.LogFileName);
     }
 
     public void CleanPlates()

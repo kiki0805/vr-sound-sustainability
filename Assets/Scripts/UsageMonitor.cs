@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class UsageMonitor : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class UsageMonitor : MonoBehaviour
     public int maxUsingCount = 4;
     public float maxDistortionLevel = 0.7f;
     public ExperimentManager manager;
+    public string monitorName = "";
     private float elapsedTime = 0;
     private int usingCount = 0;
     private int UsingCount {
@@ -84,6 +86,7 @@ public class UsageMonitor : MonoBehaviour
     }
 
     private void UpdateFilters(float level) {
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] From {monitorName} | UsingCount: {UsingCount} UsingTime: {usingTime}", Record.LogFileName);
         if (manager.currentGroup != Group.Group2) {
             return;
         }

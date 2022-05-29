@@ -629,7 +629,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.8808374, y: 0.9218547, z: -1.0019894}
+  m_ConnectedAnchor: {x: -4.8808374, y: 0.9218547, z: -1.0019891}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -1641,7 +1641,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.6771374, y: 0.9218547, z: -1.0019894}
+  m_ConnectedAnchor: {x: -4.6771374, y: 0.9218547, z: -1.0019891}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -23952,10 +23952,11 @@ MonoBehaviour:
   usingRef: 0
   monitorDuration: 10
   updateFreq: 0.5
-  maxUsingTime: 20
+  maxUsingTime: 40
   maxUsingCount: 4
   maxDistortionLevel: 0.7
   manager: {fileID: 0}
+  monitorName: OvenUsingTime
 --- !u!1 &5598866638329417084
 GameObject:
   m_ObjectHideFlags: 0
@@ -24745,12 +24746,13 @@ MonoBehaviour:
   - {fileID: 5530372772370025417}
   - {fileID: 1566852844627241156}
   usingRef: 0
-  monitorDuration: 60
+  monitorDuration: 120
   updateFreq: 0.5
   maxUsingTime: 15
   maxUsingCount: 4
   maxDistortionLevel: 0.7
   manager: {fileID: 0}
+  monitorName: OvenUsingCount
 --- !u!1 &6428403859151393941
 GameObject:
   m_ObjectHideFlags: 0
@@ -25571,7 +25573,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.9825373, y: 0.9218547, z: -1.0019894}
+  m_ConnectedAnchor: {x: -4.9825373, y: 0.9218547, z: -1.0019891}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -25881,7 +25883,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.7789373, y: 0.9218547, z: -1.0019894}
+  m_ConnectedAnchor: {x: -4.7789373, y: 0.9218547, z: -1.0019891}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -26255,6 +26257,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
+      propertyPath: cookingMethod
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
 --- !u!4 &7864814953311314759 stripped
@@ -26332,6 +26338,10 @@ PrefabInstance:
       propertyPath: HeatingSpeed
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
+      propertyPath: cookingMethod
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
 --- !u!114 &5397294961965928482 stripped
@@ -26408,6 +26418,10 @@ PrefabInstance:
     - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
       propertyPath: HeatingSpeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
+      propertyPath: cookingMethod
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
@@ -26564,6 +26578,10 @@ PrefabInstance:
       propertyPath: HeatingSpeed
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
+      propertyPath: cookingMethod
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
 --- !u!4 &2965310221118906903 stripped
@@ -26640,6 +26658,10 @@ PrefabInstance:
     - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
       propertyPath: HeatingSpeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7782253253185854041, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}
+      propertyPath: cookingMethod
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b21632e7d5309c44aa96bccd391b88f5, type: 3}

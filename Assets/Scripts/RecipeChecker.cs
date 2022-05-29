@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class RecipeChecker : MonoBehaviour
 {
@@ -74,6 +75,7 @@ public class RecipeChecker : MonoBehaviour
         // }
 
         Debug.Log($"Cooked {recipe.name}");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Cooked: {recipe.name}", Record.LogFileName);
         Instantiate(recipe.finishedPrefab, gameObject.transform, false);
         
         if (recipe.name == "Sandwich") {

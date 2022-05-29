@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Video;
+using Debug = Sisus.Debugging.Debug;
 
 public class TaskTracker : MonoBehaviour
 {
@@ -73,16 +74,19 @@ public class TaskTracker : MonoBehaviour
     private IEnumerator EnableTask1Done() {
         yield return new WaitForSeconds(5);
         Debug.Log("Finish task1");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Finish task1", Record.LogFileName);
         task1Done.SetActive(true);
     }
 
     private void EnableTask2Done() {
         Debug.Log("Finish task2");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Finish task2", Record.LogFileName);
         task2Done.SetActive(true);
     }
 
     private void EnableTask3Done() {
         Debug.Log("Finish task3");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Finish task3", Record.LogFileName);
         task3Done.SetActive(true);
     }
 }

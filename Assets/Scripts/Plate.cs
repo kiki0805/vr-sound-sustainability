@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class Plate : MonoBehaviour
 {
@@ -21,11 +22,13 @@ public class Plate : MonoBehaviour
             {
                 used = value;
                 usedVFXInstance = Instantiate(UsedVFX, gameObject.transform, false);
+                Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Use a clean plate", Record.LogFileName);
             }
             if (used && !value)
             {
                 used = value;
                 Destroy(usedVFXInstance);
+                Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Clean a plate", Record.LogFileName);
             }
         }
     }

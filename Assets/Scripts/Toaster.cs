@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
+using Debug = Sisus.Debugging.Debug;
 
 public class Toaster : MonoBehaviour
 {
@@ -83,6 +84,7 @@ public class Toaster : MonoBehaviour
         StartCooking();
         remainedTime = (hinge.angle / 180f) * 20 + 10; // 10-30s
         controller.TuneParam(hinge.angle / 180f);
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Set toaster time: {remainedTime}", Record.LogFileName);
     }
 
     void StartCooking()

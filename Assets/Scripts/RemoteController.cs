@@ -4,6 +4,7 @@ using UnityEngine;
 using VRUiKits.Utils;
 using UnityEngine.Video;
 using UnityEngine.UI;
+using Debug = Sisus.Debugging.Debug;
 
 public enum ItemLabel {
     Music,
@@ -101,6 +102,7 @@ public class RemoteController : MonoBehaviour
             return;
         }
         Debug.Log("Play music");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Play music", Record.LogFileName);
         if (!music)
         {
             SetColor(false, ItemLabel.TV);
@@ -120,6 +122,7 @@ public class RemoteController : MonoBehaviour
             return;
         }
         Debug.Log("Play TV");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Play TV", Record.LogFileName);
         if (music)
         {
             SetColor(true, ItemLabel.TV);
@@ -139,6 +142,7 @@ public class RemoteController : MonoBehaviour
             return;
         }
         Debug.Log("Play or pause");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Play or pause", Record.LogFileName);
         taskTracker.FinishPlayingMusic();
         if (pause)
         {
@@ -178,6 +182,7 @@ public class RemoteController : MonoBehaviour
             return;
         }
         Debug.Log("Next video");
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Next video", Record.LogFileName);
         if (music)
         {
             musicIdx ++;

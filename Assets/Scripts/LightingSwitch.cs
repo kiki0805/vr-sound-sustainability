@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using Debug = Sisus.Debugging.Debug;
 
 public class LightingSwitch : MonoBehaviour
 {
@@ -56,6 +57,7 @@ public class LightingSwitch : MonoBehaviour
             }
             OnSound.Play();
             LightOnEvent.Invoke();
+            Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Light on", Record.LogFileName);
         }
         else
         {
@@ -69,6 +71,7 @@ public class LightingSwitch : MonoBehaviour
             }
             OffSound.Play();
             LightOffEvent.Invoke();
+            Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Light off", Record.LogFileName);
         }
         GetComponent<Light>().enabled = !lightEnabled;
     }

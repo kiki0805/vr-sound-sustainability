@@ -653,7 +653,7 @@ AudioSource:
   m_GameObject: {fileID: 962501935444186216}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8464636411752906370, guid: 1f82ed437c52bad4db4838087c48466a, type: 2}
   m_audioClip: {fileID: 8300000, guid: 504f0f2110294cd468450696edfe9ff5, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -806,7 +806,7 @@ AudioSource:
   m_GameObject: {fileID: 1113077664685661797}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8464636411752906370, guid: 1f82ed437c52bad4db4838087c48466a, type: 2}
   m_audioClip: {fileID: 8300000, guid: f2f58c8e40f8e394a9bbb9d6542b5bb0, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -966,12 +966,13 @@ MonoBehaviour:
   - {fileID: 4384922586432708660}
   - {fileID: 5800919937504399862}
   usingRef: 0
-  monitorDuration: 10
+  monitorDuration: 120
   updateFreq: 0.5
   maxUsingTime: 15
-  maxUsingCount: 4
+  maxUsingCount: 3
   maxDistortionLevel: 0.7
   manager: {fileID: 0}
+  monitorName: ToasterUsingCount
 --- !u!1 &2763923554601711005
 GameObject:
   m_ObjectHideFlags: 0
@@ -1014,7 +1015,7 @@ AudioSource:
   m_GameObject: {fileID: 2763923554601711005}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8464636411752906370, guid: 1f82ed437c52bad4db4838087c48466a, type: 2}
   m_audioClip: {fileID: 8300000, guid: d0e0d6c0df1ebf740ad83f2054338edb, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -1465,7 +1466,6 @@ MonoBehaviour:
   GasFireController: {fileID: 0}
   HeatingPowerController: {fileID: 0}
   controller: {fileID: 0}
-  repeatRate: 0.1
 --- !u!1 &8151670928786331547
 GameObject:
   m_ObjectHideFlags: 0
@@ -1508,7 +1508,7 @@ AudioSource:
   m_GameObject: {fileID: 8151670928786331547}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8464636411752906370, guid: 1f82ed437c52bad4db4838087c48466a, type: 2}
   m_audioClip: {fileID: 8300000, guid: 0eab7c6de161b0b4d8954733b524450c, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -1879,10 +1879,11 @@ MonoBehaviour:
   usingRef: 0
   monitorDuration: 10
   updateFreq: 0.5
-  maxUsingTime: 15
+  maxUsingTime: 30
   maxUsingCount: 4
   maxDistortionLevel: 0.7
   manager: {fileID: 0}
+  monitorName: ToasterUsingTime
 --- !u!1 &9041984198299476885
 GameObject:
   m_ObjectHideFlags: 0
@@ -1925,7 +1926,7 @@ AudioSource:
   m_GameObject: {fileID: 9041984198299476885}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8464636411752906370, guid: 1f82ed437c52bad4db4838087c48466a, type: 2}
   m_audioClip: {fileID: 8300000, guid: ee7b62d0e66f3004aacb36ceabbdf02d, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1

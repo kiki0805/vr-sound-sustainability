@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class HeatingField : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class HeatingField : MonoBehaviour
 
         set {
             heatingSpeed = value;
+            Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Set heating speed: {value}", Record.LogFileName);
         }
     }
 }

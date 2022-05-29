@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class GasFire : MonoBehaviour
 {
@@ -25,5 +26,6 @@ public class GasFire : MonoBehaviour
         var emission = GetComponent<ParticleSystem>().emission;
         emission.rateOverTime = speed;
         FireSound.volume = pct;
+        Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Set gasfire speed: {pct}", Record.LogFileName);
     }
 }
