@@ -8,11 +8,15 @@ public class Plate : MonoBehaviour
     public GameObject UsedVFX;
     GameObject usedVFXInstance;
     bool used = false;
+    public bool alwaysClean = false;
     public bool Used {
         get {
             return used;
         }
         set {
+            if (alwaysClean) {
+                return;
+            }
             if (!used && value)
             {
                 used = value;

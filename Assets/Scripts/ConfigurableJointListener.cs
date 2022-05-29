@@ -16,7 +16,9 @@ public class ConfigurableJointListener : MonoBehaviour
     public UnityEvent ReachMaxLimit;
     public UnityEvent DetachMinLimit;
     public UnityEvent DetachMaxLimit;
+    [Tooltip("disabled")]
     public UnityEvent StartMove;
+    [Tooltip("disabled")]
     public UnityEvent StopMove;
     float closePosition;
     float openPosition;
@@ -24,7 +26,7 @@ public class ConfigurableJointListener : MonoBehaviour
     bool moving;
     public bool DebugOn = false;
     public PositionAxis Axis = PositionAxis.Z;
-    public float repeatRate = 0.5f;
+    private float repeatRate = 0.05f;
     private float timer = 0;
 
     ConfigurableJoint joint;
@@ -127,13 +129,13 @@ public class ConfigurableJointListener : MonoBehaviour
         if (currentVelocity > 0 && !moving)
         {
             moving = true;
-            StartMove.Invoke();
+            // StartMove.Invoke();
             if (DebugOn) Debug.Log("Start move");
         }
         if (currentVelocity == 0 && moving)
         {
             moving = false;
-            StopMove.Invoke();
+            // StopMove.Invoke();
         }
     }
 

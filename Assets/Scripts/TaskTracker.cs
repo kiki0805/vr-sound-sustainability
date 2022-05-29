@@ -13,25 +13,32 @@ public class TaskTracker : MonoBehaviour
     public bool sandwichDone = false;
     public VideoPlayer playerObject;
     private float elapsedTime = 0;
+    private ExperimentManager experimentManager;
 
     // Start is called before the first frame update
     void Start()
     {
         plates = (Plate[]) GameObject.FindObjectsOfType(typeof(Plate));
+        experimentManager = GameObject.Find("ExperimentManager").GetComponent<ExperimentManager>();
+        if (experimentManager.debug) {
+            StartCoroutine(EnableTask1Done());
+            friesDone = true;
+            sandwichDone = true;
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!task2Done.active) {
+        if (!task2Done.activeSelf) {
             if (friesDone && sandwichDone) {
                 EnableTask2Done();
             }
         }
 
-        if (task2Done.active && task1Done.active && !task3Done.active) {
+        if (task2Done.activeSelf && task1Done.activeSelf && !task3Done.activeSelf) {
             elapsedTime += Time.deltaTime;
-            if (elapsedTime > 10f) {
+            if (elapsedTime > 3f) {
                 CheckTask3();
                 elapsedTime = 0;
             }
@@ -57,7 +64,7 @@ public class TaskTracker : MonoBehaviour
     }
 
     public void FinishPlayingMusic() {
-        if (task1Done.active) {
+        if (task1Done.activeSelf) {
             return;
         }
         StartCoroutine(EnableTask1Done());
@@ -65,14 +72,17 @@ public class TaskTracker : MonoBehaviour
 
     private IEnumerator EnableTask1Done() {
         yield return new WaitForSeconds(5);
+        Debug.Log("Finish task1");
         task1Done.SetActive(true);
     }
 
     private void EnableTask2Done() {
+        Debug.Log("Finish task2");
         task2Done.SetActive(true);
     }
 
     private void EnableTask3Done() {
+        Debug.Log("Finish task3");
         task3Done.SetActive(true);
     }
 }

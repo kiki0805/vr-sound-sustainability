@@ -28,13 +28,13 @@ public class Cheater : MonoBehaviour
 
     public void SetTooltip(Ingredient ingredient) {
         tooltip.text = ingredient.GetTipString();
-        referCount ++;
+        // referCount ++;
     }
 
     public void ClearTooltip() {
-        referCount --;
-        if (referCount == 0) {
+        // referCount --;
+        // if (referCount == 0) {
             tooltip.text = "";
-        }
+        // }
     }
 }

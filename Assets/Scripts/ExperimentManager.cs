@@ -16,6 +16,7 @@ public enum Group {
 
 public class ExperimentManager : MonoBehaviour
 {
+    public bool debug = false;
     public bool Pause = false;
     public GameObject RayInteractor;
     public GameObject MenuObject;

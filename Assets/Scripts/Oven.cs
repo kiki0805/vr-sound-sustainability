@@ -8,8 +8,8 @@ public class Oven : MonoBehaviour
     public AudioSource OvenSound;
     public AudioSource FinishSound;
     public HingeJoint hinge;
-    public float MinTime = 5;//15;
-    public float MaxTime = 7;//40;
+    private float MinTime = 15;//15;
+    private float MaxTime = 40;//40;
     private bool pause = false;
     float remainedTime = 0;
     public SynthParamController controller;

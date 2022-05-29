@@ -16,7 +16,7 @@ public class HingeJointListener: MonoBehaviour
     public SynthParamController controller;
     float lastAngle;
     bool moving = false;
-    public float repeatRate = 0.5f;
+    private float repeatRate = 0.05f;
     private float timer = 0;
 
     HingeJoint hinge;

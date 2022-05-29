@@ -17,6 +17,7 @@ public class RemoteController : MonoBehaviour
     RadialItem PlayOrPauseItem;
     RadialItem MusicItem;
     RadialItem TVItem;
+    TaskTracker taskTracker;
     
     Image playOrPauseImage;
     Image musicImage;
@@ -50,6 +51,8 @@ public class RemoteController : MonoBehaviour
         TVImage = TVObject.transform.Find("Sector").gameObject.GetComponent<Image>();
         
         SetColor(true, ItemLabel.Music);
+
+        taskTracker = GameObject.Find("TaskTracker").GetComponent<TaskTracker>();
     }
 
     void SetColor(bool active, ItemLabel itemLabel)
@@ -136,6 +139,7 @@ public class RemoteController : MonoBehaviour
             return;
         }
         Debug.Log("Play or pause");
+        taskTracker.FinishPlayingMusic();
         if (pause)
         {
             pause = false;

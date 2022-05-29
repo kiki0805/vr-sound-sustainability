@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Debug = Sisus.Debugging.Debug;
 
 public class Food : MonoBehaviour
 {
@@ -33,6 +34,10 @@ public class Food : MonoBehaviour
         Instantiate(CookedVFX, gameObject.transform, false);
         var ingredient = GetComponent<Ingredient>();
         if (ingredient) {
+            if (!heatingField) {
+                ingredient.cookedBy = CookingMethod.ByToaster;
+                return;
+            }
             ingredient.cookedBy = heatingField.cookingMethod;
         }
     }
@@ -77,6 +82,9 @@ public class Food : MonoBehaviour
             Debug.Log("start cooking");
             cooking = true;
             heatingField = other.gameObject.GetComponent<HeatingField>();
+            if (!heatingField) {
+                Debug.LogState(this);
+            }
         }
     }
 

@@ -7,8 +7,8 @@ public class Microwave : MonoBehaviour
     public HeatingField MicrowaveHeatingField;
     public AudioSource MicrowaveSound;
     public AudioSource FinishSound;
-    public float MinTime = 15;
-    public float MaxTime = 40;
+    private float MinTime = 15;
+    private float MaxTime = 40;
     public HingeJoint hinge;
     float remainedTime = 0;
 

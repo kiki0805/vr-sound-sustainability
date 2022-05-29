@@ -56,11 +56,22 @@ public class RecipeChecker : MonoBehaviour
 
     private void FinishRecipe(Recipe recipe) {
         Ingredient ingredient;
-        for (int i = 0; i < ingredients.Count; i++) {
-            ingredient = ingredients[i];
-            Destroy(ingredient.gameObject);
-            ingredients.Remove(ingredient);
+        for (int j = 0; j < recipe.ingredients.Count; j++) {
+            ingredient = recipe.ingredients[j];
+            List<Ingredient> filtered = ingredients.FindAll(
+                    x => x.ingredientType == ingredient.ingredientType
+                    && (x.cookedBy == ingredient.cookingMethod
+                    || (ingredient.cookingMethod == CookingMethod.Any
+                    && x.cookedBy != CookingMethod.RawOrReadyToEat)));
+            Destroy(filtered[0].gameObject);
+            ingredients.Remove(filtered[0]);
         }
+
+        // for (int i = 0; i < ingredients.Count; i++) {
+        //     ingredient = ingredients[i];
+        //     Destroy(ingredient.gameObject);
+        //     ingredients.Remove(ingredient);
+        // }
 
         Debug.Log($"Cooked {recipe.name}");
         Instantiate(recipe.finishedPrefab, gameObject.transform, false);
