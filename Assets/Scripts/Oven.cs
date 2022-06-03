@@ -9,7 +9,7 @@ public class Oven : MonoBehaviour
     public AudioSource OvenSound;
     public AudioSource FinishSound;
     public HingeJoint hinge;
-    private float MinTime = 15;//15;
+    private float MinTime = 1;//15;
     private float MaxTime = 40;//40;
     private bool pause = false;
     float remainedTime = 0;
@@ -39,6 +39,7 @@ public class Oven : MonoBehaviour
 
     public void Pause() {
         if (remainedTime == 0) {
+            pause = !pause;
             return;
         }
         if (pause) {
@@ -57,8 +58,8 @@ public class Oven : MonoBehaviour
     public void SetTime()
     {
         float pct = (hinge.angle - hinge.limits.min) / (hinge.limits.max - hinge.limits.min);
-        if (pct < 0.1 && !controller.reversePct) return;
-        if (pct > 0.9 && controller.reversePct) return;
+        // if (pct < 0.1 && !controller.reversePct) return;
+        // if (pct > 0.9 && controller.reversePct) return;
         controller.TuneRelease(pct);
         if (remainedTime == 0) {
             OvenHeatingField.Heating = true;

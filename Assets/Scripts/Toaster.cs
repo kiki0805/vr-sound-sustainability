@@ -21,11 +21,12 @@ public class Toaster : MonoBehaviour
     bool movingHandle = false;
     bool moveUpwards = false;
     float remainedTime = 0;
+    TaskTracker taskTracker;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        taskTracker = GameObject.Find("TaskTracker").GetComponent<TaskTracker>();
     }
 
     public void AddToast(SelectEnterEventArgs args)
@@ -111,6 +112,8 @@ public class Toaster : MonoBehaviour
             Food food = toastObject.gameObject.GetComponent<Food>();
             if (food.Cooked) continue;
             food.Cooked = true;
+            taskTracker.toastDone = true;
+            Debug.Log("toast done");
         }
     }
 }

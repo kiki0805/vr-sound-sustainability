@@ -10,8 +10,9 @@ public class TaskTracker : MonoBehaviour
     public GameObject task2Done;
     public GameObject task3Done;
     private Plate[] plates;
-    public bool friesDone = false;
-    public bool sandwichDone = false;
+    public bool chickenDone = false;
+    public bool friedEggDone = false;
+    public bool toastDone = false;
     public VideoPlayer playerObject;
     private float elapsedTime = 0;
     private ExperimentManager experimentManager;
@@ -23,8 +24,6 @@ public class TaskTracker : MonoBehaviour
         experimentManager = GameObject.Find("ExperimentManager").GetComponent<ExperimentManager>();
         if (experimentManager.debug) {
             StartCoroutine(EnableTask1Done());
-            friesDone = true;
-            sandwichDone = true;
         }
     }
 
@@ -32,7 +31,7 @@ public class TaskTracker : MonoBehaviour
     void Update()
     {
         if (!task2Done.activeSelf) {
-            if (friesDone && sandwichDone) {
+            if (chickenDone && friedEggDone && toastDone) {
                 EnableTask2Done();
             }
         }

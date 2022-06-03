@@ -209,6 +209,7 @@ MonoBehaviour:
   maxUsingCount: 4
   maxDistortionLevel: 0.7
   manager: {fileID: 0}
+  monitorName: 
 --- !u!1 &493834534891988121
 GameObject:
   m_ObjectHideFlags: 0
@@ -1032,8 +1033,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.48986912, y: 0.02431798, z: 0.37919453}
-  m_Center: {x: -0.020652294, y: 0.26840204, z: 0.13189377}
+  m_Size: {x: 0.48986912, y: 0.016977668, z: 0.37919453}
+  m_Center: {x: -0.020652294, y: 0.2926365, z: 0.13189377}
 --- !u!1 &2527157741927012473
 GameObject:
   m_ObjectHideFlags: 0
@@ -1239,6 +1240,7 @@ MonoBehaviour:
   maxUsingCount: 4
   maxDistortionLevel: 0.7
   manager: {fileID: 0}
+  monitorName: 
 --- !u!1 &3402520121268304402
 GameObject:
   m_ObjectHideFlags: 0
@@ -1870,7 +1872,6 @@ MonoBehaviour:
   GasFireController: {fileID: 0}
   HeatingPowerController: {fileID: 0}
   controller: {fileID: 0}
-  repeatRate: 0.5
 --- !u!1 &4897064800333948788
 GameObject:
   m_ObjectHideFlags: 0
@@ -1913,8 +1914,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.48986912, y: 0.021291375, z: 0.37919453}
-  m_Center: {x: -0.020652294, y: 0.013589501, z: 0.13189377}
+  m_Size: {x: 0.48986912, y: 0.029202342, z: 0.37919453}
+  m_Center: {x: -0.020652294, y: 0.017544985, z: 0.13189377}
 --- !u!1 &5266105543869841166
 GameObject:
   m_ObjectHideFlags: 0
@@ -2024,8 +2025,6 @@ MonoBehaviour:
   OvenSound: {fileID: 2683504201035482717}
   FinishSound: {fileID: 6758242648964191513}
   hinge: {fileID: 1764220817226290603}
-  MinTime: 15
-  MaxTime: 40
   controller: {fileID: 5407272566806242933}
 --- !u!1 &5712078616494373318
 GameObject:
@@ -2340,7 +2339,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.14, z: 0}
   m_Axis: {x: 0, y: 1, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -5.7028446, y: 1.087, z: -0.8514}
+  m_ConnectedAnchor: {x: -5.7028446, y: 1.061, z: -0.8514}
   m_UseSpring: 1
   m_Spring:
     spring: 0
@@ -2458,7 +2457,6 @@ MonoBehaviour:
   GasFireController: {fileID: 0}
   HeatingPowerController: {fileID: 0}
   controller: {fileID: 0}
-  repeatRate: 0.5
 --- !u!1 &6246357428742874950
 GameObject:
   m_ObjectHideFlags: 0
@@ -2874,7 +2872,6 @@ MonoBehaviour:
   GasFireController: {fileID: 0}
   HeatingPowerController: {fileID: 8967093959208499843}
   controller: {fileID: 5407272566806242933}
-  repeatRate: 0.5
 --- !u!1 &7047678639290003516
 GameObject:
   m_ObjectHideFlags: 0
@@ -3206,7 +3203,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7503662100208798790}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.578, y: -0.897, z: -1.36}
+  m_LocalPosition: {x: -1.578, y: -0.885, z: -1.36}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4956938769088858457}
@@ -3223,8 +3220,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.019692898, y: 0.27761722, z: 0.37919453}
-  m_Center: {x: 0.21443582, y: 0.14175242, z: 0.13189377}
+  m_Size: {x: 0.12838507, y: 0.27761722, z: 0.37919453}
+  m_Center: {x: 0.16008973, y: 0.14175242, z: 0.13189377}
 --- !u!1 &7698334682353837377
 GameObject:
   m_ObjectHideFlags: 0
@@ -3250,7 +3247,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7698334682353837377}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.578, y: -0.897, z: -1.36}
+  m_LocalPosition: {x: -1.578, y: -0.885, z: -1.36}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4956938769088858457}

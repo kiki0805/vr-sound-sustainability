@@ -281,5 +281,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 708b9907643853f459397290f83b7db3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RequiredCookingTime: 10
+  RequiredCookingTime: 5
   CookedVFX: {fileID: 5515682357018950290, guid: 82c4640578e1e244b886c57e252e2afb, type: 3}

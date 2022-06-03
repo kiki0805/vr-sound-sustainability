@@ -23,10 +23,12 @@ public class Food : MonoBehaviour
     }
     bool cooking = false;
     float currentCookedTime = 0;
+    TaskTracker taskTracker;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        taskTracker = GameObject.Find("TaskTracker").GetComponent<TaskTracker>();
     }
 
     void setCooked()
@@ -39,6 +41,10 @@ public class Food : MonoBehaviour
                 return;
             }
             ingredient.cookedBy = heatingField.cookingMethod;
+        }
+        if (gameObject.name == "Chicken") {
+            taskTracker.chickenDone = true;
+            Debug.Log("chicken done");
         }
     }
 
@@ -93,8 +99,11 @@ public class Food : MonoBehaviour
         // Debug.Log(other.gameObject.tag);
         if (other.gameObject.tag == "HeatingField" && cooking)
         {
-            Debug.Log("stop cooking");
-            cooking = false;
+            HeatingField exitHeatingField = other.gameObject.GetComponent<HeatingField>();
+            if (GameObject.ReferenceEquals(heatingField.gameObject, exitHeatingField.gameObject)) {
+                Debug.Log("stop cooking");
+                cooking = false;
+            }
         }
     }
 }

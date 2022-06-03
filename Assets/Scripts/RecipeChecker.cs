@@ -78,11 +78,8 @@ public class RecipeChecker : MonoBehaviour
         Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Cooked: {recipe.name}", Record.LogFileName);
         Instantiate(recipe.finishedPrefab, gameObject.transform, false);
         
-        if (recipe.name == "Sandwich") {
-            taskTracker.sandwichDone = true;
-        }
-        if (recipe.name == "Fries") {
-            taskTracker.friesDone = true;
+        if (recipe.name == "Fried Egg") {
+            taskTracker.friedEggDone = true;
         }
     }
 

@@ -24,7 +24,7 @@ public class ExperimentManager : MonoBehaviour
     public OptionsManager optionsManager;
     public Group currentGroup;
     public AudioMixerSnapshot group1Snapshot;
-    // public AudioMixerSnapshot group2Snapshot;
+    public AudioMixerSnapshot group2Snapshot;
     public AudioMixerSnapshot group3Snapshot;
 
     void Start()
@@ -65,7 +65,7 @@ public class ExperimentManager : MonoBehaviour
                 break;
             case 1:
                 currentGroup = Group.Group2;
-                group1Snapshot.TransitionTo(1);
+                group2Snapshot.TransitionTo(1);
                 Debug.Log("Transit to group2");
                 break;
             case 2:
