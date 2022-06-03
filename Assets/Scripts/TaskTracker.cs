@@ -58,9 +58,7 @@ public class TaskTracker : MonoBehaviour
         if (!allClean) {
             return;
         }
-        if (playerObject.isPlaying) {
-            EnableTask3Done();
-        }
+        EnableTask3Done();
     }
 
     public void FinishPlayingMusic() {
