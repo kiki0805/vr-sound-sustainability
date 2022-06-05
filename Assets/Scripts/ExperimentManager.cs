@@ -29,6 +29,22 @@ public class ExperimentManager : MonoBehaviour
 
     void Start()
     {
+        switch (currentGroup) {
+            case Group.Group1:
+                group1Snapshot.TransitionTo(1);
+                Debug.Log("Transit to group1");
+                break;
+            case Group.Group2:
+                group2Snapshot.TransitionTo(1);
+                Debug.Log("Transit to group2");
+                break;
+            case Group.Group3:
+                group3Snapshot.TransitionTo(1);
+                Debug.Log("Transit to group3");
+                break;
+            default:
+                break;
+        }
         optionsManager.OnOptionSelected += SwitchSnapshot;
     }
 
