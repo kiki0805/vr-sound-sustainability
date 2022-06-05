@@ -143,7 +143,7 @@ public class RemoteController : MonoBehaviour
         }
         Debug.Log("Play or pause");
         Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Play or pause", Record.LogFileName);
-        taskTracker.FinishPlayingMusic();
+    
         if (pause)
         {
             pause = false;
@@ -204,6 +204,7 @@ public class RemoteController : MonoBehaviour
         if (other.gameObject.name != "ControlRegion") {
             return;
         }
+        taskTracker.EnterLivingRoom();
         withinRegion = true;
         Debug.Log("Enter the control region");
     }

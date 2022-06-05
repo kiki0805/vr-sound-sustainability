@@ -23,7 +23,7 @@ public class TaskTracker : MonoBehaviour
         plates = (Plate[]) GameObject.FindObjectsOfType(typeof(Plate));
         experimentManager = GameObject.Find("ExperimentManager").GetComponent<ExperimentManager>();
         if (experimentManager.debug) {
-            StartCoroutine(EnableTask1Done());
+            EnableTask1Done();
         }
     }
 
@@ -61,15 +61,11 @@ public class TaskTracker : MonoBehaviour
         EnableTask3Done();
     }
 
-    public void FinishPlayingMusic() {
-        if (task1Done.activeSelf) {
-            return;
-        }
-        StartCoroutine(EnableTask1Done());
+    public void EnterLivingRoom() {
+        EnableTask1Done();
     }
 
-    private IEnumerator EnableTask1Done() {
-        yield return new WaitForSeconds(5);
+    private void EnableTask1Done() {
         Debug.Log("Finish task1");
         Debug.LogToFile($"[{System.DateTime.Now.ToString("MM/dd HH:mm:ss.fff")}] Finish task1", Record.LogFileName);
         task1Done.SetActive(true);
