@@ -1,0 +1,1437 @@
+[06/06 09:26:52.750] Finish task1
+[06/06 09:27:17.850] Finish task1
+[06/06 09:29:10.091] From ToasterUsingCount | UsingCount: 1 UsingTime: 0
+[06/06 09:29:23.123] From ToasterUsingTime | UsingCount: 0 UsingTime: 0.5017089
+[06/06 09:29:23.624] From ToasterUsingTime | UsingCount: 0 UsingTime: 1.003166
+[06/06 09:29:24.125] From ToasterUsingTime | UsingCount: 0 UsingTime: 1.504234
+[06/06 09:29:24.626] From ToasterUsingTime | UsingCount: 0 UsingTime: 2.005833
+[06/06 09:29:24.877] Set toaster time: 24.39231
+[06/06 09:29:24.877] From ToasterUsingCount | UsingCount: 2 UsingTime: 0
+[06/06 09:29:25.127] From ToasterUsingTime | UsingCount: 0 UsingTime: 2.506557
+[06/06 09:29:25.628] From ToasterUsingTime | UsingCount: 0 UsingTime: 3.007563
+[06/06 09:29:26.131] From ToasterUsingTime | UsingCount: 0 UsingTime: 3.509028
+[06/06 09:29:26.645] From ToasterUsingTime | UsingCount: 0 UsingTime: 4.023633
+[06/06 09:29:27.147] From ToasterUsingTime | UsingCount: 0 UsingTime: 4.524436
+[06/06 09:29:27.647] From ToasterUsingTime | UsingCount: 0 UsingTime: 5.025872
+[06/06 09:29:28.148] From ToasterUsingTime | UsingCount: 0 UsingTime: 5.526474
+[06/06 09:29:28.650] From ToasterUsingTime | UsingCount: 0 UsingTime: 6.027597
+[06/06 09:29:29.151] From ToasterUsingTime | UsingCount: 0 UsingTime: 6.528405
+[06/06 09:29:29.652] From ToasterUsingTime | UsingCount: 0 UsingTime: 7.030081
+[06/06 09:29:29.708] Set toaster time: 29.66667
+[06/06 09:29:29.708] From ToasterUsingCount | UsingCount: 3 UsingTime: 0
+[06/06 09:29:30.153] From ToasterUsingTime | UsingCount: 0 UsingTime: 7.531015
+[06/06 09:29:30.654] From ToasterUsingTime | UsingCount: 0 UsingTime: 8.033125
+[06/06 09:29:31.155] From ToasterUsingTime | UsingCount: 0 UsingTime: 8.535378
+[06/06 09:29:31.656] From ToasterUsingTime | UsingCount: 0 UsingTime: 9.037081
+[06/06 09:29:32.157] From ToasterUsingTime | UsingCount: 0 UsingTime: 9.538293
+[06/06 09:29:32.659] From ToasterUsingTime | UsingCount: 0 UsingTime: 10.03964
+[06/06 09:29:33.161] From ToasterUsingTime | UsingCount: 0 UsingTime: 10.54047
+[06/06 09:29:33.663] From ToasterUsingTime | UsingCount: 0 UsingTime: 11.04157
+[06/06 09:29:34.164] From ToasterUsingTime | UsingCount: 0 UsingTime: 11.54261
+[06/06 09:29:34.665] From ToasterUsingTime | UsingCount: 0 UsingTime: 12.04345
+[06/06 09:29:35.167] From ToasterUsingTime | UsingCount: 0 UsingTime: 12.54482
+[06/06 09:29:35.667] From ToasterUsingTime | UsingCount: 0 UsingTime: 13.04542
+[06/06 09:29:36.168] From ToasterUsingTime | UsingCount: 0 UsingTime: 13.54589
+[06/06 09:29:36.669] From ToasterUsingTime | UsingCount: 0 UsingTime: 14.04752
+[06/06 09:29:37.171] From ToasterUsingTime | UsingCount: 0 UsingTime: 14.54914
+[06/06 09:29:37.673] From ToasterUsingTime | UsingCount: 0 UsingTime: 15.05171
+[06/06 09:29:38.174] From ToasterUsingTime | UsingCount: 0 UsingTime: 15.5518
+[06/06 09:29:38.674] From ToasterUsingTime | UsingCount: 0 UsingTime: 16.0542
+[06/06 09:29:39.175] From ToasterUsingTime | UsingCount: 0 UsingTime: 16.55549
+[06/06 09:29:39.676] From ToasterUsingTime | UsingCount: 0 UsingTime: 17.05653
+[06/06 09:29:40.178] From ToasterUsingTime | UsingCount: 0 UsingTime: 17.55732
+[06/06 09:29:40.680] From ToasterUsingTime | UsingCount: 0 UsingTime: 18.05867
+[06/06 09:29:41.181] From ToasterUsingTime | UsingCount: 0 UsingTime: 18.55957
+[06/06 09:29:41.682] From ToasterUsingTime | UsingCount: 0 UsingTime: 19.06057
+[06/06 09:29:42.184] From ToasterUsingTime | UsingCount: 0 UsingTime: 19.56159
+[06/06 09:29:42.685] From ToasterUsingTime | UsingCount: 0 UsingTime: 20.06273
+[06/06 09:29:43.186] From ToasterUsingTime | UsingCount: 0 UsingTime: 20.56403
+[06/06 09:29:43.687] From ToasterUsingTime | UsingCount: 0 UsingTime: 21.06537
+[06/06 09:29:44.188] From ToasterUsingTime | UsingCount: 0 UsingTime: 21.56661
+[06/06 09:29:44.689] From ToasterUsingTime | UsingCount: 0 UsingTime: 22.06866
+[06/06 09:29:45.191] From ToasterUsingTime | UsingCount: 0 UsingTime: 22.56978
+[06/06 09:29:45.692] From ToasterUsingTime | UsingCount: 0 UsingTime: 23.07088
+[06/06 09:29:46.192] From ToasterUsingTime | UsingCount: 0 UsingTime: 23.57173
+[06/06 09:29:46.694] From ToasterUsingTime | UsingCount: 0 UsingTime: 24.07299
+[06/06 09:29:47.195] From ToasterUsingTime | UsingCount: 0 UsingTime: 24.5743
+[06/06 09:29:47.697] From ToasterUsingTime | UsingCount: 0 UsingTime: 25.07552
+[06/06 09:29:48.197] From ToasterUsingTime | UsingCount: 0 UsingTime: 25.57635
+[06/06 09:29:48.699] From ToasterUsingTime | UsingCount: 0 UsingTime: 26.0775
+[06/06 09:29:49.200] From ToasterUsingTime | UsingCount: 0 UsingTime: 26.57865
+[06/06 09:29:49.702] From ToasterUsingTime | UsingCount: 0 UsingTime: 27.07976
+[06/06 09:29:50.203] From ToasterUsingTime | UsingCount: 0 UsingTime: 27.58128
+[06/06 09:29:50.704] From ToasterUsingTime | UsingCount: 0 UsingTime: 28.08212
+[06/06 09:29:51.206] From ToasterUsingTime | UsingCount: 0 UsingTime: 28.58466
+[06/06 09:29:51.706] From ToasterUsingTime | UsingCount: 0 UsingTime: 29.0856
+[06/06 09:29:51.971] From FridgeOpenCount | UsingCount: 1 UsingTime: 0
+[06/06 09:29:52.208] From ToasterUsingTime | UsingCount: 0 UsingTime: 29.58703
+[06/06 09:29:52.472] From FridgeOpenTime | UsingCount: 0 UsingTime: 0.500914
+[06/06 09:29:52.708] From ToasterUsingTime | UsingCount: 0 UsingTime: 30.08764
+[06/06 09:29:52.973] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.00224
+[06/06 09:29:53.210] From ToasterUsingTime | UsingCount: 0 UsingTime: 30.58886
+[06/06 09:29:53.474] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.504423
+[06/06 09:29:53.711] From ToasterUsingTime | UsingCount: 0 UsingTime: 31.08942
+[06/06 09:29:53.975] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.00603
+[06/06 09:29:54.212] From ToasterUsingTime | UsingCount: 0 UsingTime: 31.59047
+[06/06 09:29:54.475] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.506654
+[06/06 09:29:54.714] From ToasterUsingTime | UsingCount: 0 UsingTime: 32.09134
+[06/06 09:29:54.976] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.007865
+[06/06 09:29:55.215] From ToasterUsingTime | UsingCount: 0 UsingTime: 32.59224
+[06/06 09:29:55.478] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.507939
+[06/06 09:29:55.716] From ToasterUsingTime | UsingCount: 0 UsingTime: 33.09303
+[06/06 09:29:55.980] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.009566
+[06/06 09:29:56.216] From ToasterUsingTime | UsingCount: 0 UsingTime: 33.59514
+[06/06 09:29:56.481] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.510404
+[06/06 09:29:56.717] From ToasterUsingTime | UsingCount: 0 UsingTime: 34.09607
+[06/06 09:29:56.983] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.011185
+[06/06 09:29:57.052] From FridgeOpenTime | UsingCount: 0 UsingTime: 0
+[06/06 09:29:57.218] From ToasterUsingTime | UsingCount: 0 UsingTime: 34.59737
+[06/06 09:29:57.719] From ToasterUsingTime | UsingCount: 0 UsingTime: 35.09773
+[06/06 09:29:57.929] From FridgeOpenCount | UsingCount: 2 UsingTime: 0
+[06/06 09:29:58.220] From ToasterUsingTime | UsingCount: 0 UsingTime: 35.59897
+[06/06 09:29:58.430] From FridgeOpenTime | UsingCount: 0 UsingTime: 0.5006459
+[06/06 09:29:58.722] From ToasterUsingTime | UsingCount: 0 UsingTime: 36.1014
+[06/06 09:29:58.931] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.003401
+[06/06 09:29:59.223] From ToasterUsingTime | UsingCount: 0 UsingTime: 36.60262
+[06/06 09:29:59.447] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.517384
+[06/06 09:29:59.447] From ToasterUsingTime | UsingCount: 0 UsingTime: 0
+[06/06 09:29:59.948] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.017798
+[06/06 09:30:00.449] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.51885
+[06/06 09:30:00.950] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.019853
+[06/06 09:30:01.451] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.520837
+[06/06 09:30:01.952] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.022116
+[06/06 09:30:02.453] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.524292
+[06/06 09:30:02.954] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.025873
+[06/06 09:30:03.455] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.527911
+[06/06 09:30:03.956] From FridgeOpenTime | UsingCount: 0 UsingTime: 6.029155
+[06/06 09:30:04.458] From FridgeOpenTime | UsingCount: 0 UsingTime: 6.530003
+[06/06 09:30:04.959] From FridgeOpenTime | UsingCount: 0 UsingTime: 7.031423
+[06/06 09:30:05.460] From FridgeOpenTime | UsingCount: 0 UsingTime: 7.531866
+[06/06 09:30:05.962] From FridgeOpenTime | UsingCount: 0 UsingTime: 8.034428
+[06/06 09:30:06.475] From FridgeOpenTime | UsingCount: 0 UsingTime: 8.548738
+[06/06 09:30:06.977] From FridgeOpenTime | UsingCount: 0 UsingTime: 9.049357
+[06/06 09:30:07.479] From FridgeOpenTime | UsingCount: 0 UsingTime: 9.550223
+[06/06 09:30:07.980] From FridgeOpenTime | UsingCount: 0 UsingTime: 10.05145
+[06/06 09:30:08.482] From FridgeOpenTime | UsingCount: 0 UsingTime: 10.55236
+[06/06 09:30:08.983] From FridgeOpenTime | UsingCount: 0 UsingTime: 11.05367
+[06/06 09:30:09.484] From FridgeOpenTime | UsingCount: 0 UsingTime: 11.55452
+[06/06 09:30:09.985] From FridgeOpenTime | UsingCount: 0 UsingTime: 12.05629
+[06/06 09:30:10.487] From FridgeOpenTime | UsingCount: 0 UsingTime: 12.55769
+[06/06 09:30:10.988] From FridgeOpenTime | UsingCount: 0 UsingTime: 13.05894
+[06/06 09:30:11.489] From FridgeOpenTime | UsingCount: 0 UsingTime: 13.56023
+[06/06 09:30:11.991] From FridgeOpenTime | UsingCount: 0 UsingTime: 14.06117
+[06/06 09:30:12.492] From FridgeOpenTime | UsingCount: 0 UsingTime: 14.5634
+[06/06 09:30:12.993] From FridgeOpenTime | UsingCount: 0 UsingTime: 15.06486
+[06/06 09:30:13.494] From FridgeOpenTime | UsingCount: 0 UsingTime: 15.56507
+[06/06 09:30:13.995] From FridgeOpenTime | UsingCount: 0 UsingTime: 16.06534
+[06/06 09:30:14.496] From FridgeOpenTime | UsingCount: 0 UsingTime: 16.56716
+[06/06 09:30:14.997] From FridgeOpenTime | UsingCount: 0 UsingTime: 17.06857
+[06/06 09:30:15.498] From FridgeOpenTime | UsingCount: 0 UsingTime: 17.56871
+[06/06 09:30:15.999] From FridgeOpenTime | UsingCount: 0 UsingTime: 18.07035
+[06/06 09:30:16.501] From FridgeOpenTime | UsingCount: 0 UsingTime: 18.57187
+[06/06 09:30:17.002] From FridgeOpenTime | UsingCount: 0 UsingTime: 19.07508
+[06/06 09:30:17.517] From FridgeOpenTime | UsingCount: 0 UsingTime: 19.58783
+[06/06 09:30:18.017] From FridgeOpenTime | UsingCount: 0 UsingTime: 20.08893
+[06/06 09:30:18.519] From FridgeOpenTime | UsingCount: 0 UsingTime: 20.59117
+[06/06 09:30:19.021] From FridgeOpenTime | UsingCount: 0 UsingTime: 21.09272
+[06/06 09:30:19.522] From FridgeOpenTime | UsingCount: 0 UsingTime: 21.59509
+[06/06 09:30:20.023] From FridgeOpenTime | UsingCount: 0 UsingTime: 22.09545
+[06/06 09:30:20.525] From FridgeOpenTime | UsingCount: 0 UsingTime: 22.5976
+[06/06 09:30:21.025] From FridgeOpenTime | UsingCount: 0 UsingTime: 23.09844
+[06/06 09:30:21.527] From FridgeOpenTime | UsingCount: 0 UsingTime: 23.59925
+[06/06 09:30:22.027] From FridgeOpenTime | UsingCount: 0 UsingTime: 24.0998
+[06/06 09:30:22.530] From FridgeOpenTime | UsingCount: 0 UsingTime: 24.60036
+[06/06 09:30:23.031] From FridgeOpenTime | UsingCount: 0 UsingTime: 25.10193
+[06/06 09:30:23.532] From FridgeOpenTime | UsingCount: 0 UsingTime: 25.60229
+[06/06 09:30:24.033] From FridgeOpenTime | UsingCount: 0 UsingTime: 26.10359
+[06/06 09:30:24.534] From FridgeOpenTime | UsingCount: 0 UsingTime: 26.60488
+[06/06 09:30:25.034] From FridgeOpenTime | UsingCount: 0 UsingTime: 27.10631
+[06/06 09:30:25.536] From FridgeOpenTime | UsingCount: 0 UsingTime: 27.60814
+[06/06 09:30:26.037] From FridgeOpenTime | UsingCount: 0 UsingTime: 28.10921
+[06/06 09:30:26.538] From FridgeOpenTime | UsingCount: 0 UsingTime: 28.61147
+[06/06 09:30:27.040] From FridgeOpenTime | UsingCount: 0 UsingTime: 29.11244
+[06/06 09:30:27.542] From FridgeOpenTime | UsingCount: 0 UsingTime: 29.61405
+[06/06 09:30:28.042] From FridgeOpenTime | UsingCount: 0 UsingTime: 30.11502
+[06/06 09:30:28.544] From FridgeOpenTime | UsingCount: 0 UsingTime: 30.61594
+[06/06 09:30:29.045] From FridgeOpenTime | UsingCount: 0 UsingTime: 31.11662
+[06/06 09:30:29.546] From FridgeOpenTime | UsingCount: 0 UsingTime: 31.6176
+[06/06 09:30:30.048] From FridgeOpenTime | UsingCount: 0 UsingTime: 32.11872
+[06/06 09:30:30.549] From FridgeOpenTime | UsingCount: 0 UsingTime: 32.61953
+[06/06 09:30:31.050] From FridgeOpenTime | UsingCount: 0 UsingTime: 33.12092
+[06/06 09:30:31.552] From FridgeOpenTime | UsingCount: 0 UsingTime: 33.62272
+[06/06 09:30:32.052] From FridgeOpenTime | UsingCount: 0 UsingTime: 34.12883
+[06/06 09:30:32.567] From FridgeOpenTime | UsingCount: 0 UsingTime: 34.63816
+[06/06 09:30:33.069] From FridgeOpenTime | UsingCount: 0 UsingTime: 35.1398
+[06/06 09:30:33.570] From FridgeOpenTime | UsingCount: 0 UsingTime: 35.64131
+[06/06 09:30:34.071] From FridgeOpenTime | UsingCount: 0 UsingTime: 36.14341
+[06/06 09:30:34.573] From FridgeOpenTime | UsingCount: 0 UsingTime: 36.64435
+[06/06 09:30:35.073] From FridgeOpenTime | UsingCount: 0 UsingTime: 37.14679
+[06/06 09:30:35.575] From FridgeOpenTime | UsingCount: 0 UsingTime: 37.64811
+[06/06 09:30:36.076] From FridgeOpenTime | UsingCount: 0 UsingTime: 38.14848
+[06/06 09:30:36.578] From FridgeOpenTime | UsingCount: 0 UsingTime: 38.64971
+[06/06 09:30:37.079] From FridgeOpenTime | UsingCount: 0 UsingTime: 39.15043
+[06/06 09:30:37.580] From FridgeOpenTime | UsingCount: 0 UsingTime: 39.65122
+[06/06 09:30:38.082] From FridgeOpenTime | UsingCount: 0 UsingTime: 40.15269
+[06/06 09:30:38.583] From FridgeOpenTime | UsingCount: 0 UsingTime: 40.65417
+[06/06 09:30:39.083] From FridgeOpenTime | UsingCount: 0 UsingTime: 41.15435
+[06/06 09:30:39.585] From FridgeOpenTime | UsingCount: 0 UsingTime: 41.65539
+[06/06 09:30:40.086] From FridgeOpenTime | UsingCount: 0 UsingTime: 42.157
+[06/06 09:30:40.587] From FridgeOpenTime | UsingCount: 0 UsingTime: 42.6585
+[06/06 09:30:41.089] From FridgeOpenTime | UsingCount: 0 UsingTime: 43.1597
+[06/06 09:30:41.590] From FridgeOpenTime | UsingCount: 0 UsingTime: 43.66092
+[06/06 09:30:42.091] From FridgeOpenTime | UsingCount: 0 UsingTime: 44.16327
+[06/06 09:30:42.592] From FridgeOpenTime | UsingCount: 0 UsingTime: 44.66433
+[06/06 09:30:43.093] From FridgeOpenTime | UsingCount: 0 UsingTime: 45.16589
+[06/06 09:30:43.609] From FridgeOpenTime | UsingCount: 0 UsingTime: 45.68078
+[06/06 09:30:44.110] From FridgeOpenTime | UsingCount: 0 UsingTime: 46.18152
+[06/06 09:30:44.611] From FridgeOpenTime | UsingCount: 0 UsingTime: 46.6821
+[06/06 09:30:45.113] From FridgeOpenTime | UsingCount: 0 UsingTime: 47.18352
+[06/06 09:30:45.614] From FridgeOpenTime | UsingCount: 0 UsingTime: 47.68439
+[06/06 09:30:46.115] From FridgeOpenTime | UsingCount: 0 UsingTime: 48.18522
+[06/06 09:30:46.615] From FridgeOpenTime | UsingCount: 0 UsingTime: 48.68612
+[06/06 09:30:47.116] From FridgeOpenTime | UsingCount: 0 UsingTime: 49.18782
+[06/06 09:30:47.617] From FridgeOpenTime | UsingCount: 0 UsingTime: 49.68857
+[06/06 09:30:48.119] From FridgeOpenTime | UsingCount: 0 UsingTime: 50.19048
+[06/06 09:30:48.619] From FridgeOpenTime | UsingCount: 0 UsingTime: 50.69181
+[06/06 09:30:49.122] From FridgeOpenTime | UsingCount: 0 UsingTime: 51.19361
+[06/06 09:30:49.623] From FridgeOpenTime | UsingCount: 0 UsingTime: 51.69478
+[06/06 09:30:50.124] From FridgeOpenTime | UsingCount: 0 UsingTime: 52.19615
+[06/06 09:30:50.624] From FridgeOpenTime | UsingCount: 0 UsingTime: 52.69744
+[06/06 09:30:51.126] From FridgeOpenTime | UsingCount: 0 UsingTime: 53.19856
+[06/06 09:30:51.627] From FridgeOpenTime | UsingCount: 0 UsingTime: 53.69923
+[06/06 09:30:51.975] From FridgeOpenCount | UsingCount: 1 UsingTime: 0
+[06/06 09:30:52.128] From FridgeOpenTime | UsingCount: 0 UsingTime: 54.19951
+[06/06 09:30:52.630] From FridgeOpenTime | UsingCount: 0 UsingTime: 54.70076
+[06/06 09:30:53.131] From FridgeOpenTime | UsingCount: 0 UsingTime: 55.20161
+[06/06 09:30:53.633] From FridgeOpenTime | UsingCount: 0 UsingTime: 55.70298
+[06/06 09:30:54.133] From FridgeOpenTime | UsingCount: 0 UsingTime: 56.20356
+[06/06 09:30:54.634] From FridgeOpenTime | UsingCount: 0 UsingTime: 56.70549
+[06/06 09:30:55.134] From FridgeOpenTime | UsingCount: 0 UsingTime: 57.207
+[06/06 09:30:55.636] From FridgeOpenTime | UsingCount: 0 UsingTime: 57.70792
+[06/06 09:30:56.137] From FridgeOpenTime | UsingCount: 0 UsingTime: 58.21136
+[06/06 09:30:56.653] From FridgeOpenTime | UsingCount: 0 UsingTime: 58.72365
+[06/06 09:30:57.154] From FridgeOpenTime | UsingCount: 0 UsingTime: 59.2277
+[06/06 09:30:57.655] From FridgeOpenTime | UsingCount: 0 UsingTime: 59.72782
+[06/06 09:30:57.934] From FridgeOpenCount | UsingCount: 0 UsingTime: 0
+[06/06 09:30:58.155] From FridgeOpenTime | UsingCount: 0 UsingTime: 60.22916
+[06/06 09:30:58.657] From FridgeOpenTime | UsingCount: 0 UsingTime: 60.73043
+[06/06 09:30:59.159] From FridgeOpenTime | UsingCount: 0 UsingTime: 61.23224
+[06/06 09:30:59.660] From FridgeOpenTime | UsingCount: 0 UsingTime: 61.73264
+[06/06 09:31:00.162] From FridgeOpenTime | UsingCount: 0 UsingTime: 62.23334
+[06/06 09:31:00.663] From FridgeOpenTime | UsingCount: 0 UsingTime: 62.73429
+[06/06 09:31:01.164] From FridgeOpenTime | UsingCount: 0 UsingTime: 63.23548
+[06/06 09:31:01.666] From FridgeOpenTime | UsingCount: 0 UsingTime: 63.73666
+[06/06 09:31:02.168] From FridgeOpenTime | UsingCount: 0 UsingTime: 64.23898
+[06/06 09:31:02.670] From FridgeOpenTime | UsingCount: 0 UsingTime: 64.74074
+[06/06 09:31:03.171] From FridgeOpenTime | UsingCount: 0 UsingTime: 65.24186
+[06/06 09:31:03.672] From FridgeOpenTime | UsingCount: 0 UsingTime: 65.74317
+[06/06 09:31:04.173] From FridgeOpenTime | UsingCount: 0 UsingTime: 66.24625
+[06/06 09:31:04.550] Use a clean plate
+[06/06 09:31:04.674] From FridgeOpenTime | UsingCount: 0 UsingTime: 66.74653
+[06/06 09:31:05.175] From FridgeOpenTime | UsingCount: 0 UsingTime: 67.24838
+[06/06 09:31:05.675] From FridgeOpenTime | UsingCount: 0 UsingTime: 67.74892
+[06/06 09:31:06.177] From FridgeOpenTime | UsingCount: 0 UsingTime: 68.24969
+[06/06 09:31:06.679] From FridgeOpenTime | UsingCount: 0 UsingTime: 68.75072
+[06/06 09:31:07.180] From FridgeOpenTime | UsingCount: 0 UsingTime: 69.25137
+[06/06 09:31:07.682] From FridgeOpenTime | UsingCount: 0 UsingTime: 69.75267
+[06/06 09:31:08.184] From FridgeOpenTime | UsingCount: 0 UsingTime: 70.25369
+[06/06 09:31:08.684] From FridgeOpenTime | UsingCount: 0 UsingTime: 70.75488
+[06/06 09:31:09.185] From FridgeOpenTime | UsingCount: 0 UsingTime: 71.25632
+[06/06 09:31:09.686] From FridgeOpenTime | UsingCount: 0 UsingTime: 71.75789
+[06/06 09:31:10.090] From ToasterUsingCount | UsingCount: 2 UsingTime: 0
+[06/06 09:31:10.187] From FridgeOpenTime | UsingCount: 0 UsingTime: 72.25892
+[06/06 09:31:10.689] From FridgeOpenTime | UsingCount: 0 UsingTime: 72.75977
+[06/06 09:31:11.190] From FridgeOpenTime | UsingCount: 0 UsingTime: 73.26159
+[06/06 09:31:11.691] From FridgeOpenTime | UsingCount: 0 UsingTime: 73.76308
+[06/06 09:31:12.193] From FridgeOpenTime | UsingCount: 0 UsingTime: 74.26473
+[06/06 09:31:12.693] From FridgeOpenTime | UsingCount: 0 UsingTime: 74.76581
+[06/06 09:31:13.195] From FridgeOpenTime | UsingCount: 0 UsingTime: 75.26681
+[06/06 09:31:13.696] From FridgeOpenTime | UsingCount: 0 UsingTime: 75.76778
+[06/06 09:31:14.197] From FridgeOpenTime | UsingCount: 0 UsingTime: 76.26869
+[06/06 09:31:14.351] Set gasfire speed: 0.02356573
+[06/06 09:31:14.352] Set heating speed: 0.02356573
+[06/06 09:31:14.406] Set gasfire speed: 0.05482843
+[06/06 09:31:14.407] Set heating speed: 0.05482843
+[06/06 09:31:14.462] Set gasfire speed: 0.08188545
+[06/06 09:31:14.462] Set heating speed: 0.08188545
+[06/06 09:31:14.517] Set gasfire speed: 0.09671793
+[06/06 09:31:14.517] Set heating speed: 0.09671793
+[06/06 09:31:14.573] Set gasfire speed: 0.1157866
+[06/06 09:31:14.574] Set heating speed: 0.1157866
+[06/06 09:31:14.630] Set gasfire speed: 0.132077
+[06/06 09:31:14.630] Set heating speed: 0.132077
+[06/06 09:31:14.684] Set gasfire speed: 0.1481214
+[06/06 09:31:14.685] Set heating speed: 0.1481214
+[06/06 09:31:14.698] From FridgeOpenTime | UsingCount: 0 UsingTime: 76.77017
+[06/06 09:31:14.739] Set gasfire speed: 0.1579093
+[06/06 09:31:14.740] Set heating speed: 0.1579093
+[06/06 09:31:14.796] Set gasfire speed: 0.1712492
+[06/06 09:31:14.796] Set heating speed: 0.1712492
+[06/06 09:31:14.851] From OvenUsingTime | UsingCount: 0 UsingTime: 0.5011939
+[06/06 09:31:14.852] Set gasfire speed: 0.1827772
+[06/06 09:31:14.852] Set heating speed: 0.1827772
+[06/06 09:31:14.907] Set gasfire speed: 0.1880822
+[06/06 09:31:14.907] Set heating speed: 0.1880822
+[06/06 09:31:14.963] Set gasfire speed: 0.1922074
+[06/06 09:31:14.964] Set heating speed: 0.1922074
+[06/06 09:31:15.185] Set gasfire speed: 0.1859674
+[06/06 09:31:15.186] Set heating speed: 0.1859674
+[06/06 09:31:15.199] From FridgeOpenTime | UsingCount: 0 UsingTime: 77.27132
+[06/06 09:31:15.241] Set gasfire speed: 0.1792501
+[06/06 09:31:15.242] Set heating speed: 0.1792501
+[06/06 09:31:15.296] Set gasfire speed: 0.1733541
+[06/06 09:31:15.296] Set heating speed: 0.1733541
+[06/06 09:31:15.352] From OvenUsingTime | UsingCount: 0 UsingTime: 1.002027
+[06/06 09:31:15.353] Set gasfire speed: 0.1622548
+[06/06 09:31:15.353] Set heating speed: 0.1622548
+[06/06 09:31:15.407] Set gasfire speed: 0.1495462
+[06/06 09:31:15.408] Set heating speed: 0.1495462
+[06/06 09:31:15.464] Set gasfire speed: 0.1358935
+[06/06 09:31:15.464] Set heating speed: 0.1358935
+[06/06 09:31:15.518] Set gasfire speed: 0.125977
+[06/06 09:31:15.519] Set heating speed: 0.125977
+[06/06 09:31:15.574] Set gasfire speed: 0.1089571
+[06/06 09:31:15.574] Set heating speed: 0.1089571
+[06/06 09:31:15.631] Set gasfire speed: 0.09092183
+[06/06 09:31:15.631] Set heating speed: 0.09092183
+[06/06 09:31:15.686] Set gasfire speed: 0.07007354
+[06/06 09:31:15.687] Set heating speed: 0.07007354
+[06/06 09:31:15.700] From FridgeOpenTime | UsingCount: 0 UsingTime: 77.77254
+[06/06 09:31:15.742] Set gasfire speed: 0.04767707
+[06/06 09:31:15.743] Set heating speed: 0.04767707
+[06/06 09:31:15.797] Set gasfire speed: 0.03201133
+[06/06 09:31:15.798] Set heating speed: 0.03201133
+[06/06 09:31:15.854] From OvenUsingTime | UsingCount: 0 UsingTime: 1.503696
+[06/06 09:31:15.854] Set gasfire speed: 0.006248436
+[06/06 09:31:15.854] Set heating speed: 0.006248436
+[06/06 09:31:15.909] Set gasfire speed: 4.467795E-07
+[06/06 09:31:15.910] Set heating speed: 4.467795E-07
+[06/06 09:31:15.923] From OvenUsingTime | UsingCount: 0 UsingTime: 0
+[06/06 09:31:16.201] From FridgeOpenTime | UsingCount: 0 UsingTime: 78.27287
+[06/06 09:31:16.299] Set gasfire speed: 0.005116126
+[06/06 09:31:16.299] Set heating speed: 0.005116126
+[06/06 09:31:16.354] Set gasfire speed: 0.01906456
+[06/06 09:31:16.354] Set heating speed: 0.01906456
+[06/06 09:31:16.410] Set gasfire speed: 0.04083125
+[06/06 09:31:16.411] Set heating speed: 0.04083125
+[06/06 09:31:16.466] Set gasfire speed: 0.06184779
+[06/06 09:31:16.467] Set heating speed: 0.06184779
+[06/06 09:31:16.521] Set gasfire speed: 0.08105642
+[06/06 09:31:16.525] Set heating speed: 0.08105642
+[06/06 09:31:16.578] Set gasfire speed: 0.0896627
+[06/06 09:31:16.578] Set heating speed: 0.0896627
+[06/06 09:31:16.634] Set gasfire speed: 0.09861831
+[06/06 09:31:16.634] Set heating speed: 0.09861831
+[06/06 09:31:16.689] Set gasfire speed: 0.1071095
+[06/06 09:31:16.689] Set heating speed: 0.1071095
+[06/06 09:31:16.703] From FridgeOpenTime | UsingCount: 0 UsingTime: 78.77505
+[06/06 09:31:16.745] Set gasfire speed: 0.1165439
+[06/06 09:31:16.746] Set heating speed: 0.1165439
+[06/06 09:31:16.800] From OvenUsingTime | UsingCount: 0 UsingTime: 0.5010811
+[06/06 09:31:16.800] Set gasfire speed: 0.1193256
+[06/06 09:31:16.800] Set heating speed: 0.1193256
+[06/06 09:31:16.855] Set gasfire speed: 0.1252111
+[06/06 09:31:16.855] Set heating speed: 0.1252111
+[06/06 09:31:16.912] Set gasfire speed: 0.1307221
+[06/06 09:31:16.912] Set heating speed: 0.1307221
+[06/06 09:31:16.967] Set gasfire speed: 0.1354567
+[06/06 09:31:16.967] Set heating speed: 0.1354567
+[06/06 09:31:17.022] Set gasfire speed: 0.1399686
+[06/06 09:31:17.023] Set heating speed: 0.1399686
+[06/06 09:31:17.078] Set gasfire speed: 0.1440601
+[06/06 09:31:17.079] Set heating speed: 0.1440601
+[06/06 09:31:17.134] Set gasfire speed: 0.1506292
+[06/06 09:31:17.134] Set heating speed: 0.1506292
+[06/06 09:31:17.190] Set gasfire speed: 0.1573905
+[06/06 09:31:17.190] Set heating speed: 0.1573905
+[06/06 09:31:17.204] From FridgeOpenTime | UsingCount: 0 UsingTime: 79.27589
+[06/06 09:31:17.246] Set gasfire speed: 0.1641843
+[06/06 09:31:17.247] Set heating speed: 0.1641843
+[06/06 09:31:17.300] From OvenUsingTime | UsingCount: 0 UsingTime: 1.002123
+[06/06 09:31:17.301] Set gasfire speed: 0.1679485
+[06/06 09:31:17.302] Set heating speed: 0.1679485
+[06/06 09:31:17.356] Set gasfire speed: 0.1726386
+[06/06 09:31:17.357] Set heating speed: 0.1726386
+[06/06 09:31:17.413] Set gasfire speed: 0.1767364
+[06/06 09:31:17.414] Set heating speed: 0.1767364
+[06/06 09:31:17.524] Set gasfire speed: 0.1819039
+[06/06 09:31:17.525] Set heating speed: 0.1819039
+[06/06 09:31:17.705] From FridgeOpenTime | UsingCount: 0 UsingTime: 79.77652
+[06/06 09:31:17.803] From OvenUsingTime | UsingCount: 0 UsingTime: 1.503737
+[06/06 09:31:17.803] Set gasfire speed: 0.1767575
+[06/06 09:31:17.804] Set heating speed: 0.1767575
+[06/06 09:31:17.914] Set gasfire speed: 0.1835215
+[06/06 09:31:17.915] Set heating speed: 0.1835215
+[06/06 09:31:17.970] Set gasfire speed: 0.1919771
+[06/06 09:31:17.970] Set heating speed: 0.1919771
+[06/06 09:31:18.025] Set gasfire speed: 0.2014352
+[06/06 09:31:18.026] Set heating speed: 0.2014352
+[06/06 09:31:18.082] Set gasfire speed: 0.2114708
+[06/06 09:31:18.082] Set heating speed: 0.2114708
+[06/06 09:31:18.136] Set gasfire speed: 0.2194658
+[06/06 09:31:18.136] Set heating speed: 0.2194658
+[06/06 09:31:18.192] Set gasfire speed: 0.2307817
+[06/06 09:31:18.193] Set heating speed: 0.2307817
+[06/06 09:31:18.206] From FridgeOpenTime | UsingCount: 0 UsingTime: 80.27955
+[06/06 09:31:18.248] Set gasfire speed: 0.2433007
+[06/06 09:31:18.249] Set heating speed: 0.2433007
+[06/06 09:31:18.304] From OvenUsingTime | UsingCount: 0 UsingTime: 2.005098
+[06/06 09:31:18.304] Set gasfire speed: 0.2588454
+[06/06 09:31:18.305] Set heating speed: 0.2588454
+[06/06 09:31:18.359] Set gasfire speed: 0.2732123
+[06/06 09:31:18.359] Set heating speed: 0.2732123
+[06/06 09:31:18.415] Set gasfire speed: 0.2985387
+[06/06 09:31:18.415] Set heating speed: 0.2985387
+[06/06 09:31:18.471] Set gasfire speed: 0.3245161
+[06/06 09:31:18.471] Set heating speed: 0.3245161
+[06/06 09:31:18.527] Set gasfire speed: 0.345808
+[06/06 09:31:18.527] Set heating speed: 0.345808
+[06/06 09:31:18.583] Set gasfire speed: 0.3629211
+[06/06 09:31:18.583] Set heating speed: 0.3629211
+[06/06 09:31:18.637] Set gasfire speed: 0.3710937
+[06/06 09:31:18.638] Set heating speed: 0.3710937
+[06/06 09:31:18.694] Set gasfire speed: 0.3805178
+[06/06 09:31:18.694] Set heating speed: 0.3805178
+[06/06 09:31:18.708] From FridgeOpenTime | UsingCount: 0 UsingTime: 80.78115
+[06/06 09:31:18.749] Set gasfire speed: 0.3871368
+[06/06 09:31:18.750] Set heating speed: 0.3871368
+[06/06 09:31:18.805] From OvenUsingTime | UsingCount: 0 UsingTime: 2.507295
+[06/06 09:31:18.806] Set gasfire speed: 0.3918329
+[06/06 09:31:18.806] Set heating speed: 0.3918329
+[06/06 09:31:18.861] Set gasfire speed: 0.3983279
+[06/06 09:31:18.862] Set heating speed: 0.3983279
+[06/06 09:31:18.916] Set gasfire speed: 0.4014506
+[06/06 09:31:18.916] Set heating speed: 0.4014506
+[06/06 09:31:18.972] Set gasfire speed: 0.4043088
+[06/06 09:31:18.973] Set heating speed: 0.4043088
+[06/06 09:31:19.084] Set gasfire speed: 0.4088763
+[06/06 09:31:19.084] Set heating speed: 0.4088763
+[06/06 09:31:19.195] Set gasfire speed: 0.4126617
+[06/06 09:31:19.195] Set heating speed: 0.4126617
+[06/06 09:31:19.209] From FridgeOpenTime | UsingCount: 0 UsingTime: 81.28219
+[06/06 09:31:19.307] From OvenUsingTime | UsingCount: 0 UsingTime: 3.008594
+[06/06 09:31:19.307] Set gasfire speed: 0.4171793
+[06/06 09:31:19.307] Set heating speed: 0.4171793
+[06/06 09:31:19.711] From FridgeOpenTime | UsingCount: 0 UsingTime: 81.78245
+[06/06 09:31:19.808] From OvenUsingTime | UsingCount: 0 UsingTime: 3.510087
+[06/06 09:31:19.974] Set gasfire speed: 0.407231
+[06/06 09:31:19.975] Set heating speed: 0.407231
+[06/06 09:31:20.031] Set gasfire speed: 0.3978567
+[06/06 09:31:20.031] Set heating speed: 0.3978567
+[06/06 09:31:20.086] Set gasfire speed: 0.3909578
+[06/06 09:31:20.087] Set heating speed: 0.3909578
+[06/06 09:31:20.142] Set gasfire speed: 0.3847908
+[06/06 09:31:20.142] Set heating speed: 0.3847908
+[06/06 09:31:20.212] From FridgeOpenTime | UsingCount: 0 UsingTime: 82.28265
+[06/06 09:31:20.253] Set gasfire speed: 0.3792252
+[06/06 09:31:20.253] Set heating speed: 0.3792252
+[06/06 09:31:20.309] From OvenUsingTime | UsingCount: 0 UsingTime: 4.011173
+[06/06 09:31:20.310] Set gasfire speed: 0.3762541
+[06/06 09:31:20.310] Set heating speed: 0.3762541
+[06/06 09:31:20.587] Set gasfire speed: 0.3827797
+[06/06 09:31:20.588] Set heating speed: 0.3827797
+[06/06 09:31:20.643] Set gasfire speed: 0.3882123
+[06/06 09:31:20.643] Set heating speed: 0.3882123
+[06/06 09:31:20.698] Set gasfire speed: 0.3933989
+[06/06 09:31:20.699] Set heating speed: 0.3933989
+[06/06 09:31:20.713] From FridgeOpenTime | UsingCount: 0 UsingTime: 82.7845
+[06/06 09:31:20.754] Set gasfire speed: 0.4008639
+[06/06 09:31:20.754] Set heating speed: 0.4008639
+[06/06 09:31:20.810] From OvenUsingTime | UsingCount: 0 UsingTime: 4.511628
+[06/06 09:31:20.811] Set gasfire speed: 0.4096872
+[06/06 09:31:20.814] Set heating speed: 0.4096872
+[06/06 09:31:20.867] Set gasfire speed: 0.4172019
+[06/06 09:31:20.868] Set heating speed: 0.4172019
+[06/06 09:31:20.922] Set gasfire speed: 0.4244334
+[06/06 09:31:20.923] Set heating speed: 0.4244334
+[06/06 09:31:20.977] Set gasfire speed: 0.4287612
+[06/06 09:31:20.977] Set heating speed: 0.4287612
+[06/06 09:31:21.033] Set gasfire speed: 0.4351828
+[06/06 09:31:21.034] Set heating speed: 0.4351828
+[06/06 09:31:21.088] Set gasfire speed: 0.4414761
+[06/06 09:31:21.088] Set heating speed: 0.4414761
+[06/06 09:31:21.144] Set gasfire speed: 0.4459214
+[06/06 09:31:21.145] Set heating speed: 0.4459214
+[06/06 09:31:21.228] From FridgeOpenTime | UsingCount: 0 UsingTime: 83.29916
+[06/06 09:31:21.312] From OvenUsingTime | UsingCount: 0 UsingTime: 5.012777
+[06/06 09:31:21.313] Set gasfire speed: 0.4427209
+[06/06 09:31:21.313] Set heating speed: 0.4427209
+[06/06 09:31:21.367] Set gasfire speed: 0.4387299
+[06/06 09:31:21.367] Set heating speed: 0.4387299
+[06/06 09:31:21.423] Set gasfire speed: 0.434751
+[06/06 09:31:21.423] Set heating speed: 0.434751
+[06/06 09:31:21.534] Set gasfire speed: 0.4281458
+[06/06 09:31:21.535] Set heating speed: 0.4281458
+[06/06 09:31:21.589] Set gasfire speed: 0.4241985
+[06/06 09:31:21.590] Set heating speed: 0.4241985
+[06/06 09:31:21.646] Set gasfire speed: 0.420263
+[06/06 09:31:21.647] Set heating speed: 0.420263
+[06/06 09:31:21.730] From FridgeOpenTime | UsingCount: 0 UsingTime: 83.80004
+[06/06 09:31:21.813] From OvenUsingTime | UsingCount: 0 UsingTime: 5.513468
+[06/06 09:31:22.231] From FridgeOpenTime | UsingCount: 0 UsingTime: 84.3012
+[06/06 09:31:22.314] From OvenUsingTime | UsingCount: 0 UsingTime: 6.01433
+[06/06 09:31:22.732] From FridgeOpenTime | UsingCount: 0 UsingTime: 84.80183
+[06/06 09:31:22.815] From OvenUsingTime | UsingCount: 0 UsingTime: 6.515646
+[06/06 09:31:23.232] From FridgeOpenTime | UsingCount: 0 UsingTime: 85.30357
+[06/06 09:31:23.315] From OvenUsingTime | UsingCount: 0 UsingTime: 7.017545
+[06/06 09:31:23.734] From FridgeOpenTime | UsingCount: 0 UsingTime: 85.80488
+[06/06 09:31:23.817] From OvenUsingTime | UsingCount: 0 UsingTime: 7.518929
+[06/06 09:31:24.234] From FridgeOpenTime | UsingCount: 0 UsingTime: 86.30573
+[06/06 09:31:24.318] From OvenUsingTime | UsingCount: 0 UsingTime: 8.019743
+[06/06 09:31:24.735] From FridgeOpenTime | UsingCount: 0 UsingTime: 86.80739
+[06/06 09:31:24.819] From OvenUsingTime | UsingCount: 0 UsingTime: 8.520996
+[06/06 09:31:24.889] From ToasterUsingCount | UsingCount: 1 UsingTime: 0
+[06/06 09:31:25.237] From FridgeOpenTime | UsingCount: 0 UsingTime: 87.30908
+[06/06 09:31:25.321] From OvenUsingTime | UsingCount: 0 UsingTime: 9.023371
+[06/06 09:31:25.738] From FridgeOpenTime | UsingCount: 0 UsingTime: 87.81145
+[06/06 09:31:25.822] From OvenUsingTime | UsingCount: 0 UsingTime: 9.524765
+[06/06 09:31:26.239] From FridgeOpenTime | UsingCount: 0 UsingTime: 88.31203
+[06/06 09:31:26.323] From OvenUsingTime | UsingCount: 0 UsingTime: 10.02558
+[06/06 09:31:26.741] From FridgeOpenTime | UsingCount: 0 UsingTime: 88.8133
+[06/06 09:31:26.824] From OvenUsingTime | UsingCount: 0 UsingTime: 10.52708
+[06/06 09:31:27.242] From FridgeOpenTime | UsingCount: 0 UsingTime: 89.31467
+[06/06 09:31:27.325] From OvenUsingTime | UsingCount: 0 UsingTime: 11.0278
+[06/06 09:31:27.743] From FridgeOpenTime | UsingCount: 0 UsingTime: 89.81522
+[06/06 09:31:27.827] From OvenUsingTime | UsingCount: 0 UsingTime: 11.52877
+[06/06 09:31:28.244] From FridgeOpenTime | UsingCount: 0 UsingTime: 90.31637
+[06/06 09:31:28.328] From OvenUsingTime | UsingCount: 0 UsingTime: 12.02987
+[06/06 09:31:28.746] From FridgeOpenTime | UsingCount: 0 UsingTime: 90.81743
+[06/06 09:31:28.829] From OvenUsingTime | UsingCount: 0 UsingTime: 12.53034
+[06/06 09:31:29.247] From FridgeOpenTime | UsingCount: 0 UsingTime: 91.31776
+[06/06 09:31:29.344] From OvenUsingTime | UsingCount: 0 UsingTime: 13.04522
+[06/06 09:31:29.374] Cooked: Fried Egg
+[06/06 09:31:29.718] From ToasterUsingCount | UsingCount: 0 UsingTime: 0
+[06/06 09:31:29.747] From FridgeOpenTime | UsingCount: 0 UsingTime: 91.81776
+[06/06 09:31:29.845] From OvenUsingTime | UsingCount: 0 UsingTime: 13.54614
+[06/06 09:31:30.249] From FridgeOpenTime | UsingCount: 0 UsingTime: 92.31918
+[06/06 09:31:30.347] From OvenUsingTime | UsingCount: 0 UsingTime: 14.04739
+[06/06 09:31:30.750] From FridgeOpenTime | UsingCount: 0 UsingTime: 92.81992
+[06/06 09:31:30.848] From OvenUsingTime | UsingCount: 0 UsingTime: 14.54851
+[06/06 09:31:31.251] From FridgeOpenTime | UsingCount: 0 UsingTime: 93.32126
+[06/06 09:31:31.349] From OvenUsingTime | UsingCount: 0 UsingTime: 15.04953
+[06/06 09:31:31.752] From FridgeOpenTime | UsingCount: 0 UsingTime: 93.82284
+[06/06 09:31:31.850] From OvenUsingTime | UsingCount: 0 UsingTime: 15.5502
+[06/06 09:31:32.254] From FridgeOpenTime | UsingCount: 0 UsingTime: 94.32433
+[06/06 09:31:32.351] From OvenUsingTime | UsingCount: 0 UsingTime: 16.05188
+[06/06 09:31:32.755] From FridgeOpenTime | UsingCount: 0 UsingTime: 94.82629
+[06/06 09:31:32.853] From OvenUsingTime | UsingCount: 0 UsingTime: 16.55388
+[06/06 09:31:33.256] From FridgeOpenTime | UsingCount: 0 UsingTime: 95.32693
+[06/06 09:31:33.354] From OvenUsingTime | UsingCount: 0 UsingTime: 17.05438
+[06/06 09:31:33.757] From FridgeOpenTime | UsingCount: 0 UsingTime: 95.82891
+[06/06 09:31:33.854] From OvenUsingTime | UsingCount: 0 UsingTime: 17.55711
+[06/06 09:31:34.258] From FridgeOpenTime | UsingCount: 0 UsingTime: 96.33093
+[06/06 09:31:34.356] From OvenUsingTime | UsingCount: 0 UsingTime: 18.0574
+[06/06 09:31:34.759] From FridgeOpenTime | UsingCount: 0 UsingTime: 96.83189
+[06/06 09:31:34.857] From OvenUsingTime | UsingCount: 0 UsingTime: 18.55932
+[06/06 09:31:35.261] From FridgeOpenTime | UsingCount: 0 UsingTime: 97.33234
+[06/06 09:31:35.358] From OvenUsingTime | UsingCount: 0 UsingTime: 19.06069
+[06/06 09:31:35.763] From FridgeOpenTime | UsingCount: 0 UsingTime: 97.83357
+[06/06 09:31:35.859] From OvenUsingTime | UsingCount: 0 UsingTime: 19.56205
+[06/06 09:31:36.264] From FridgeOpenTime | UsingCount: 0 UsingTime: 98.33407
+[06/06 09:31:36.361] From OvenUsingTime | UsingCount: 0 UsingTime: 20.06246
+[06/06 09:31:36.765] From FridgeOpenTime | UsingCount: 0 UsingTime: 98.83524
+[06/06 09:31:36.862] From OvenUsingTime | UsingCount: 0 UsingTime: 20.56382
+[06/06 09:31:37.266] From FridgeOpenTime | UsingCount: 0 UsingTime: 99.33642
+[06/06 09:31:37.364] From OvenUsingTime | UsingCount: 0 UsingTime: 21.06441
+[06/06 09:31:37.767] From FridgeOpenTime | UsingCount: 0 UsingTime: 99.83766
+[06/06 09:31:37.865] From OvenUsingTime | UsingCount: 0 UsingTime: 21.5656
+[06/06 09:31:38.269] From FridgeOpenTime | UsingCount: 0 UsingTime: 100.3385
+[06/06 09:31:38.366] From OvenUsingTime | UsingCount: 0 UsingTime: 22.06672
+[06/06 09:31:38.769] From FridgeOpenTime | UsingCount: 0 UsingTime: 100.8398
+[06/06 09:31:38.867] From OvenUsingTime | UsingCount: 0 UsingTime: 22.56778
+[06/06 09:31:39.271] From FridgeOpenTime | UsingCount: 0 UsingTime: 101.341
+[06/06 09:31:39.368] From OvenUsingTime | UsingCount: 0 UsingTime: 23.06907
+[06/06 09:31:39.772] From FridgeOpenTime | UsingCount: 0 UsingTime: 101.8429
+[06/06 09:31:39.869] From OvenUsingTime | UsingCount: 0 UsingTime: 23.57
+[06/06 09:31:40.273] From FridgeOpenTime | UsingCount: 0 UsingTime: 102.3447
+[06/06 09:31:40.371] From OvenUsingTime | UsingCount: 0 UsingTime: 24.07139
+[06/06 09:31:40.774] From FridgeOpenTime | UsingCount: 0 UsingTime: 102.8466
+[06/06 09:31:40.872] From OvenUsingTime | UsingCount: 0 UsingTime: 24.57286
+[06/06 09:31:41.275] From FridgeOpenTime | UsingCount: 0 UsingTime: 103.3476
+[06/06 09:31:41.373] From OvenUsingTime | UsingCount: 0 UsingTime: 25.07422
+[06/06 09:31:41.776] From FridgeOpenTime | UsingCount: 0 UsingTime: 103.8485
+[06/06 09:31:41.875] From OvenUsingTime | UsingCount: 0 UsingTime: 25.57596
+[06/06 09:31:42.277] From FridgeOpenTime | UsingCount: 0 UsingTime: 104.3493
+[06/06 09:31:42.375] From OvenUsingTime | UsingCount: 0 UsingTime: 26.07848
+[06/06 09:31:42.779] From FridgeOpenTime | UsingCount: 0 UsingTime: 104.8498
+[06/06 09:31:42.875] From OvenUsingTime | UsingCount: 0 UsingTime: 26.57872
+[06/06 09:31:43.280] From FridgeOpenTime | UsingCount: 0 UsingTime: 105.3512
+[06/06 09:31:43.377] From OvenUsingTime | UsingCount: 0 UsingTime: 27.07942
+[06/06 09:31:43.781] From FridgeOpenTime | UsingCount: 0 UsingTime: 105.852
+[06/06 09:31:43.878] From OvenUsingTime | UsingCount: 0 UsingTime: 27.58027
+[06/06 09:31:44.283] From FridgeOpenTime | UsingCount: 0 UsingTime: 106.3534
+[06/06 09:31:44.380] From OvenUsingTime | UsingCount: 0 UsingTime: 28.08122
+[06/06 09:31:44.784] From FridgeOpenTime | UsingCount: 0 UsingTime: 106.8546
+[06/06 09:31:44.882] From OvenUsingTime | UsingCount: 0 UsingTime: 28.58272
+[06/06 09:31:45.286] From FridgeOpenTime | UsingCount: 0 UsingTime: 107.3571
+[06/06 09:31:45.383] From OvenUsingTime | UsingCount: 0 UsingTime: 29.08395
+[06/06 09:31:45.800] From FridgeOpenTime | UsingCount: 0 UsingTime: 107.8709
+[06/06 09:31:45.884] From OvenUsingTime | UsingCount: 0 UsingTime: 29.58474
+[06/06 09:31:46.302] From FridgeOpenTime | UsingCount: 0 UsingTime: 108.3721
+[06/06 09:31:46.385] From OvenUsingTime | UsingCount: 0 UsingTime: 30.08595
+[06/06 09:31:46.802] From FridgeOpenTime | UsingCount: 0 UsingTime: 108.8738
+[06/06 09:31:46.886] From OvenUsingTime | UsingCount: 0 UsingTime: 30.58726
+[06/06 09:31:47.304] From FridgeOpenTime | UsingCount: 0 UsingTime: 109.3754
+[06/06 09:31:47.387] From OvenUsingTime | UsingCount: 0 UsingTime: 31.08793
+[06/06 09:31:47.805] From FridgeOpenTime | UsingCount: 0 UsingTime: 109.8764
+[06/06 09:31:47.889] From OvenUsingTime | UsingCount: 0 UsingTime: 31.59036
+[06/06 09:31:48.306] From FridgeOpenTime | UsingCount: 0 UsingTime: 110.3779
+[06/06 09:31:48.389] From OvenUsingTime | UsingCount: 0 UsingTime: 32.09086
+[06/06 09:31:48.808] From FridgeOpenTime | UsingCount: 0 UsingTime: 110.8798
+[06/06 09:31:48.891] From OvenUsingTime | UsingCount: 0 UsingTime: 32.59332
+[06/06 09:31:49.308] From FridgeOpenTime | UsingCount: 0 UsingTime: 111.3806
+[06/06 09:31:49.392] From OvenUsingTime | UsingCount: 0 UsingTime: 33.09479
+[06/06 09:31:49.809] From FridgeOpenTime | UsingCount: 0 UsingTime: 111.8819
+[06/06 09:31:49.893] From OvenUsingTime | UsingCount: 0 UsingTime: 33.59592
+[06/06 09:31:50.311] From FridgeOpenTime | UsingCount: 0 UsingTime: 112.3824
+[06/06 09:31:50.395] From OvenUsingTime | UsingCount: 0 UsingTime: 34.09602
+[06/06 09:31:50.812] From FridgeOpenTime | UsingCount: 0 UsingTime: 112.8834
+[06/06 09:31:50.896] From OvenUsingTime | UsingCount: 0 UsingTime: 34.5974
+[06/06 09:31:51.314] From FridgeOpenTime | UsingCount: 0 UsingTime: 113.3844
+[06/06 09:31:51.397] From OvenUsingTime | UsingCount: 0 UsingTime: 35.09836
+[06/06 09:31:51.815] From FridgeOpenTime | UsingCount: 0 UsingTime: 113.8851
+[06/06 09:31:51.898] From OvenUsingTime | UsingCount: 0 UsingTime: 35.59909
+[06/06 09:31:52.315] From FridgeOpenTime | UsingCount: 0 UsingTime: 114.3866
+[06/06 09:31:52.399] From OvenUsingTime | UsingCount: 0 UsingTime: 36.10064
+[06/06 09:31:52.816] From FridgeOpenTime | UsingCount: 0 UsingTime: 114.8877
+[06/06 09:31:52.900] From OvenUsingTime | UsingCount: 0 UsingTime: 36.60181
+[06/06 09:31:53.318] From FridgeOpenTime | UsingCount: 0 UsingTime: 115.3891
+[06/06 09:31:53.402] From OvenUsingTime | UsingCount: 0 UsingTime: 37.10278
+[06/06 09:31:53.818] From FridgeOpenTime | UsingCount: 0 UsingTime: 115.8897
+[06/06 09:31:53.902] From OvenUsingTime | UsingCount: 0 UsingTime: 37.6039
+[06/06 09:31:54.320] From FridgeOpenTime | UsingCount: 0 UsingTime: 116.3922
+[06/06 09:31:54.404] From OvenUsingTime | UsingCount: 0 UsingTime: 38.10569
+[06/06 09:31:54.822] From FridgeOpenTime | UsingCount: 0 UsingTime: 116.8941
+[06/06 09:31:54.905] From OvenUsingTime | UsingCount: 0 UsingTime: 38.60725
+[06/06 09:31:55.323] From FridgeOpenTime | UsingCount: 0 UsingTime: 117.395
+[06/06 09:31:55.407] From OvenUsingTime | UsingCount: 0 UsingTime: 39.10907
+[06/06 09:31:55.824] From FridgeOpenTime | UsingCount: 0 UsingTime: 117.8966
+[06/06 09:31:55.908] From OvenUsingTime | UsingCount: 0 UsingTime: 39.6099
+[06/06 09:31:56.328] From FridgeOpenTime | UsingCount: 0 UsingTime: 118.3989
+[06/06 09:31:56.411] From OvenUsingTime | UsingCount: 0 UsingTime: 40.11187
+[06/06 09:31:56.829] From FridgeOpenTime | UsingCount: 0 UsingTime: 118.8996
+[06/06 09:31:56.913] From OvenUsingTime | UsingCount: 0 UsingTime: 40.6127
+[06/06 09:31:57.341] From FridgeOpenTime | UsingCount: 0 UsingTime: 119.4134
+[06/06 09:31:57.425] From OvenUsingTime | UsingCount: 0 UsingTime: 41.12746
+[06/06 09:31:57.843] From FridgeOpenTime | UsingCount: 0 UsingTime: 119.9151
+[06/06 09:31:57.926] From OvenUsingTime | UsingCount: 0 UsingTime: 41.6286
+[06/06 09:31:58.345] From FridgeOpenTime | UsingCount: 0 UsingTime: 120.4161
+[06/06 09:31:58.429] From OvenUsingTime | UsingCount: 0 UsingTime: 42.12984
+[06/06 09:31:58.846] From FridgeOpenTime | UsingCount: 0 UsingTime: 120.917
+[06/06 09:31:58.930] From OvenUsingTime | UsingCount: 0 UsingTime: 42.6302
+[06/06 09:31:59.347] From FridgeOpenTime | UsingCount: 0 UsingTime: 121.4175
+[06/06 09:31:59.431] From OvenUsingTime | UsingCount: 0 UsingTime: 43.13115
+[06/06 09:31:59.848] From FridgeOpenTime | UsingCount: 0 UsingTime: 121.9185
+[06/06 09:31:59.917] From FridgeOpenTime | UsingCount: 0 UsingTime: 0
+[06/06 09:31:59.932] From OvenUsingTime | UsingCount: 0 UsingTime: 43.63275
+[06/06 09:32:00.237] From FridgeOpenCount | UsingCount: 1 UsingTime: 0
+[06/06 09:32:00.447] From OvenUsingTime | UsingCount: 0 UsingTime: 44.14729
+[06/06 09:32:00.753] From FridgeOpenTime | UsingCount: 0 UsingTime: 0.511543
+[06/06 09:32:00.948] From OvenUsingTime | UsingCount: 0 UsingTime: 44.6486
+[06/06 09:32:01.253] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.014115
+[06/06 09:32:01.449] From OvenUsingTime | UsingCount: 0 UsingTime: 45.14978
+[06/06 09:32:01.755] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.516091
+[06/06 09:32:01.950] From OvenUsingTime | UsingCount: 0 UsingTime: 45.6507
+[06/06 09:32:02.256] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.017274
+[06/06 09:32:02.451] From OvenUsingTime | UsingCount: 0 UsingTime: 46.15219
+[06/06 09:32:02.758] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.51912
+[06/06 09:32:02.953] From OvenUsingTime | UsingCount: 0 UsingTime: 46.65389
+[06/06 09:32:03.259] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.020397
+[06/06 09:32:03.453] From OvenUsingTime | UsingCount: 0 UsingTime: 47.15565
+[06/06 09:32:03.761] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.520972
+[06/06 09:32:03.955] From OvenUsingTime | UsingCount: 0 UsingTime: 47.65828
+[06/06 09:32:04.262] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.021793
+[06/06 09:32:04.456] From OvenUsingTime | UsingCount: 0 UsingTime: 48.15902
+[06/06 09:32:04.763] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.522597
+[06/06 09:32:04.957] From OvenUsingTime | UsingCount: 0 UsingTime: 48.66079
+[06/06 09:32:05.264] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.023798
+[06/06 09:32:05.458] From OvenUsingTime | UsingCount: 0 UsingTime: 49.16158
+[06/06 09:32:05.765] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.52455
+[06/06 09:32:05.960] From OvenUsingTime | UsingCount: 0 UsingTime: 49.66238
+[06/06 09:32:06.266] From FridgeOpenTime | UsingCount: 0 UsingTime: 6.025542
+[06/06 09:32:06.461] From OvenUsingTime | UsingCount: 0 UsingTime: 50.16312
+[06/06 09:32:06.767] From FridgeOpenTime | UsingCount: 0 UsingTime: 6.526322
+[06/06 09:32:06.963] From OvenUsingTime | UsingCount: 0 UsingTime: 50.66441
+[06/06 09:32:07.269] From FridgeOpenTime | UsingCount: 0 UsingTime: 7.027875
+[06/06 09:32:07.464] From OvenUsingTime | UsingCount: 0 UsingTime: 51.1651
+[06/06 09:32:07.770] From FridgeOpenTime | UsingCount: 0 UsingTime: 7.529452
+[06/06 09:32:07.965] From OvenUsingTime | UsingCount: 0 UsingTime: 51.6661
+[06/06 09:32:08.271] From FridgeOpenTime | UsingCount: 0 UsingTime: 8.031035
+[06/06 09:32:08.466] From OvenUsingTime | UsingCount: 0 UsingTime: 52.16678
+[06/06 09:32:08.773] From FridgeOpenTime | UsingCount: 0 UsingTime: 8.532063
+[06/06 09:32:08.967] From OvenUsingTime | UsingCount: 0 UsingTime: 52.66851
+[06/06 09:32:09.274] From FridgeOpenTime | UsingCount: 0 UsingTime: 9.035071
+[06/06 09:32:09.469] From OvenUsingTime | UsingCount: 0 UsingTime: 53.16967
+[06/06 09:32:09.774] From FridgeOpenTime | UsingCount: 0 UsingTime: 9.535965
+[06/06 09:32:09.970] From OvenUsingTime | UsingCount: 0 UsingTime: 53.67097
+[06/06 09:32:10.276] From FridgeOpenTime | UsingCount: 0 UsingTime: 10.03719
+[06/06 09:32:10.471] From OvenUsingTime | UsingCount: 0 UsingTime: 54.1726
+[06/06 09:32:10.777] From FridgeOpenTime | UsingCount: 0 UsingTime: 10.53756
+[06/06 09:32:10.972] From OvenUsingTime | UsingCount: 0 UsingTime: 54.67407
+[06/06 09:32:11.278] From FridgeOpenTime | UsingCount: 0 UsingTime: 11.03827
+[06/06 09:32:11.474] From OvenUsingTime | UsingCount: 0 UsingTime: 55.17537
+[06/06 09:32:11.780] From FridgeOpenTime | UsingCount: 0 UsingTime: 11.53997
+[06/06 09:32:11.974] From OvenUsingTime | UsingCount: 0 UsingTime: 55.67752
+[06/06 09:32:12.281] From FridgeOpenTime | UsingCount: 0 UsingTime: 12.04052
+[06/06 09:32:12.475] From OvenUsingTime | UsingCount: 0 UsingTime: 56.17844
+[06/06 09:32:12.782] From FridgeOpenTime | UsingCount: 0 UsingTime: 12.54155
+[06/06 09:32:12.976] From OvenUsingTime | UsingCount: 0 UsingTime: 56.67958
+[06/06 09:32:13.283] From FridgeOpenTime | UsingCount: 0 UsingTime: 13.04249
+[06/06 09:32:13.478] From OvenUsingTime | UsingCount: 0 UsingTime: 57.17997
+[06/06 09:32:13.785] From FridgeOpenTime | UsingCount: 0 UsingTime: 13.54385
+[06/06 09:32:13.980] From OvenUsingTime | UsingCount: 0 UsingTime: 57.68134
+[06/06 09:32:14.286] From FridgeOpenTime | UsingCount: 0 UsingTime: 14.04556
+[06/06 09:32:14.480] From OvenUsingTime | UsingCount: 0 UsingTime: 58.18171
+[06/06 09:32:14.786] From FridgeOpenTime | UsingCount: 0 UsingTime: 14.54655
+[06/06 09:32:14.982] From OvenUsingTime | UsingCount: 0 UsingTime: 58.68307
+[06/06 09:32:15.288] From FridgeOpenTime | UsingCount: 0 UsingTime: 15.04762
+[06/06 09:32:15.483] From OvenUsingTime | UsingCount: 0 UsingTime: 59.18397
+[06/06 09:32:15.790] From FridgeOpenTime | UsingCount: 0 UsingTime: 15.54911
+[06/06 09:32:15.985] From OvenUsingTime | UsingCount: 0 UsingTime: 59.68559
+[06/06 09:32:16.291] From FridgeOpenTime | UsingCount: 0 UsingTime: 16.05163
+[06/06 09:32:16.486] From OvenUsingTime | UsingCount: 0 UsingTime: 60.1868
+[06/06 09:32:16.792] From FridgeOpenTime | UsingCount: 0 UsingTime: 16.55225
+[06/06 09:32:16.987] From OvenUsingTime | UsingCount: 0 UsingTime: 60.6882
+[06/06 09:32:17.293] From FridgeOpenTime | UsingCount: 0 UsingTime: 17.0534
+[06/06 09:32:17.488] From OvenUsingTime | UsingCount: 0 UsingTime: 61.18942
+[06/06 09:32:17.794] From FridgeOpenTime | UsingCount: 0 UsingTime: 17.55376
+[06/06 09:32:17.989] From OvenUsingTime | UsingCount: 0 UsingTime: 61.69137
+[06/06 09:32:18.295] From FridgeOpenTime | UsingCount: 0 UsingTime: 18.05527
+[06/06 09:32:18.490] From OvenUsingTime | UsingCount: 0 UsingTime: 62.19166
+[06/06 09:32:18.796] From FridgeOpenTime | UsingCount: 0 UsingTime: 18.55629
+[06/06 09:32:18.992] From OvenUsingTime | UsingCount: 0 UsingTime: 62.69323
+[06/06 09:32:19.297] From FridgeOpenTime | UsingCount: 0 UsingTime: 19.05773
+[06/06 09:32:19.493] From OvenUsingTime | UsingCount: 0 UsingTime: 63.19426
+[06/06 09:32:19.798] From FridgeOpenTime | UsingCount: 0 UsingTime: 19.55848
+[06/06 09:32:19.994] From OvenUsingTime | UsingCount: 0 UsingTime: 63.69529
+[06/06 09:32:20.299] From FridgeOpenTime | UsingCount: 0 UsingTime: 20.05939
+[06/06 09:32:20.494] From OvenUsingTime | UsingCount: 0 UsingTime: 64.19674
+[06/06 09:32:20.801] From FridgeOpenTime | UsingCount: 0 UsingTime: 20.56083
+[06/06 09:32:20.996] From OvenUsingTime | UsingCount: 0 UsingTime: 64.6977
+[06/06 09:32:21.302] From FridgeOpenTime | UsingCount: 0 UsingTime: 21.06223
+[06/06 09:32:21.497] From OvenUsingTime | UsingCount: 0 UsingTime: 65.19878
+[06/06 09:32:21.804] From FridgeOpenTime | UsingCount: 0 UsingTime: 21.56381
+[06/06 09:32:21.999] From OvenUsingTime | UsingCount: 0 UsingTime: 65.70007
+[06/06 09:32:22.305] From FridgeOpenTime | UsingCount: 0 UsingTime: 22.06592
+[06/06 09:32:22.499] From OvenUsingTime | UsingCount: 0 UsingTime: 66.20093
+[06/06 09:32:22.806] From FridgeOpenTime | UsingCount: 0 UsingTime: 22.56647
+[06/06 09:32:23.000] From OvenUsingTime | UsingCount: 0 UsingTime: 66.70195
+[06/06 09:32:23.307] From FridgeOpenTime | UsingCount: 0 UsingTime: 23.06816
+[06/06 09:32:23.502] From OvenUsingTime | UsingCount: 0 UsingTime: 67.20348
+[06/06 09:32:23.808] From FridgeOpenTime | UsingCount: 0 UsingTime: 23.56896
+[06/06 09:32:24.003] From OvenUsingTime | UsingCount: 0 UsingTime: 67.70459
+[06/06 09:32:24.310] From FridgeOpenTime | UsingCount: 0 UsingTime: 24.06994
+[06/06 09:32:24.504] From OvenUsingTime | UsingCount: 0 UsingTime: 68.20611
+[06/06 09:32:24.811] From FridgeOpenTime | UsingCount: 0 UsingTime: 24.57036
+[06/06 09:32:25.006] From OvenUsingTime | UsingCount: 0 UsingTime: 68.70797
+[06/06 09:32:25.312] From FridgeOpenTime | UsingCount: 0 UsingTime: 25.07109
+[06/06 09:32:25.507] From OvenUsingTime | UsingCount: 0 UsingTime: 69.20863
+[06/06 09:32:25.813] From FridgeOpenTime | UsingCount: 0 UsingTime: 25.57255
+[06/06 09:32:26.008] From OvenUsingTime | UsingCount: 0 UsingTime: 69.70983
+[06/06 09:32:26.315] From FridgeOpenTime | UsingCount: 0 UsingTime: 26.07348
+[06/06 09:32:26.509] From OvenUsingTime | UsingCount: 0 UsingTime: 70.21077
+[06/06 09:32:26.815] From FridgeOpenTime | UsingCount: 0 UsingTime: 26.57532
+[06/06 09:32:27.011] From OvenUsingTime | UsingCount: 0 UsingTime: 70.71189
+[06/06 09:32:27.316] From FridgeOpenTime | UsingCount: 0 UsingTime: 27.07599
+[06/06 09:32:27.512] From OvenUsingTime | UsingCount: 0 UsingTime: 71.21287
+[06/06 09:32:27.818] From FridgeOpenTime | UsingCount: 0 UsingTime: 27.57763
+[06/06 09:32:28.013] From OvenUsingTime | UsingCount: 0 UsingTime: 71.71304
+[06/06 09:32:28.318] From FridgeOpenTime | UsingCount: 0 UsingTime: 28.07773
+[06/06 09:32:28.513] From OvenUsingTime | UsingCount: 0 UsingTime: 72.21419
+[06/06 09:32:28.831] From FridgeOpenTime | UsingCount: 0 UsingTime: 28.59024
+[06/06 09:32:29.025] From OvenUsingTime | UsingCount: 0 UsingTime: 72.72662
+[06/06 09:32:29.343] From FridgeOpenTime | UsingCount: 0 UsingTime: 29.10305
+[06/06 09:32:29.536] From OvenUsingTime | UsingCount: 0 UsingTime: 73.23792
+[06/06 09:32:29.856] From FridgeOpenTime | UsingCount: 0 UsingTime: 29.61764
+[06/06 09:32:30.037] From OvenUsingTime | UsingCount: 0 UsingTime: 73.73872
+[06/06 09:32:30.357] From FridgeOpenTime | UsingCount: 0 UsingTime: 30.11837
+[06/06 09:32:30.539] From OvenUsingTime | UsingCount: 0 UsingTime: 74.24108
+[06/06 09:32:30.860] From FridgeOpenTime | UsingCount: 0 UsingTime: 30.62126
+[06/06 09:32:31.040] From OvenUsingTime | UsingCount: 0 UsingTime: 74.74206
+[06/06 09:32:31.374] From FridgeOpenTime | UsingCount: 0 UsingTime: 31.13501
+[06/06 09:32:31.542] From OvenUsingTime | UsingCount: 0 UsingTime: 75.24328
+[06/06 09:32:31.874] From FridgeOpenTime | UsingCount: 0 UsingTime: 31.63673
+[06/06 09:32:32.042] From OvenUsingTime | UsingCount: 0 UsingTime: 75.74484
+[06/06 09:32:32.376] From FridgeOpenTime | UsingCount: 0 UsingTime: 32.13773
+[06/06 09:32:32.543] From OvenUsingTime | UsingCount: 0 UsingTime: 76.24574
+[06/06 09:32:32.878] From FridgeOpenTime | UsingCount: 0 UsingTime: 32.63843
+[06/06 09:32:33.046] From OvenUsingTime | UsingCount: 0 UsingTime: 76.74636
+[06/06 09:32:33.379] From FridgeOpenTime | UsingCount: 0 UsingTime: 33.13887
+[06/06 09:32:33.547] From OvenUsingTime | UsingCount: 0 UsingTime: 77.24804
+[06/06 09:32:33.882] From FridgeOpenTime | UsingCount: 0 UsingTime: 33.64049
+[06/06 09:32:34.049] From OvenUsingTime | UsingCount: 0 UsingTime: 77.74936
+[06/06 09:32:34.383] From FridgeOpenTime | UsingCount: 0 UsingTime: 34.14211
+[06/06 09:32:34.550] From OvenUsingTime | UsingCount: 0 UsingTime: 78.25028
+[06/06 09:32:34.884] From FridgeOpenTime | UsingCount: 0 UsingTime: 34.64334
+[06/06 09:32:35.052] From OvenUsingTime | UsingCount: 0 UsingTime: 78.75177
+[06/06 09:32:35.386] From FridgeOpenTime | UsingCount: 0 UsingTime: 35.14515
+[06/06 09:32:35.553] From OvenUsingTime | UsingCount: 0 UsingTime: 79.25344
+[06/06 09:32:35.888] From FridgeOpenTime | UsingCount: 0 UsingTime: 35.64759
+[06/06 09:32:36.054] From OvenUsingTime | UsingCount: 0 UsingTime: 79.75645
+[06/06 09:32:36.389] From FridgeOpenTime | UsingCount: 0 UsingTime: 36.14777
+[06/06 09:32:36.556] From OvenUsingTime | UsingCount: 0 UsingTime: 80.25824
+[06/06 09:32:36.890] From FridgeOpenTime | UsingCount: 0 UsingTime: 36.64915
+[06/06 09:32:37.056] From OvenUsingTime | UsingCount: 0 UsingTime: 80.7592
+[06/06 09:32:37.391] From FridgeOpenTime | UsingCount: 0 UsingTime: 37.15155
+[06/06 09:32:37.558] From OvenUsingTime | UsingCount: 0 UsingTime: 81.26063
+[06/06 09:32:37.893] From FridgeOpenTime | UsingCount: 0 UsingTime: 37.65301
+[06/06 09:32:38.060] From OvenUsingTime | UsingCount: 0 UsingTime: 81.76337
+[06/06 09:32:38.394] From FridgeOpenTime | UsingCount: 0 UsingTime: 38.15377
+[06/06 09:32:38.562] From OvenUsingTime | UsingCount: 0 UsingTime: 82.26345
+[06/06 09:32:38.895] From FridgeOpenTime | UsingCount: 0 UsingTime: 38.65525
+[06/06 09:32:39.063] From OvenUsingTime | UsingCount: 0 UsingTime: 82.76372
+[06/06 09:32:39.397] From FridgeOpenTime | UsingCount: 0 UsingTime: 39.15694
+[06/06 09:32:39.564] From OvenUsingTime | UsingCount: 0 UsingTime: 83.26508
+[06/06 09:32:39.898] From FridgeOpenTime | UsingCount: 0 UsingTime: 39.65748
+[06/06 09:32:40.065] From OvenUsingTime | UsingCount: 0 UsingTime: 83.76614
+[06/06 09:32:40.399] From FridgeOpenTime | UsingCount: 0 UsingTime: 40.15954
+[06/06 09:32:40.568] From OvenUsingTime | UsingCount: 0 UsingTime: 84.2689
+[06/06 09:32:40.901] From FridgeOpenTime | UsingCount: 0 UsingTime: 40.6604
+[06/06 09:32:41.083] From OvenUsingTime | UsingCount: 0 UsingTime: 84.78323
+[06/06 09:32:41.403] From FridgeOpenTime | UsingCount: 0 UsingTime: 41.1623
+[06/06 09:32:41.583] From OvenUsingTime | UsingCount: 0 UsingTime: 85.28433
+[06/06 09:32:41.904] From FridgeOpenTime | UsingCount: 0 UsingTime: 41.66346
+[06/06 09:32:42.085] From OvenUsingTime | UsingCount: 0 UsingTime: 85.786
+[06/06 09:32:42.406] From FridgeOpenTime | UsingCount: 0 UsingTime: 42.16572
+[06/06 09:32:42.586] From OvenUsingTime | UsingCount: 0 UsingTime: 86.28821
+[06/06 09:32:42.907] From FridgeOpenTime | UsingCount: 0 UsingTime: 42.67099
+[06/06 09:32:43.087] From OvenUsingTime | UsingCount: 0 UsingTime: 86.78894
+[06/06 09:32:43.422] From FridgeOpenTime | UsingCount: 0 UsingTime: 43.18281
+[06/06 09:32:43.589] From OvenUsingTime | UsingCount: 0 UsingTime: 87.29033
+[06/06 09:32:43.924] From FridgeOpenTime | UsingCount: 0 UsingTime: 43.68489
+[06/06 09:32:44.091] From OvenUsingTime | UsingCount: 0 UsingTime: 87.79272
+[06/06 09:32:44.425] From FridgeOpenTime | UsingCount: 0 UsingTime: 44.18549
+[06/06 09:32:44.591] From OvenUsingTime | UsingCount: 0 UsingTime: 88.29346
+[06/06 09:32:44.926] From FridgeOpenTime | UsingCount: 0 UsingTime: 44.68674
+[06/06 09:32:45.093] From OvenUsingTime | UsingCount: 0 UsingTime: 88.79524
+[06/06 09:32:45.373] Start oven
+[06/06 09:32:45.373] Set oven time 40
+[06/06 09:32:45.427] From FridgeOpenTime | UsingCount: 0 UsingTime: 45.18883
+[06/06 09:32:45.595] From OvenUsingTime | UsingCount: 0 UsingTime: 89.29584
+[06/06 09:32:45.943] From FridgeOpenTime | UsingCount: 0 UsingTime: 45.70347
+[06/06 09:32:46.095] From OvenUsingTime | UsingCount: 0 UsingTime: 89.79739
+[06/06 09:32:46.444] From FridgeOpenTime | UsingCount: 0 UsingTime: 46.20485
+[06/06 09:32:46.597] From OvenUsingTime | UsingCount: 0 UsingTime: 90.29847
+[06/06 09:32:46.946] From FridgeOpenTime | UsingCount: 0 UsingTime: 46.70572
+[06/06 09:32:47.085] Set heating speed: 0.970992
+[06/06 09:32:47.099] From OvenUsingTime | UsingCount: 0 UsingTime: 90.80115
+[06/06 09:32:47.141] Set heating speed: 0.9328086
+[06/06 09:32:47.195] Set heating speed: 0.9206967
+[06/06 09:32:47.251] Set heating speed: 0.993461
+[06/06 09:32:47.308] Set heating speed: 0.9999998
+[06/06 09:32:47.460] From FridgeOpenTime | UsingCount: 0 UsingTime: 47.22038
+[06/06 09:32:47.614] From OvenUsingTime | UsingCount: 0 UsingTime: 91.3146
+[06/06 09:32:47.963] From FridgeOpenTime | UsingCount: 0 UsingTime: 47.72219
+[06/06 09:32:48.115] From OvenUsingTime | UsingCount: 0 UsingTime: 91.81611
+[06/06 09:32:48.464] From FridgeOpenTime | UsingCount: 0 UsingTime: 48.2231
+[06/06 09:32:48.616] From OvenUsingTime | UsingCount: 0 UsingTime: 92.31779
+[06/06 09:32:48.924] Set heating speed: 0.9813141
+[06/06 09:32:48.965] From FridgeOpenTime | UsingCount: 0 UsingTime: 48.72422
+[06/06 09:32:48.979] Set heating speed: 0.9619256
+[06/06 09:32:49.034] Set heating speed: 0.9354311
+[06/06 09:32:49.090] Set heating speed: 0.9124001
+[06/06 09:32:49.117] From OvenUsingTime | UsingCount: 0 UsingTime: 92.8191
+[06/06 09:32:49.257] Set heating speed: 0.9081957
+[06/06 09:32:49.314] Set heating speed: 0.917608
+[06/06 09:32:49.369] Set heating speed: 0.9077959
+[06/06 09:32:49.425] Set heating speed: 0.8843279
+[06/06 09:32:49.467] From FridgeOpenTime | UsingCount: 0 UsingTime: 49.22577
+[06/06 09:32:49.481] Set heating speed: 0.8521305
+[06/06 09:32:49.535] Set heating speed: 0.8293752
+[06/06 09:32:49.591] Set heating speed: 0.7872981
+[06/06 09:32:49.619] From OvenUsingTime | UsingCount: 0 UsingTime: 93.32119
+[06/06 09:32:49.648] Set heating speed: 0.745066
+[06/06 09:32:49.703] Set heating speed: 0.6989366
+[06/06 09:32:49.759] Set heating speed: 0.6702611
+[06/06 09:32:49.815] Set heating speed: 0.6271696
+[06/06 09:32:49.870] Set heating speed: 0.5878233
+[06/06 09:32:49.926] Set heating speed: 0.5470302
+[06/06 09:32:49.968] From FridgeOpenTime | UsingCount: 0 UsingTime: 49.72675
+[06/06 09:32:49.982] Set heating speed: 0.5172876
+[06/06 09:32:50.037] Set heating speed: 0.5023603
+[06/06 09:32:50.093] Set heating speed: 0.4896474
+[06/06 09:32:50.121] From OvenUsingTime | UsingCount: 0 UsingTime: 93.82367
+[06/06 09:32:50.149] Set heating speed: 0.4763638
+[06/06 09:32:50.205] Set heating speed: 0.4613081
+[06/06 09:32:50.260] Set heating speed: 0.4474224
+[06/06 09:32:50.316] Set heating speed: 0.4433829
+[06/06 09:32:50.371] Set heating speed: 0.4373389
+[06/06 09:32:50.428] Set heating speed: 0.4313129
+[06/06 09:32:50.469] From FridgeOpenTime | UsingCount: 0 UsingTime: 50.22814
+[06/06 09:32:50.484] Set heating speed: 0.4253048
+[06/06 09:32:50.538] Set heating speed: 0.4213096
+[06/06 09:32:50.595] Set heating speed: 0.4153317
+[06/06 09:32:50.622] From OvenUsingTime | UsingCount: 0 UsingTime: 94.32458
+[06/06 09:32:50.651] Set heating speed: 0.4093717
+[06/06 09:32:50.706] Set heating speed: 0.4054082
+[06/06 09:32:50.971] From FridgeOpenTime | UsingCount: 0 UsingTime: 50.73054
+[06/06 09:32:51.124] From OvenUsingTime | UsingCount: 0 UsingTime: 94.82642
+[06/06 09:32:51.472] From FridgeOpenTime | UsingCount: 0 UsingTime: 51.2326
+[06/06 09:32:51.626] From OvenUsingTime | UsingCount: 0 UsingTime: 95.32799
+[06/06 09:32:51.974] From FridgeOpenTime | UsingCount: 0 UsingTime: 51.73386
+[06/06 09:32:52.127] From OvenUsingTime | UsingCount: 0 UsingTime: 95.82898
+[06/06 09:32:52.336] Set oven time 39.99999
+[06/06 09:32:52.474] From FridgeOpenTime | UsingCount: 0 UsingTime: 52.23744
+[06/06 09:32:52.628] From OvenUsingTime | UsingCount: 0 UsingTime: 96.32967
+[06/06 09:32:52.989] From FridgeOpenTime | UsingCount: 0 UsingTime: 52.74956
+[06/06 09:32:53.130] From OvenUsingTime | UsingCount: 0 UsingTime: 96.82993
+[06/06 09:32:53.491] From FridgeOpenTime | UsingCount: 0 UsingTime: 53.25142
+[06/06 09:32:53.631] From OvenUsingTime | UsingCount: 0 UsingTime: 97.33132
+[06/06 09:32:53.993] From FridgeOpenTime | UsingCount: 0 UsingTime: 53.75258
+[06/06 09:32:54.104] From  | UsingCount: 1 UsingTime: 0
+[06/06 09:32:54.133] From OvenUsingTime | UsingCount: 0 UsingTime: 97.83217
+[06/06 09:32:54.494] From FridgeOpenTime | UsingCount: 0 UsingTime: 54.25374
+[06/06 09:32:54.605] From  | UsingCount: 0 UsingTime: 0.5023466
+[06/06 09:32:54.633] From OvenUsingTime | UsingCount: 0 UsingTime: 98.33321
+[06/06 09:32:54.994] From FridgeOpenTime | UsingCount: 0 UsingTime: 54.75559
+[06/06 09:32:55.106] From  | UsingCount: 0 UsingTime: 1.003676
+[06/06 09:32:55.133] Set oven time 21.4404
+[06/06 09:32:55.134] From OvenUsingTime | UsingCount: 0 UsingTime: 98.8419
+[06/06 09:32:55.496] From FridgeOpenTime | UsingCount: 0 UsingTime: 55.25611
+[06/06 09:32:55.608] From  | UsingCount: 0 UsingTime: 1.50479
+[06/06 09:32:55.649] From OvenUsingTime | UsingCount: 0 UsingTime: 99.34948
+[06/06 09:32:55.997] From FridgeOpenTime | UsingCount: 0 UsingTime: 55.75676
+[06/06 09:32:56.108] From  | UsingCount: 0 UsingTime: 2.006277
+[06/06 09:32:56.150] From OvenUsingTime | UsingCount: 0 UsingTime: 99.85084
+[06/06 09:32:56.498] From FridgeOpenTime | UsingCount: 0 UsingTime: 56.25808
+[06/06 09:32:56.610] From  | UsingCount: 0 UsingTime: 2.507147
+[06/06 09:32:56.652] From OvenUsingTime | UsingCount: 0 UsingTime: 100.3523
+[06/06 09:32:56.999] From FridgeOpenTime | UsingCount: 0 UsingTime: 56.75934
+[06/06 09:32:57.111] From  | UsingCount: 0 UsingTime: 3.007508
+[06/06 09:32:57.152] From OvenUsingTime | UsingCount: 0 UsingTime: 100.8532
+[06/06 09:32:57.499] From FridgeOpenTime | UsingCount: 0 UsingTime: 57.25975
+[06/06 09:32:57.612] From  | UsingCount: 0 UsingTime: 3.507809
+[06/06 09:32:57.653] From OvenUsingTime | UsingCount: 0 UsingTime: 101.3545
+[06/06 09:32:58.002] From FridgeOpenTime | UsingCount: 0 UsingTime: 57.76129
+[06/06 09:32:58.113] From  | UsingCount: 0 UsingTime: 4.009672
+[06/06 09:32:58.154] From OvenUsingTime | UsingCount: 0 UsingTime: 101.8578
+[06/06 09:32:58.503] From FridgeOpenTime | UsingCount: 0 UsingTime: 58.2627
+[06/06 09:32:58.614] From  | UsingCount: 0 UsingTime: 4.510365
+[06/06 09:32:58.655] From OvenUsingTime | UsingCount: 0 UsingTime: 102.3587
+[06/06 09:32:59.004] From FridgeOpenTime | UsingCount: 0 UsingTime: 58.7656
+[06/06 09:32:59.115] From  | UsingCount: 0 UsingTime: 5.012117
+[06/06 09:32:59.157] From OvenUsingTime | UsingCount: 0 UsingTime: 102.8601
+[06/06 09:32:59.505] From FridgeOpenTime | UsingCount: 0 UsingTime: 59.26623
+[06/06 09:32:59.616] From  | UsingCount: 0 UsingTime: 5.512949
+[06/06 09:32:59.658] From OvenUsingTime | UsingCount: 0 UsingTime: 103.3611
+[06/06 09:33:00.007] From FridgeOpenTime | UsingCount: 0 UsingTime: 59.76742
+[06/06 09:33:00.117] From  | UsingCount: 0 UsingTime: 6.01349
+[06/06 09:33:00.159] From OvenUsingTime | UsingCount: 0 UsingTime: 103.8624
+[06/06 09:33:00.243] From FridgeOpenCount | UsingCount: 0 UsingTime: 0
+[06/06 09:33:00.508] From FridgeOpenTime | UsingCount: 0 UsingTime: 60.26814
+[06/06 09:33:00.618] From  | UsingCount: 0 UsingTime: 6.515083
+[06/06 09:33:00.661] From OvenUsingTime | UsingCount: 0 UsingTime: 104.3625
+[06/06 09:33:01.009] From FridgeOpenTime | UsingCount: 0 UsingTime: 60.76985
+[06/06 09:33:01.120] From  | UsingCount: 0 UsingTime: 7.017291
+[06/06 09:33:01.163] From OvenUsingTime | UsingCount: 0 UsingTime: 104.8636
+[06/06 09:33:01.524] From FridgeOpenTime | UsingCount: 0 UsingTime: 61.28485
+[06/06 09:33:01.621] From  | UsingCount: 0 UsingTime: 7.518524
+[06/06 09:33:01.664] From OvenUsingTime | UsingCount: 0 UsingTime: 105.3647
+[06/06 09:33:02.026] From FridgeOpenTime | UsingCount: 0 UsingTime: 61.78681
+[06/06 09:33:02.123] From  | UsingCount: 0 UsingTime: 8.021467
+[06/06 09:33:02.165] From OvenUsingTime | UsingCount: 0 UsingTime: 105.8658
+[06/06 09:33:02.527] From FridgeOpenTime | UsingCount: 0 UsingTime: 62.28741
+[06/06 09:33:02.624] From  | UsingCount: 0 UsingTime: 8.521681
+[06/06 09:33:02.666] From OvenUsingTime | UsingCount: 0 UsingTime: 106.3684
+[06/06 09:33:03.029] From FridgeOpenTime | UsingCount: 0 UsingTime: 62.78887
+[06/06 09:33:03.125] From  | UsingCount: 0 UsingTime: 9.023801
+[06/06 09:33:03.181] From OvenUsingTime | UsingCount: 0 UsingTime: 106.8825
+[06/06 09:33:03.543] From FridgeOpenTime | UsingCount: 0 UsingTime: 63.304
+[06/06 09:33:03.626] From  | UsingCount: 0 UsingTime: 9.52388
+[06/06 09:33:03.682] From OvenUsingTime | UsingCount: 0 UsingTime: 107.383
+[06/06 09:33:04.044] From FridgeOpenTime | UsingCount: 0 UsingTime: 63.80497
+[06/06 09:33:04.113] From  | UsingCount: 0 UsingTime: 0
+[06/06 09:33:04.127] From  | UsingCount: 0 UsingTime: 10.02452
+[06/06 09:33:04.183] From OvenUsingTime | UsingCount: 0 UsingTime: 107.8839
+[06/06 09:33:04.546] From FridgeOpenTime | UsingCount: 0 UsingTime: 64.30528
+[06/06 09:33:04.629] From  | UsingCount: 0 UsingTime: 10.5266
+[06/06 09:33:04.684] From OvenUsingTime | UsingCount: 0 UsingTime: 108.3856
+[06/06 09:33:05.017] Set gasfire speed: 0.4231622
+[06/06 09:33:05.018] Set heating speed: 0.4231622
+[06/06 09:33:05.046] From FridgeOpenTime | UsingCount: 0 UsingTime: 64.80575
+[06/06 09:33:05.130] Set gasfire speed: 0.4263899
+[06/06 09:33:05.131] Set heating speed: 0.4263899
+[06/06 09:33:05.132] From  | UsingCount: 0 UsingTime: 11.02665
+[06/06 09:33:05.185] From OvenUsingTime | UsingCount: 0 UsingTime: 108.8866
+[06/06 09:33:05.408] Set gasfire speed: 0.4193518
+[06/06 09:33:05.409] Set heating speed: 0.4193518
+[06/06 09:33:05.464] Set gasfire speed: 0.41501
+[06/06 09:33:05.465] Set heating speed: 0.41501
+[06/06 09:33:05.519] Set gasfire speed: 0.4117776
+[06/06 09:33:05.519] Set heating speed: 0.4117776
+[06/06 09:33:05.547] From FridgeOpenTime | UsingCount: 0 UsingTime: 65.30687
+[06/06 09:33:05.574] Set gasfire speed: 0.4029015
+[06/06 09:33:05.575] Set heating speed: 0.4029015
+[06/06 09:33:05.630] Set gasfire speed: 0.396063
+[06/06 09:33:05.631] Set heating speed: 0.396063
+[06/06 09:33:05.645] From  | UsingCount: 0 UsingTime: 11.54271
+[06/06 09:33:05.686] From OvenUsingTime | UsingCount: 0 UsingTime: 109.3878
+[06/06 09:33:05.687] Set gasfire speed: 0.3885229
+[06/06 09:33:05.687] Set heating speed: 0.3885229
+[06/06 09:33:05.742] Set gasfire speed: 0.3804336
+[06/06 09:33:05.743] Set heating speed: 0.3804336
+[06/06 09:33:05.797] Set gasfire speed: 0.3775449
+[06/06 09:33:05.797] Set heating speed: 0.3775449
+[06/06 09:33:05.852] Set gasfire speed: 0.3746451
+[06/06 09:33:05.853] Set heating speed: 0.3746451
+[06/06 09:33:05.965] Set gasfire speed: 0.3855333
+[06/06 09:33:05.965] Set heating speed: 0.3855333
+[06/06 09:33:06.020] Set gasfire speed: 0.3967874
+[06/06 09:33:06.021] Set heating speed: 0.3967874
+[06/06 09:33:06.048] From FridgeOpenTime | UsingCount: 0 UsingTime: 65.80771
+[06/06 09:33:06.075] Set gasfire speed: 0.4042715
+[06/06 09:33:06.076] Set heating speed: 0.4042715
+[06/06 09:33:06.132] Set gasfire speed: 0.4154695
+[06/06 09:33:06.132] Set heating speed: 0.4154695
+[06/06 09:33:06.146] From  | UsingCount: 0 UsingTime: 12.04315
+[06/06 09:33:06.188] From OvenUsingTime | UsingCount: 0 UsingTime: 109.8885
+[06/06 09:33:06.188] Set gasfire speed: 0.426634
+[06/06 09:33:06.188] Set heating speed: 0.426634
+[06/06 09:33:06.243] Set gasfire speed: 0.4377649
+[06/06 09:33:06.244] Set heating speed: 0.4377649
+[06/06 09:33:06.298] Set gasfire speed: 0.445167
+[06/06 09:33:06.299] Set heating speed: 0.445167
+[06/06 09:33:06.354] Set gasfire speed: 0.4562424
+[06/06 09:33:06.355] Set heating speed: 0.4562424
+[06/06 09:33:06.550] From FridgeOpenTime | UsingCount: 0 UsingTime: 66.30912
+[06/06 09:33:06.577] Set gasfire speed: 0.4603922
+[06/06 09:33:06.577] Set heating speed: 0.4603922
+[06/06 09:33:06.633] Set gasfire speed: 0.4639392
+[06/06 09:33:06.634] Set heating speed: 0.4639392
+[06/06 09:33:06.647] From  | UsingCount: 0 UsingTime: 12.5446
+[06/06 09:33:06.688] From OvenUsingTime | UsingCount: 0 UsingTime: 110.3904
+[06/06 09:33:06.745] Set gasfire speed: 0.4673889
+[06/06 09:33:06.746] Set heating speed: 0.4673889
+[06/06 09:33:06.912] Set gasfire speed: 0.4635108
+[06/06 09:33:06.912] Set heating speed: 0.4635108
+[06/06 09:33:06.967] Set gasfire speed: 0.4600016
+[06/06 09:33:06.967] Set heating speed: 0.4600016
+[06/06 09:33:07.023] Set gasfire speed: 0.4547281
+[06/06 09:33:07.023] Set heating speed: 0.4547281
+[06/06 09:33:07.051] From FridgeOpenTime | UsingCount: 0 UsingTime: 66.80986
+[06/06 09:33:07.077] Set gasfire speed: 0.450473
+[06/06 09:33:07.078] Set heating speed: 0.450473
+[06/06 09:33:07.134] Set gasfire speed: 0.4442116
+[06/06 09:33:07.134] Set heating speed: 0.4442116
+[06/06 09:33:07.148] From  | UsingCount: 0 UsingTime: 13.04538
+[06/06 09:33:07.190] From OvenUsingTime | UsingCount: 0 UsingTime: 110.8914
+[06/06 09:33:07.190] Set gasfire speed: 0.439009
+[06/06 09:33:07.190] Set heating speed: 0.439009
+[06/06 09:33:07.246] Set gasfire speed: 0.4314946
+[06/06 09:33:07.246] Set heating speed: 0.4314946
+[06/06 09:33:07.300] Set gasfire speed: 0.4261428
+[06/06 09:33:07.301] Set heating speed: 0.4261428
+[06/06 09:33:07.356] Set gasfire speed: 0.4178325
+[06/06 09:33:07.357] Set heating speed: 0.4178325
+[06/06 09:33:07.413] Set gasfire speed: 0.4073643
+[06/06 09:33:07.413] Set heating speed: 0.4073643
+[06/06 09:33:07.468] Set gasfire speed: 0.3985838
+[06/06 09:33:07.468] Set heating speed: 0.3985838
+[06/06 09:33:07.524] Set gasfire speed: 0.3902163
+[06/06 09:33:07.524] Set heating speed: 0.3902163
+[06/06 09:33:07.551] From FridgeOpenTime | UsingCount: 0 UsingTime: 67.31092
+[06/06 09:33:07.579] Set gasfire speed: 0.3838446
+[06/06 09:33:07.579] Set heating speed: 0.3838446
+[06/06 09:33:07.634] Set gasfire speed: 0.3740768
+[06/06 09:33:07.634] Set heating speed: 0.3740768
+[06/06 09:33:07.663] From  | UsingCount: 0 UsingTime: 13.55981
+[06/06 09:33:07.690] From OvenUsingTime | UsingCount: 0 UsingTime: 111.3932
+[06/06 09:33:07.691] Set gasfire speed: 0.3644993
+[06/06 09:33:07.691] Set heating speed: 0.3644993
+[06/06 09:33:07.747] Set gasfire speed: 0.3545076
+[06/06 09:33:07.747] Set heating speed: 0.3545076
+[06/06 09:33:07.802] Set gasfire speed: 0.3442028
+[06/06 09:33:07.802] Set heating speed: 0.3442028
+[06/06 09:33:07.857] Set gasfire speed: 0.3371564
+[06/06 09:33:07.858] Set heating speed: 0.3371564
+[06/06 09:33:07.914] Set gasfire speed: 0.3269019
+[06/06 09:33:07.915] Set heating speed: 0.3269019
+[06/06 09:33:07.929] Finish task2
+[06/06 09:33:07.969] Set gasfire speed: 0.3174039
+[06/06 09:33:07.969] Set heating speed: 0.3174039
+[06/06 09:33:08.024] Set gasfire speed: 0.3076553
+[06/06 09:33:08.025] Set heating speed: 0.3076553
+[06/06 09:33:08.052] From FridgeOpenTime | UsingCount: 0 UsingTime: 67.81188
+[06/06 09:33:08.081] Set gasfire speed: 0.3001446
+[06/06 09:33:08.082] Set heating speed: 0.3001446
+[06/06 09:33:08.134] Set gasfire speed: 0.2930231
+[06/06 09:33:08.135] Set heating speed: 0.2930231
+[06/06 09:33:08.177] From  | UsingCount: 0 UsingTime: 14.07414
+[06/06 09:33:08.191] From OvenUsingTime | UsingCount: 0 UsingTime: 111.8945
+[06/06 09:33:08.192] Set gasfire speed: 0.2814829
+[06/06 09:33:08.192] Set heating speed: 0.2814829
+[06/06 09:33:08.248] Set gasfire speed: 0.2711772
+[06/06 09:33:08.248] Set heating speed: 0.2711772
+[06/06 09:33:08.303] Set gasfire speed: 0.2609022
+[06/06 09:33:08.303] Set heating speed: 0.2609022
+[06/06 09:33:08.358] Set gasfire speed: 0.2540694
+[06/06 09:33:08.359] Set heating speed: 0.2540694
+[06/06 09:33:08.415] Set gasfire speed: 0.2438458
+[06/06 09:33:08.415] Set heating speed: 0.2438458
+[06/06 09:33:08.470] Set gasfire speed: 0.2336528
+[06/06 09:33:08.471] Set heating speed: 0.2336528
+[06/06 09:33:08.526] Set gasfire speed: 0.2234903
+[06/06 09:33:08.526] Set heating speed: 0.2234903
+[06/06 09:33:08.553] From FridgeOpenTime | UsingCount: 0 UsingTime: 68.31396
+[06/06 09:33:08.582] Set gasfire speed: 0.2167322
+[06/06 09:33:08.582] Set heating speed: 0.2167322
+[06/06 09:33:08.679] From  | UsingCount: 0 UsingTime: 14.57611
+[06/06 09:33:08.693] From OvenUsingTime | UsingCount: 0 UsingTime: 112.396
+[06/06 09:33:09.055] From FridgeOpenTime | UsingCount: 0 UsingTime: 68.81637
+[06/06 09:33:09.180] From  | UsingCount: 0 UsingTime: 15.07711
+[06/06 09:33:09.195] From OvenUsingTime | UsingCount: 0 UsingTime: 112.8965
+[06/06 09:33:09.362] Set gasfire speed: 0.2461958
+[06/06 09:33:09.363] Set heating speed: 0.2461958
+[06/06 09:33:09.417] Set gasfire speed: 0.2642353
+[06/06 09:33:09.417] Set heating speed: 0.2642353
+[06/06 09:33:09.473] Set gasfire speed: 0.2892404
+[06/06 09:33:09.473] Set heating speed: 0.2892404
+[06/06 09:33:09.529] Set gasfire speed: 0.3109597
+[06/06 09:33:09.530] Set heating speed: 0.3109597
+[06/06 09:33:09.556] From FridgeOpenTime | UsingCount: 0 UsingTime: 69.31841
+[06/06 09:33:09.584] Set gasfire speed: 0.3279614
+[06/06 09:33:09.585] Set heating speed: 0.3279614
+[06/06 09:33:09.640] Set gasfire speed: 0.3396299
+[06/06 09:33:09.641] Set heating speed: 0.3396299
+[06/06 09:33:09.682] From  | UsingCount: 0 UsingTime: 15.57813
+[06/06 09:33:09.695] From OvenUsingTime | UsingCount: 0 UsingTime: 113.3979
+[06/06 09:33:09.696] Set gasfire speed: 0.3452635
+[06/06 09:33:09.696] Set heating speed: 0.3452635
+[06/06 09:33:09.752] Set gasfire speed: 0.3511398
+[06/06 09:33:09.752] Set heating speed: 0.3511398
+[06/06 09:33:09.864] Set gasfire speed: 0.3542006
+[06/06 09:33:09.865] Set heating speed: 0.3542006
+[06/06 09:33:09.974] Set gasfire speed: 0.3469115
+[06/06 09:33:09.974] Set heating speed: 0.3469115
+[06/06 09:33:10.031] Set gasfire speed: 0.3392134
+[06/06 09:33:10.032] Set heating speed: 0.3392134
+[06/06 09:33:10.057] From FridgeOpenTime | UsingCount: 0 UsingTime: 69.82033
+[06/06 09:33:10.085] Set gasfire speed: 0.3302813
+[06/06 09:33:10.086] Set heating speed: 0.3302813
+[06/06 09:33:10.141] Set gasfire speed: 0.3203838
+[06/06 09:33:10.142] Set heating speed: 0.3203838
+[06/06 09:33:10.183] From  | UsingCount: 0 UsingTime: 16.07923
+[06/06 09:33:10.197] From OvenUsingTime | UsingCount: 0 UsingTime: 113.8991
+[06/06 09:33:10.197] Set gasfire speed: 0.314769
+[06/06 09:33:10.198] Set heating speed: 0.314769
+[06/06 09:33:10.253] Set gasfire speed: 0.308114
+[06/06 09:33:10.253] Set heating speed: 0.308114
+[06/06 09:33:10.308] Set gasfire speed: 0.3034996
+[06/06 09:33:10.309] Set heating speed: 0.3034996
+[06/06 09:33:10.364] Set gasfire speed: 0.2965165
+[06/06 09:33:10.365] Set heating speed: 0.2965165
+[06/06 09:33:10.419] Set gasfire speed: 0.2919069
+[06/06 09:33:10.419] Set heating speed: 0.2919069
+[06/06 09:33:10.474] Set gasfire speed: 0.2846664
+[06/06 09:33:10.475] Set heating speed: 0.2846664
+[06/06 09:33:10.531] Set gasfire speed: 0.2783431
+[06/06 09:33:10.532] Set heating speed: 0.2783431
+[06/06 09:33:10.573] From FridgeOpenTime | UsingCount: 0 UsingTime: 70.33255
+[06/06 09:33:10.587] Set gasfire speed: 0.2713611
+[06/06 09:33:10.587] Set heating speed: 0.2713611
+[06/06 09:33:10.642] Set gasfire speed: 0.2637236
+[06/06 09:33:10.643] Set heating speed: 0.2637236
+[06/06 09:33:10.684] From  | UsingCount: 0 UsingTime: 16.5803
+[06/06 09:33:10.698] From OvenUsingTime | UsingCount: 0 UsingTime: 114.3998
+[06/06 09:33:10.698] Set gasfire speed: 0.2570409
+[06/06 09:33:10.698] Set heating speed: 0.2570409
+[06/06 09:33:10.754] Set gasfire speed: 0.2456072
+[06/06 09:33:10.754] Set heating speed: 0.2456072
+[06/06 09:33:10.810] Set gasfire speed: 0.2324348
+[06/06 09:33:10.810] Set heating speed: 0.2324348
+[06/06 09:33:10.865] Set gasfire speed: 0.217109
+[06/06 09:33:10.866] Set heating speed: 0.217109
+[06/06 09:33:10.921] Set gasfire speed: 0.2018199
+[06/06 09:33:10.922] Set heating speed: 0.2018199
+[06/06 09:33:10.976] Set gasfire speed: 0.1909068
+[06/06 09:33:10.976] Set heating speed: 0.1909068
+[06/06 09:33:11.033] Set gasfire speed: 0.1743682
+[06/06 09:33:11.034] Set heating speed: 0.1743682
+[06/06 09:33:11.073] From FridgeOpenTime | UsingCount: 0 UsingTime: 70.83566
+[06/06 09:33:11.088] Set gasfire speed: 0.1577346
+[06/06 09:33:11.089] Set heating speed: 0.1577346
+[06/06 09:33:11.144] Set gasfire speed: 0.1406799
+[06/06 09:33:11.145] Set heating speed: 0.1406799
+[06/06 09:33:11.186] From  | UsingCount: 0 UsingTime: 17.08201
+[06/06 09:33:11.199] From OvenUsingTime | UsingCount: 0 UsingTime: 114.9017
+[06/06 09:33:11.200] Set gasfire speed: 0.1287187
+[06/06 09:33:11.200] Set heating speed: 0.1287187
+[06/06 09:33:11.255] Set gasfire speed: 0.1090953
+[06/06 09:33:11.255] Set heating speed: 0.1090953
+[06/06 09:33:11.312] Set gasfire speed: 0.08794087
+[06/06 09:33:11.312] Set heating speed: 0.08794087
+[06/06 09:33:11.367] Set gasfire speed: 0.06603666
+[06/06 09:33:11.367] Set heating speed: 0.06603666
+[06/06 09:33:11.423] Set gasfire speed: 0.04359317
+[06/06 09:33:11.423] Set heating speed: 0.04359317
+[06/06 09:33:11.478] Set gasfire speed: 0.02780809
+[06/06 09:33:11.478] Set heating speed: 0.02780809
+[06/06 09:33:11.534] Set gasfire speed: 0.004097451
+[06/06 09:33:11.534] Set heating speed: 0.004097451
+[06/06 09:33:11.575] From FridgeOpenTime | UsingCount: 0 UsingTime: 71.3362
+[06/06 09:33:11.590] Set gasfire speed: 8.859114E-06
+[06/06 09:33:11.590] Set heating speed: 8.859114E-06
+[06/06 09:33:11.603] From OvenUsingTime | UsingCount: 0 UsingTime: 0
+[06/06 09:33:11.687] From  | UsingCount: 0 UsingTime: 17.58327
+[06/06 09:33:12.076] From FridgeOpenTime | UsingCount: 0 UsingTime: 71.83733
+[06/06 09:33:12.189] From  | UsingCount: 0 UsingTime: 18.08444
+[06/06 09:33:12.578] From FridgeOpenTime | UsingCount: 0 UsingTime: 72.33829
+[06/06 09:33:12.690] From  | UsingCount: 0 UsingTime: 18.58631
+[06/06 09:33:13.079] From FridgeOpenTime | UsingCount: 0 UsingTime: 72.8395
+[06/06 09:33:13.191] From  | UsingCount: 0 UsingTime: 19.08813
+[06/06 09:33:13.581] From FridgeOpenTime | UsingCount: 0 UsingTime: 73.34067
+[06/06 09:33:13.692] From  | UsingCount: 0 UsingTime: 19.58986
+[06/06 09:33:14.082] From FridgeOpenTime | UsingCount: 0 UsingTime: 73.84168
+[06/06 09:33:14.194] From  | UsingCount: 0 UsingTime: 20.09104
+[06/06 09:33:14.583] From FridgeOpenTime | UsingCount: 0 UsingTime: 74.34321
+[06/06 09:33:14.695] From  | UsingCount: 0 UsingTime: 20.59216
+[06/06 09:33:15.085] From FridgeOpenTime | UsingCount: 0 UsingTime: 74.84468
+[06/06 09:33:15.196] From  | UsingCount: 0 UsingTime: 21.09301
+[06/06 09:33:15.586] From FridgeOpenTime | UsingCount: 0 UsingTime: 75.34611
+[06/06 09:33:15.697] From  | UsingCount: 0 UsingTime: 21.59354
+[06/06 09:33:16.087] From FridgeOpenTime | UsingCount: 0 UsingTime: 75.84814
+[06/06 09:33:16.198] From  | UsingCount: 0 UsingTime: 22.09498
+[06/06 09:33:16.602] From FridgeOpenTime | UsingCount: 0 UsingTime: 76.36219
+[06/06 09:33:16.616] From  | UsingCount: 0 UsingTime: 0
+[06/06 09:33:17.103] From FridgeOpenTime | UsingCount: 0 UsingTime: 76.86423
+[06/06 09:33:17.605] From FridgeOpenTime | UsingCount: 0 UsingTime: 77.36552
+[06/06 09:33:18.106] From FridgeOpenTime | UsingCount: 0 UsingTime: 77.867
+[06/06 09:33:18.607] From FridgeOpenTime | UsingCount: 0 UsingTime: 78.36781
+[06/06 09:33:19.108] From FridgeOpenTime | UsingCount: 0 UsingTime: 78.86864
+[06/06 09:33:19.609] From FridgeOpenTime | UsingCount: 0 UsingTime: 79.36975
+[06/06 09:33:20.111] From FridgeOpenTime | UsingCount: 0 UsingTime: 79.87052
+[06/06 09:33:20.613] From FridgeOpenTime | UsingCount: 0 UsingTime: 80.37193
+[06/06 09:33:21.114] From FridgeOpenTime | UsingCount: 0 UsingTime: 80.87271
+[06/06 09:33:21.614] From FridgeOpenTime | UsingCount: 0 UsingTime: 81.37433
+[06/06 09:33:22.115] From FridgeOpenTime | UsingCount: 0 UsingTime: 81.87539
+[06/06 09:33:22.616] From FridgeOpenTime | UsingCount: 0 UsingTime: 82.37672
+[06/06 09:33:23.118] From FridgeOpenTime | UsingCount: 0 UsingTime: 82.87851
+[06/06 09:33:23.619] From FridgeOpenTime | UsingCount: 0 UsingTime: 83.37939
+[06/06 09:33:24.121] From FridgeOpenTime | UsingCount: 0 UsingTime: 83.88082
+[06/06 09:33:24.622] From FridgeOpenTime | UsingCount: 0 UsingTime: 84.38248
+[06/06 09:33:25.123] From FridgeOpenTime | UsingCount: 0 UsingTime: 84.88395
+[06/06 09:33:25.625] From FridgeOpenTime | UsingCount: 0 UsingTime: 85.38523
+[06/06 09:33:26.126] From FridgeOpenTime | UsingCount: 0 UsingTime: 85.88685
+[06/06 09:33:26.627] From FridgeOpenTime | UsingCount: 0 UsingTime: 86.38851
+[06/06 09:33:27.140] From FridgeOpenTime | UsingCount: 0 UsingTime: 86.90209
+[06/06 09:33:27.642] From FridgeOpenTime | UsingCount: 0 UsingTime: 87.40341
+[06/06 09:33:28.143] From FridgeOpenTime | UsingCount: 0 UsingTime: 87.90436
+[06/06 09:33:28.645] From FridgeOpenTime | UsingCount: 0 UsingTime: 88.40465
+[06/06 09:33:29.146] From FridgeOpenTime | UsingCount: 0 UsingTime: 88.90598
+[06/06 09:33:29.646] From FridgeOpenTime | UsingCount: 0 UsingTime: 89.40616
+[06/06 09:33:30.148] From FridgeOpenTime | UsingCount: 0 UsingTime: 89.90699
+[06/06 09:33:30.649] From FridgeOpenTime | UsingCount: 0 UsingTime: 90.40839
+[06/06 09:33:31.150] From FridgeOpenTime | UsingCount: 0 UsingTime: 90.90992
+[06/06 09:33:31.652] From FridgeOpenTime | UsingCount: 0 UsingTime: 91.41328
+[06/06 09:33:32.153] From FridgeOpenTime | UsingCount: 0 UsingTime: 91.91586
+[06/06 09:33:32.654] From FridgeOpenTime | UsingCount: 0 UsingTime: 92.41769
+[06/06 09:33:33.170] From FridgeOpenTime | UsingCount: 0 UsingTime: 92.9304
+[06/06 09:33:33.671] From FridgeOpenTime | UsingCount: 0 UsingTime: 93.432
+[06/06 09:33:34.172] From FridgeOpenTime | UsingCount: 0 UsingTime: 93.93341
+[06/06 09:33:34.673] From FridgeOpenTime | UsingCount: 0 UsingTime: 94.43531
+[06/06 09:33:35.174] From FridgeOpenTime | UsingCount: 0 UsingTime: 94.93647
+[06/06 09:33:35.675] From FridgeOpenTime | UsingCount: 0 UsingTime: 95.43776
+[06/06 09:33:36.176] From FridgeOpenTime | UsingCount: 0 UsingTime: 95.93819
+[06/06 09:33:36.678] From FridgeOpenTime | UsingCount: 0 UsingTime: 96.43868
+[06/06 09:33:37.179] From FridgeOpenTime | UsingCount: 0 UsingTime: 96.93996
+[06/06 09:33:37.680] From FridgeOpenTime | UsingCount: 0 UsingTime: 97.44029
+[06/06 09:33:38.182] From FridgeOpenTime | UsingCount: 0 UsingTime: 97.94202
+[06/06 09:33:38.683] From FridgeOpenTime | UsingCount: 0 UsingTime: 98.44342
+[06/06 09:33:39.185] From FridgeOpenTime | UsingCount: 0 UsingTime: 98.94558
+[06/06 09:33:39.686] From FridgeOpenTime | UsingCount: 0 UsingTime: 99.44718
+[06/06 09:33:40.187] From FridgeOpenTime | UsingCount: 0 UsingTime: 99.94802
+[06/06 09:33:40.689] From FridgeOpenTime | UsingCount: 0 UsingTime: 100.4488
+[06/06 09:33:41.190] From FridgeOpenTime | UsingCount: 0 UsingTime: 100.9509
+[06/06 09:33:41.691] From FridgeOpenTime | UsingCount: 0 UsingTime: 101.4525
+[06/06 09:33:42.192] From FridgeOpenTime | UsingCount: 0 UsingTime: 101.9534
+[06/06 09:33:42.693] From FridgeOpenTime | UsingCount: 0 UsingTime: 102.4541
+[06/06 09:33:43.194] From FridgeOpenTime | UsingCount: 0 UsingTime: 102.9554
+[06/06 09:33:43.696] From FridgeOpenTime | UsingCount: 0 UsingTime: 103.4563
+[06/06 09:33:44.197] From FridgeOpenTime | UsingCount: 0 UsingTime: 103.9574
+[06/06 09:33:44.698] From FridgeOpenTime | UsingCount: 0 UsingTime: 104.4587
+[06/06 09:33:45.199] From FridgeOpenTime | UsingCount: 0 UsingTime: 104.9599
+[06/06 09:33:45.701] From FridgeOpenTime | UsingCount: 0 UsingTime: 105.461
+[06/06 09:33:46.202] From FridgeOpenTime | UsingCount: 0 UsingTime: 105.9622
+[06/06 09:33:46.703] From FridgeOpenTime | UsingCount: 0 UsingTime: 106.4638
+[06/06 09:33:47.205] From FridgeOpenTime | UsingCount: 0 UsingTime: 106.9659
+[06/06 09:33:47.705] From FridgeOpenTime | UsingCount: 0 UsingTime: 107.4688
+[06/06 09:33:48.220] From FridgeOpenTime | UsingCount: 0 UsingTime: 107.9882
+[06/06 09:33:48.734] From FridgeOpenTime | UsingCount: 0 UsingTime: 108.4957
+[06/06 09:33:49.236] From FridgeOpenTime | UsingCount: 0 UsingTime: 108.9974
+[06/06 09:33:49.738] From FridgeOpenTime | UsingCount: 0 UsingTime: 109.4991
+[06/06 09:33:50.239] From FridgeOpenTime | UsingCount: 0 UsingTime: 110
+[06/06 09:33:50.740] From FridgeOpenTime | UsingCount: 0 UsingTime: 110.5014
+[06/06 09:33:51.241] From FridgeOpenTime | UsingCount: 0 UsingTime: 111.0029
+[06/06 09:33:51.743] From FridgeOpenTime | UsingCount: 0 UsingTime: 111.5044
+[06/06 09:33:52.244] From FridgeOpenTime | UsingCount: 0 UsingTime: 112.0049
+[06/06 09:33:52.745] From FridgeOpenTime | UsingCount: 0 UsingTime: 112.506
+[06/06 09:33:53.247] From FridgeOpenTime | UsingCount: 0 UsingTime: 113.0065
+[06/06 09:33:53.748] From FridgeOpenTime | UsingCount: 0 UsingTime: 113.5075
+[06/06 09:33:54.251] From FridgeOpenTime | UsingCount: 0 UsingTime: 114.008
+[06/06 09:33:54.750] From FridgeOpenTime | UsingCount: 0 UsingTime: 114.5092
+[06/06 09:33:55.251] From FridgeOpenTime | UsingCount: 0 UsingTime: 115.0114
+[06/06 09:33:55.753] From FridgeOpenTime | UsingCount: 0 UsingTime: 115.5127
+[06/06 09:33:56.253] From FridgeOpenTime | UsingCount: 0 UsingTime: 116.0152
+[06/06 09:33:56.754] From FridgeOpenTime | UsingCount: 0 UsingTime: 116.5161
+[06/06 09:33:57.257] From FridgeOpenTime | UsingCount: 0 UsingTime: 117.0173
+[06/06 09:33:57.758] From FridgeOpenTime | UsingCount: 0 UsingTime: 117.5202
+[06/06 09:33:58.260] From FridgeOpenTime | UsingCount: 0 UsingTime: 118.0206
+[06/06 09:33:58.761] From FridgeOpenTime | UsingCount: 0 UsingTime: 118.5217
+[06/06 09:33:59.262] From FridgeOpenTime | UsingCount: 0 UsingTime: 119.022
+[06/06 09:33:59.763] From FridgeOpenTime | UsingCount: 0 UsingTime: 119.5231
+[06/06 09:34:00.264] From FridgeOpenTime | UsingCount: 0 UsingTime: 120.0241
+[06/06 09:34:00.766] From FridgeOpenTime | UsingCount: 0 UsingTime: 120.5256
+[06/06 09:34:01.266] From FridgeOpenTime | UsingCount: 0 UsingTime: 121.0263
+[06/06 09:34:01.768] From FridgeOpenTime | UsingCount: 0 UsingTime: 121.5271
+[06/06 09:34:02.268] From FridgeOpenTime | UsingCount: 0 UsingTime: 122.0282
+[06/06 09:34:02.770] From FridgeOpenTime | UsingCount: 0 UsingTime: 122.5296
+[06/06 09:34:03.271] From FridgeOpenTime | UsingCount: 0 UsingTime: 123.0319
+[06/06 09:34:03.773] From FridgeOpenTime | UsingCount: 0 UsingTime: 123.533
+[06/06 09:34:04.273] From FridgeOpenTime | UsingCount: 0 UsingTime: 124.0353
+[06/06 09:34:04.775] From FridgeOpenTime | UsingCount: 0 UsingTime: 124.5367
+[06/06 09:34:05.275] From FridgeOpenTime | UsingCount: 0 UsingTime: 125.0372
+[06/06 09:34:05.776] From FridgeOpenTime | UsingCount: 0 UsingTime: 125.5376
+[06/06 09:34:06.278] From FridgeOpenTime | UsingCount: 0 UsingTime: 126.0383
+[06/06 09:34:06.779] From FridgeOpenTime | UsingCount: 0 UsingTime: 126.5396
+[06/06 09:34:07.280] From FridgeOpenTime | UsingCount: 0 UsingTime: 127.0401
+[06/06 09:34:07.781] From FridgeOpenTime | UsingCount: 0 UsingTime: 127.5411
+[06/06 09:34:08.283] From FridgeOpenTime | UsingCount: 0 UsingTime: 128.0425
+[06/06 09:34:08.784] From FridgeOpenTime | UsingCount: 0 UsingTime: 128.5432
+[06/06 09:34:09.286] From FridgeOpenTime | UsingCount: 0 UsingTime: 129.045
+[06/06 09:34:09.787] From FridgeOpenTime | UsingCount: 0 UsingTime: 129.5473
+[06/06 09:34:10.301] From FridgeOpenTime | UsingCount: 0 UsingTime: 130.0615
+[06/06 09:34:10.803] From FridgeOpenTime | UsingCount: 0 UsingTime: 130.5633
+[06/06 09:34:11.304] From FridgeOpenTime | UsingCount: 0 UsingTime: 131.0652
+[06/06 09:34:11.805] From FridgeOpenTime | UsingCount: 0 UsingTime: 131.5661
+[06/06 09:34:12.307] From FridgeOpenTime | UsingCount: 0 UsingTime: 132.0678
+[06/06 09:34:12.808] From FridgeOpenTime | UsingCount: 0 UsingTime: 132.5693
+[06/06 09:34:13.309] From FridgeOpenTime | UsingCount: 0 UsingTime: 133.0699
+[06/06 09:34:13.810] From FridgeOpenTime | UsingCount: 0 UsingTime: 133.5703
+[06/06 09:34:14.312] From FridgeOpenTime | UsingCount: 0 UsingTime: 134.0706
+[06/06 09:34:14.813] From FridgeOpenTime | UsingCount: 0 UsingTime: 134.5721
+[06/06 09:34:15.314] From FridgeOpenTime | UsingCount: 0 UsingTime: 135.0732
+[06/06 09:34:15.814] From FridgeOpenTime | UsingCount: 0 UsingTime: 135.5748
+[06/06 09:34:16.315] From FridgeOpenTime | UsingCount: 0 UsingTime: 136.0757
+[06/06 09:34:16.817] From FridgeOpenTime | UsingCount: 0 UsingTime: 136.5771
+[06/06 09:34:17.318] From FridgeOpenTime | UsingCount: 0 UsingTime: 137.0786
+[06/06 09:34:17.819] From FridgeOpenTime | UsingCount: 0 UsingTime: 137.5804
+[06/06 09:34:18.321] From FridgeOpenTime | UsingCount: 0 UsingTime: 138.0821
+[06/06 09:34:18.823] From FridgeOpenTime | UsingCount: 0 UsingTime: 138.5833
+[06/06 09:34:19.324] From FridgeOpenTime | UsingCount: 0 UsingTime: 139.0843
+[06/06 09:34:19.825] From FridgeOpenTime | UsingCount: 0 UsingTime: 139.5855
+[06/06 09:34:20.326] From FridgeOpenTime | UsingCount: 0 UsingTime: 140.0865
+[06/06 09:34:20.827] From FridgeOpenTime | UsingCount: 0 UsingTime: 140.5873
+[06/06 09:34:21.329] From FridgeOpenTime | UsingCount: 0 UsingTime: 141.0883
+[06/06 09:34:21.829] From FridgeOpenTime | UsingCount: 0 UsingTime: 141.5888
+[06/06 09:34:22.331] From FridgeOpenTime | UsingCount: 0 UsingTime: 142.0901
+[06/06 09:34:22.832] From FridgeOpenTime | UsingCount: 0 UsingTime: 142.5908
+[06/06 09:34:23.333] From FridgeOpenTime | UsingCount: 0 UsingTime: 143.0921
+[06/06 09:34:23.834] From FridgeOpenTime | UsingCount: 0 UsingTime: 143.5941
+[06/06 09:34:24.335] From FridgeOpenTime | UsingCount: 0 UsingTime: 144.0956
+[06/06 09:34:24.837] From FridgeOpenTime | UsingCount: 0 UsingTime: 144.5976
+[06/06 09:34:25.338] From FridgeOpenTime | UsingCount: 0 UsingTime: 145.0992
+[06/06 09:34:25.839] From FridgeOpenTime | UsingCount: 0 UsingTime: 145.6002
+[06/06 09:34:26.341] From FridgeOpenTime | UsingCount: 0 UsingTime: 146.1021
+[06/06 09:34:26.842] From FridgeOpenTime | UsingCount: 0 UsingTime: 146.6028
+[06/06 09:34:27.343] From FridgeOpenTime | UsingCount: 0 UsingTime: 147.1033
+[06/06 09:34:27.844] From FridgeOpenTime | UsingCount: 0 UsingTime: 147.6046
+[06/06 09:34:28.346] From FridgeOpenTime | UsingCount: 0 UsingTime: 148.1056
+[06/06 09:34:28.847] From FridgeOpenTime | UsingCount: 0 UsingTime: 148.6065
+[06/06 09:34:29.348] From FridgeOpenTime | UsingCount: 0 UsingTime: 149.1075
+[06/06 09:34:29.849] From FridgeOpenTime | UsingCount: 0 UsingTime: 149.6082
+[06/06 09:34:30.350] From FridgeOpenTime | UsingCount: 0 UsingTime: 150.1094
+[06/06 09:34:30.851] From FridgeOpenTime | UsingCount: 0 UsingTime: 150.6109
+[06/06 09:34:31.353] From FridgeOpenTime | UsingCount: 0 UsingTime: 151.1127
+[06/06 09:34:31.854] From FridgeOpenTime | UsingCount: 0 UsingTime: 151.6156
+[06/06 09:34:32.355] From FridgeOpenTime | UsingCount: 0 UsingTime: 152.1163
+[06/06 09:34:32.856] From FridgeOpenTime | UsingCount: 0 UsingTime: 152.618
+[06/06 09:34:33.357] From FridgeOpenTime | UsingCount: 0 UsingTime: 153.1189
+[06/06 09:34:33.858] From FridgeOpenTime | UsingCount: 0 UsingTime: 153.6205
+[06/06 09:34:34.362] From FridgeOpenTime | UsingCount: 0 UsingTime: 154.1223
+[06/06 09:34:34.874] From FridgeOpenTime | UsingCount: 0 UsingTime: 154.6358
+[06/06 09:34:35.375] From FridgeOpenTime | UsingCount: 0 UsingTime: 155.1372
+[06/06 09:34:35.877] From FridgeOpenTime | UsingCount: 0 UsingTime: 155.6376
+[06/06 09:34:36.379] From FridgeOpenTime | UsingCount: 0 UsingTime: 156.139
+[06/06 09:34:36.880] From FridgeOpenTime | UsingCount: 0 UsingTime: 156.6405
+[06/06 09:34:37.381] From FridgeOpenTime | UsingCount: 0 UsingTime: 157.1412
+[06/06 09:34:37.883] From FridgeOpenTime | UsingCount: 0 UsingTime: 157.6425
+[06/06 09:34:38.384] From FridgeOpenTime | UsingCount: 0 UsingTime: 158.1439
+[06/06 09:34:38.885] From FridgeOpenTime | UsingCount: 0 UsingTime: 158.6451
+[06/06 09:34:39.387] From FridgeOpenTime | UsingCount: 0 UsingTime: 159.1463
+[06/06 09:34:39.887] From FridgeOpenTime | UsingCount: 0 UsingTime: 159.6482
+[06/06 09:34:40.389] From FridgeOpenTime | UsingCount: 0 UsingTime: 160.1487
+[06/06 09:34:40.890] From FridgeOpenTime | UsingCount: 0 UsingTime: 160.6504
+[06/06 09:34:41.391] From FridgeOpenTime | UsingCount: 0 UsingTime: 161.1513
+[06/06 09:34:41.892] From FridgeOpenTime | UsingCount: 0 UsingTime: 161.6538
+[06/06 09:34:42.407] From FridgeOpenTime | UsingCount: 0 UsingTime: 162.1681
+[06/06 09:34:42.908] From FridgeOpenTime | UsingCount: 0 UsingTime: 162.6684
+[06/06 09:34:43.409] From FridgeOpenTime | UsingCount: 0 UsingTime: 163.1698
+[06/06 09:34:43.911] From FridgeOpenTime | UsingCount: 0 UsingTime: 163.6709
+[06/06 09:34:44.412] From FridgeOpenTime | UsingCount: 0 UsingTime: 164.1721
+[06/06 09:34:44.914] From FridgeOpenTime | UsingCount: 0 UsingTime: 164.673
+[06/06 09:34:45.415] From FridgeOpenTime | UsingCount: 0 UsingTime: 165.1747
+[06/06 09:34:45.916] From FridgeOpenTime | UsingCount: 0 UsingTime: 165.6758
+[06/06 09:34:46.417] From FridgeOpenTime | UsingCount: 0 UsingTime: 166.1766
+[06/06 09:34:46.918] From FridgeOpenTime | UsingCount: 0 UsingTime: 166.6778
+[06/06 09:34:47.419] From FridgeOpenTime | UsingCount: 0 UsingTime: 167.1797
+[06/06 09:34:47.921] From FridgeOpenTime | UsingCount: 0 UsingTime: 167.6819
+[06/06 09:34:48.434] From FridgeOpenTime | UsingCount: 0 UsingTime: 168.1945
+[06/06 09:34:48.935] From FridgeOpenTime | UsingCount: 0 UsingTime: 168.6961
+[06/06 09:34:49.438] From FridgeOpenTime | UsingCount: 0 UsingTime: 169.1983
+[06/06 09:34:49.939] From FridgeOpenTime | UsingCount: 0 UsingTime: 169.7003
+[06/06 09:34:50.441] From FridgeOpenTime | UsingCount: 0 UsingTime: 170.2021
+[06/06 09:34:50.942] From FridgeOpenTime | UsingCount: 0 UsingTime: 170.7033
+[06/06 09:34:51.444] From FridgeOpenTime | UsingCount: 0 UsingTime: 171.2045
+[06/06 09:34:51.945] From FridgeOpenTime | UsingCount: 0 UsingTime: 171.7051
+[06/06 09:34:52.447] From FridgeOpenTime | UsingCount: 0 UsingTime: 172.2062
+[06/06 09:34:52.948] From FridgeOpenTime | UsingCount: 0 UsingTime: 172.7075
+[06/06 09:34:53.449] From FridgeOpenTime | UsingCount: 0 UsingTime: 173.2077
+[06/06 09:34:53.950] From FridgeOpenTime | UsingCount: 0 UsingTime: 173.7084
+[06/06 09:34:54.451] From FridgeOpenTime | UsingCount: 0 UsingTime: 174.2103
+[06/06 09:34:54.952] From FridgeOpenTime | UsingCount: 0 UsingTime: 174.711
+[06/06 09:34:55.453] From FridgeOpenTime | UsingCount: 0 UsingTime: 175.2123
+[06/06 09:34:55.954] From FridgeOpenTime | UsingCount: 0 UsingTime: 175.7151
+[06/06 09:34:56.456] From FridgeOpenTime | UsingCount: 0 UsingTime: 176.2169
+[06/06 09:34:56.956] From FridgeOpenTime | UsingCount: 0 UsingTime: 176.7176
+[06/06 09:34:57.457] From FridgeOpenTime | UsingCount: 0 UsingTime: 177.219
+[06/06 09:34:57.958] From FridgeOpenTime | UsingCount: 0 UsingTime: 177.72
+[06/06 09:34:58.461] From FridgeOpenTime | UsingCount: 0 UsingTime: 178.2209
+[06/06 09:34:58.963] From FridgeOpenTime | UsingCount: 0 UsingTime: 178.7225
+[06/06 09:34:59.464] From FridgeOpenTime | UsingCount: 0 UsingTime: 179.2234
+[06/06 09:34:59.965] From FridgeOpenTime | UsingCount: 0 UsingTime: 179.724
+[06/06 09:35:00.466] From FridgeOpenTime | UsingCount: 0 UsingTime: 180.2253
+[06/06 09:35:00.967] From FridgeOpenTime | UsingCount: 0 UsingTime: 180.7265
+[06/06 09:35:01.468] From FridgeOpenTime | UsingCount: 0 UsingTime: 181.2276
+[06/06 09:35:01.969] From FridgeOpenTime | UsingCount: 0 UsingTime: 181.7297
+[06/06 09:35:02.471] From FridgeOpenTime | UsingCount: 0 UsingTime: 182.2307
+[06/06 09:35:02.972] From FridgeOpenTime | UsingCount: 0 UsingTime: 182.7321
+[06/06 09:35:03.473] From FridgeOpenTime | UsingCount: 0 UsingTime: 183.2328
+[06/06 09:35:03.974] From FridgeOpenTime | UsingCount: 0 UsingTime: 183.7345
+[06/06 09:35:04.474] From FridgeOpenTime | UsingCount: 0 UsingTime: 184.2357
+[06/06 09:35:04.975] From FridgeOpenTime | UsingCount: 0 UsingTime: 184.737
+[06/06 09:35:05.477] From FridgeOpenTime | UsingCount: 0 UsingTime: 185.2378
+[06/06 09:35:05.507] Start cleaning
+[06/06 09:35:05.507] From DishwasherUsingCount | UsingCount: 1 UsingTime: 0
+[06/06 09:35:05.979] From FridgeOpenTime | UsingCount: 0 UsingTime: 185.7388
+[06/06 09:35:06.480] From FridgeOpenTime | UsingCount: 0 UsingTime: 186.2398
+[06/06 09:35:06.982] From FridgeOpenTime | UsingCount: 0 UsingTime: 186.7414
+[06/06 09:35:07.483] From FridgeOpenTime | UsingCount: 0 UsingTime: 187.2422
+[06/06 09:35:07.984] From FridgeOpenTime | UsingCount: 0 UsingTime: 187.7435
+[06/06 09:35:08.486] From FridgeOpenTime | UsingCount: 0 UsingTime: 188.245
+[06/06 09:35:08.986] From FridgeOpenTime | UsingCount: 0 UsingTime: 188.7458
+[06/06 09:35:09.488] From FridgeOpenTime | UsingCount: 0 UsingTime: 189.2481
+[06/06 09:35:09.989] From FridgeOpenTime | UsingCount: 0 UsingTime: 189.7487
+[06/06 09:35:10.491] From FridgeOpenTime | UsingCount: 0 UsingTime: 190.2511
+[06/06 09:35:10.992] From FridgeOpenTime | UsingCount: 0 UsingTime: 190.7514
+[06/06 09:35:11.493] From FridgeOpenTime | UsingCount: 0 UsingTime: 191.2525
+[06/06 09:35:11.994] From FridgeOpenTime | UsingCount: 0 UsingTime: 191.7531
+[06/06 09:35:12.495] From FridgeOpenTime | UsingCount: 0 UsingTime: 192.2537
+[06/06 09:35:12.996] From FridgeOpenTime | UsingCount: 0 UsingTime: 192.7553
+[06/06 09:35:13.496] From FridgeOpenTime | UsingCount: 0 UsingTime: 193.2561
+[06/06 09:35:13.998] From FridgeOpenTime | UsingCount: 0 UsingTime: 193.7577
+[06/06 09:35:14.499] From FridgeOpenTime | UsingCount: 0 UsingTime: 194.2586
+[06/06 09:35:15.001] From FridgeOpenTime | UsingCount: 0 UsingTime: 194.7599
+[06/06 09:35:15.251] From FridgeOpenTime | UsingCount: 0 UsingTime: 0
+[06/06 09:35:25.498] Clean a plate
+[06/06 09:35:25.498] Stop cleaning
+[06/06 09:35:26.251] Finish task3

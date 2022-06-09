@@ -1,0 +1,1179 @@
+[06/03 16:20:51.246] Start cleaning
+[06/03 16:20:51.251] From DishwasherUsingCount | UsingCount: 1 UsingTime: 0
+[06/03 16:20:52.760] From DishwasherUsingCount | UsingCount: 2 UsingTime: 0
+[06/03 16:20:55.822] From DishwasherUsingCount | UsingCount: 3 UsingTime: 0
+[06/03 16:20:55.920] From DishwasherUsingCount | UsingCount: 4 UsingTime: 0
+[06/03 16:20:56.935] From DishwasherUsingCount | UsingCount: 5 UsingTime: 0
+[06/03 16:20:58.218] From DishwasherUsingCount | UsingCount: 6 UsingTime: 0
+[06/03 16:21:11.235] Stop cleaning
+[06/03 16:22:22.311] Play TV
+[06/03 16:22:24.371] Play music
+[06/03 16:22:26.432] Play or pause
+[06/03 16:22:31.443] Finish task1
+[06/03 16:23:51.245] From DishwasherUsingCount | UsingCount: 5 UsingTime: 0
+[06/03 16:23:52.763] From DishwasherUsingCount | UsingCount: 4 UsingTime: 0
+[06/03 16:23:55.828] From DishwasherUsingCount | UsingCount: 3 UsingTime: 0
+[06/03 16:23:55.925] From DishwasherUsingCount | UsingCount: 2 UsingTime: 0
+[06/03 16:23:56.942] From DishwasherUsingCount | UsingCount: 1 UsingTime: 0
+[06/03 16:23:57.235] Play music
+[06/03 16:23:58.222] From DishwasherUsingCount | UsingCount: 0 UsingTime: 0
+[06/03 16:23:59.031] Play or pause
+[06/03 16:25:17.134] From ToasterUsingTime | UsingCount: 0 UsingTime: 0
+[06/03 16:25:17.733] From ToasterUsingTime | UsingCount: 0 UsingTime: 0.5018361
+[06/03 16:25:18.234] From ToasterUsingTime | UsingCount: 0 UsingTime: 1.002838
+[06/03 16:25:18.735] From ToasterUsingTime | UsingCount: 0 UsingTime: 1.504778
+[06/03 16:25:19.236] From ToasterUsingTime | UsingCount: 0 UsingTime: 2.006313
+[06/03 16:25:19.738] From ToasterUsingTime | UsingCount: 0 UsingTime: 2.506702
+[06/03 16:25:20.239] From ToasterUsingTime | UsingCount: 0 UsingTime: 3.00899
+[06/03 16:25:20.754] From ToasterUsingTime | UsingCount: 0 UsingTime: 3.523676
+[06/03 16:25:21.256] From ToasterUsingTime | UsingCount: 0 UsingTime: 4.025592
+[06/03 16:25:21.521] Set toaster time: 25.19381
+[06/03 16:25:21.521] From ToasterUsingCount | UsingCount: 1 UsingTime: 0
+[06/03 16:25:21.757] From ToasterUsingTime | UsingCount: 0 UsingTime: 4.526075
+[06/03 16:25:22.258] From ToasterUsingTime | UsingCount: 0 UsingTime: 5.02616
+[06/03 16:25:22.759] From ToasterUsingTime | UsingCount: 0 UsingTime: 5.527211
+[06/03 16:25:23.260] From ToasterUsingTime | UsingCount: 0 UsingTime: 6.02917
+[06/03 16:25:23.761] From ToasterUsingTime | UsingCount: 0 UsingTime: 6.530073
+[06/03 16:25:24.262] From ToasterUsingTime | UsingCount: 0 UsingTime: 7.031538
+[06/03 16:25:24.764] From ToasterUsingTime | UsingCount: 0 UsingTime: 7.532896
+[06/03 16:25:25.265] From ToasterUsingTime | UsingCount: 0 UsingTime: 8.03444
+[06/03 16:25:25.765] From ToasterUsingTime | UsingCount: 0 UsingTime: 8.535379
+[06/03 16:25:26.267] From ToasterUsingTime | UsingCount: 0 UsingTime: 9.036948
+[06/03 16:25:26.768] From ToasterUsingTime | UsingCount: 0 UsingTime: 9.538463
+[06/03 16:25:27.269] From ToasterUsingTime | UsingCount: 0 UsingTime: 10.0435
+[06/03 16:25:27.784] From ToasterUsingTime | UsingCount: 0 UsingTime: 10.55466
+[06/03 16:25:28.285] From ToasterUsingTime | UsingCount: 0 UsingTime: 11.05616
+[06/03 16:25:28.787] From ToasterUsingTime | UsingCount: 0 UsingTime: 11.55798
+[06/03 16:25:29.288] From ToasterUsingTime | UsingCount: 0 UsingTime: 12.0584
+[06/03 16:25:29.790] From ToasterUsingTime | UsingCount: 0 UsingTime: 12.56095
+[06/03 16:25:30.304] From ToasterUsingTime | UsingCount: 0 UsingTime: 13.07454
+[06/03 16:25:30.805] From ToasterUsingTime | UsingCount: 0 UsingTime: 13.57578
+[06/03 16:25:31.307] From ToasterUsingTime | UsingCount: 0 UsingTime: 14.07697
+[06/03 16:25:31.809] From ToasterUsingTime | UsingCount: 0 UsingTime: 14.57853
+[06/03 16:25:32.310] From ToasterUsingTime | UsingCount: 0 UsingTime: 15.07875
+[06/03 16:25:32.811] From ToasterUsingTime | UsingCount: 0 UsingTime: 15.5798
+[06/03 16:25:33.312] From ToasterUsingTime | UsingCount: 0 UsingTime: 16.08086
+[06/03 16:25:33.813] From ToasterUsingTime | UsingCount: 0 UsingTime: 16.58197
+[06/03 16:25:34.315] From ToasterUsingTime | UsingCount: 0 UsingTime: 17.08349
+[06/03 16:25:34.816] From ToasterUsingTime | UsingCount: 0 UsingTime: 17.58416
+[06/03 16:25:35.317] From ToasterUsingTime | UsingCount: 0 UsingTime: 18.08541
+[06/03 16:25:35.819] From ToasterUsingTime | UsingCount: 0 UsingTime: 18.58765
+[06/03 16:25:36.320] From ToasterUsingTime | UsingCount: 0 UsingTime: 19.08878
+[06/03 16:25:36.821] From ToasterUsingTime | UsingCount: 0 UsingTime: 19.59025
+[06/03 16:25:37.322] From ToasterUsingTime | UsingCount: 0 UsingTime: 20.09094
+[06/03 16:25:37.823] From ToasterUsingTime | UsingCount: 0 UsingTime: 20.59255
+[06/03 16:25:38.324] From ToasterUsingTime | UsingCount: 0 UsingTime: 21.09325
+[06/03 16:25:38.825] From ToasterUsingTime | UsingCount: 0 UsingTime: 21.59464
+[06/03 16:25:39.326] From ToasterUsingTime | UsingCount: 0 UsingTime: 22.09548
+[06/03 16:25:39.828] From ToasterUsingTime | UsingCount: 0 UsingTime: 22.59711
+[06/03 16:25:40.328] From ToasterUsingTime | UsingCount: 0 UsingTime: 23.09756
+[06/03 16:25:40.830] From ToasterUsingTime | UsingCount: 0 UsingTime: 23.59869
+[06/03 16:25:41.332] From ToasterUsingTime | UsingCount: 0 UsingTime: 24.09968
+[06/03 16:25:41.833] From ToasterUsingTime | UsingCount: 0 UsingTime: 24.60169
+[06/03 16:25:42.334] From ToasterUsingTime | UsingCount: 0 UsingTime: 25.10332
+[06/03 16:25:42.845] From ToasterUsingTime | UsingCount: 0 UsingTime: 25.6146
+[06/03 16:25:43.357] From ToasterUsingTime | UsingCount: 0 UsingTime: 26.12582
+[06/03 16:25:43.859] From ToasterUsingTime | UsingCount: 0 UsingTime: 26.62724
+[06/03 16:25:44.359] From ToasterUsingTime | UsingCount: 0 UsingTime: 27.12776
+[06/03 16:25:44.860] From ToasterUsingTime | UsingCount: 0 UsingTime: 27.6279
+[06/03 16:25:45.361] From ToasterUsingTime | UsingCount: 0 UsingTime: 28.12934
+[06/03 16:25:45.862] From ToasterUsingTime | UsingCount: 0 UsingTime: 28.6314
+[06/03 16:25:46.363] From ToasterUsingTime | UsingCount: 0 UsingTime: 29.133
+[06/03 16:25:46.810] From ToasterUsingTime | UsingCount: 0 UsingTime: 0
+[06/03 16:26:06.573] From FridgeOpenCount | UsingCount: 1 UsingTime: 0
+[06/03 16:26:07.074] From FridgeOpenTime | UsingCount: 0 UsingTime: 0.5013622
+[06/03 16:26:07.575] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.002359
+[06/03 16:26:08.076] From FridgeOpenTime | UsingCount: 0 UsingTime: 1.503703
+[06/03 16:26:08.578] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.004775
+[06/03 16:26:09.079] From FridgeOpenTime | UsingCount: 0 UsingTime: 2.50609
+[06/03 16:26:09.580] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.007335
+[06/03 16:26:10.082] From FridgeOpenTime | UsingCount: 0 UsingTime: 3.509187
+[06/03 16:26:10.582] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.0105
+[06/03 16:26:11.084] From FridgeOpenTime | UsingCount: 0 UsingTime: 4.512383
+[06/03 16:26:11.585] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.014057
+[06/03 16:26:12.086] From FridgeOpenTime | UsingCount: 0 UsingTime: 5.51504
+[06/03 16:26:12.587] From FridgeOpenTime | UsingCount: 0 UsingTime: 6.015519
+[06/03 16:26:13.089] From FridgeOpenTime | UsingCount: 0 UsingTime: 6.516858
+[06/03 16:26:13.590] From FridgeOpenTime | UsingCount: 0 UsingTime: 7.017564
+[06/03 16:26:14.092] From FridgeOpenTime | UsingCount: 0 UsingTime: 7.518853
+[06/03 16:26:14.591] From FridgeOpenTime | UsingCount: 0 UsingTime: 8.022006
+[06/03 16:26:15.106] From FridgeOpenTime | UsingCount: 0 UsingTime: 8.534981
+[06/03 16:26:15.608] From FridgeOpenTime | UsingCount: 0 UsingTime: 9.036334
+[06/03 16:26:16.110] From FridgeOpenTime | UsingCount: 0 UsingTime: 9.537955
+[06/03 16:26:16.611] From FridgeOpenTime | UsingCount: 0 UsingTime: 10.03861
+[06/03 16:26:17.112] From FridgeOpenTime | UsingCount: 0 UsingTime: 10.53952
+[06/03 16:26:17.614] From FridgeOpenTime | UsingCount: 0 UsingTime: 11.0414
+[06/03 16:26:18.115] From FridgeOpenTime | UsingCount: 0 UsingTime: 11.54469
+[06/03 16:26:18.630] From FridgeOpenTime | UsingCount: 0 UsingTime: 12.05729
+[06/03 16:26:19.131] From FridgeOpenTime | UsingCount: 0 UsingTime: 12.55836
+[06/03 16:26:19.632] From FridgeOpenTime | UsingCount: 0 UsingTime: 13.05931
+[06/03 16:26:20.133] From FridgeOpenTime | UsingCount: 0 UsingTime: 13.5605
+[06/03 16:26:20.635] From FridgeOpenTime | UsingCount: 0 UsingTime: 14.0623
+[06/03 16:26:21.136] From FridgeOpenTime | UsingCount: 0 UsingTime: 14.56453
+[06/03 16:26:21.637] From FridgeOpenTime | UsingCount: 0 UsingTime: 15.06643
+[06/03 16:26:22.152] From FridgeOpenTime | UsingCount: 0 UsingTime: 15.57993
+[06/03 16:26:22.653] From FridgeOpenTime | UsingCount: 0 UsingTime: 16.08121
+[06/03 16:26:23.155] From FridgeOpenTime | UsingCount: 0 UsingTime: 16.58279
+[06/03 16:26:23.656] From FridgeOpenTime | UsingCount: 0 UsingTime: 17.08402
+[06/03 16:26:24.171] From FridgeOpenTime | UsingCount: 0 UsingTime: 17.59905
+[06/03 16:26:24.672] From FridgeOpenTime | UsingCount: 0 UsingTime: 18.10029
+[06/03 16:26:25.173] From FridgeOpenTime | UsingCount: 0 UsingTime: 18.60115
+[06/03 16:26:25.674] From FridgeOpenTime | UsingCount: 0 UsingTime: 19.10252
+[06/03 16:26:26.176] From FridgeOpenTime | UsingCount: 0 UsingTime: 19.60351
+[06/03 16:26:26.678] From FridgeOpenTime | UsingCount: 0 UsingTime: 20.10489
+[06/03 16:26:27.179] From FridgeOpenTime | UsingCount: 0 UsingTime: 20.60555
+[06/03 16:26:27.680] From FridgeOpenTime | UsingCount: 0 UsingTime: 21.10657
+[06/03 16:26:28.181] From FridgeOpenTime | UsingCount: 0 UsingTime: 21.60821
+[06/03 16:26:28.681] From FridgeOpenTime | UsingCount: 0 UsingTime: 22.1098
+[06/03 16:26:29.183] From FridgeOpenTime | UsingCount: 0 UsingTime: 22.61127
+[06/03 16:26:29.684] From FridgeOpenTime | UsingCount: 0 UsingTime: 23.11347
+[06/03 16:26:30.186] From FridgeOpenTime | UsingCount: 0 UsingTime: 23.61463
+[06/03 16:26:30.687] From FridgeOpenTime | UsingCount: 0 UsingTime: 24.11604
+[06/03 16:26:31.189] From FridgeOpenTime | UsingCount: 0 UsingTime: 24.618
+[06/03 16:26:31.703] From FridgeOpenTime | UsingCount: 0 UsingTime: 25.13241
+[06/03 16:26:32.204] From FridgeOpenTime | UsingCount: 0 UsingTime: 25.63478
+[06/03 16:26:32.720] From FridgeOpenTime | UsingCount: 0 UsingTime: 26.14756
+[06/03 16:26:33.221] From FridgeOpenTime | UsingCount: 0 UsingTime: 26.6494
+[06/03 16:26:33.723] From FridgeOpenTime | UsingCount: 0 UsingTime: 27.14982
+[06/03 16:26:34.223] From FridgeOpenTime | UsingCount: 0 UsingTime: 27.65263
+[06/03 16:26:34.739] From FridgeOpenTime | UsingCount: 0 UsingTime: 28.16623
+[06/03 16:26:35.240] From FridgeOpenTime | UsingCount: 0 UsingTime: 28.66704
+[06/03 16:26:35.741] From FridgeOpenTime | UsingCount: 0 UsingTime: 29.16844
+[06/03 16:26:36.243] From FridgeOpenTime | UsingCount: 0 UsingTime: 29.66957
+[06/03 16:26:36.270] From FridgeOpenTime | UsingCount: 0 UsingTime: 0
+[06/03 16:26:36.645] From FridgeOpenCount | UsingCount: 2 UsingTime: 0
+[06/03 16:26:36.660] From FridgeOpenTime | UsingCount: 0 UsingTime: 0
+[06/03 16:26:51.476] Use a clean plate
+[06/03 16:27:06.579] From FridgeOpenCount | UsingCount: 1 UsingTime: 0
+[06/03 16:27:19.416] Set gasfire speed: 0.01431743
+[06/03 16:27:19.417] Set heating speed: 0.01431743
+[06/03 16:27:19.471] Set gasfire speed: 0.03338477
+[06/03 16:27:19.471] Set heating speed: 0.03338477
+[06/03 16:27:19.526] Set gasfire speed: 0.04622969
+[06/03 16:27:19.526] Set heating speed: 0.04622969
+[06/03 16:27:19.582] Set gasfire speed: 0.06172907
+[06/03 16:27:19.583] Set heating speed: 0.06172907
+[06/03 16:27:19.638] Set gasfire speed: 0.07466423
+[06/03 16:27:19.638] Set heating speed: 0.07466423
+[06/03 16:27:19.693] Set gasfire speed: 0.08514512
+[06/03 16:27:19.694] Set heating speed: 0.08514512
+[06/03 16:27:19.748] Set gasfire speed: 0.09287754
+[06/03 16:27:19.749] Set heating speed: 0.09287754
+[06/03 16:27:19.804] Set gasfire speed: 0.1025886
+[06/03 16:27:19.805] Set heating speed: 0.1025886
+[06/03 16:27:19.860] Set gasfire speed: 0.1107456
+[06/03 16:27:19.861] Set heating speed: 0.1107456
+[06/03 16:27:19.916] Set gasfire speed: 0.117943
+[06/03 16:27:19.916] Set heating speed: 0.117943
+[06/03 16:27:19.930] From OvenUsingTime | UsingCount: 0 UsingTime: 0.5149059
+[06/03 16:27:19.971] Set gasfire speed: 0.1252172
+[06/03 16:27:19.972] Set heating speed: 0.1252172
+[06/03 16:27:20.026] Set gasfire speed: 0.1297579
+[06/03 16:27:20.027] Set heating speed: 0.1297579
+[06/03 16:27:20.082] Set gasfire speed: 0.1369924
+[06/03 16:27:20.083] Set heating speed: 0.1369924
+[06/03 16:27:20.139] Set gasfire speed: 0.143421
+[06/03 16:27:20.139] Set heating speed: 0.143421
+[06/03 16:27:20.194] Set gasfire speed: 0.1528857
+[06/03 16:27:20.195] Set heating speed: 0.1528857
+[06/03 16:27:20.250] Set gasfire speed: 0.160246
+[06/03 16:27:20.250] Set heating speed: 0.160246
+[06/03 16:27:20.305] Set gasfire speed: 0.1664934
+[06/03 16:27:20.306] Set heating speed: 0.1664934
+[06/03 16:27:20.361] Set gasfire speed: 0.1758964
+[06/03 16:27:20.361] Set heating speed: 0.1758964
+[06/03 16:27:20.417] Set gasfire speed: 0.1848163
+[06/03 16:27:20.417] Set heating speed: 0.1848163
+[06/03 16:27:20.431] From OvenUsingTime | UsingCount: 0 UsingTime: 1.016145
+[06/03 16:27:20.473] Set gasfire speed: 0.1951929
+[06/03 16:27:20.473] Set heating speed: 0.1951929
+[06/03 16:27:20.528] Set gasfire speed: 0.2017667
+[06/03 16:27:20.528] Set heating speed: 0.2017667
+[06/03 16:27:20.583] Set gasfire speed: 0.2116844
+[06/03 16:27:20.584] Set heating speed: 0.2116844
+[06/03 16:27:20.640] Set gasfire speed: 0.2208754
+[06/03 16:27:20.640] Set heating speed: 0.2208754
+[06/03 16:27:20.696] Set gasfire speed: 0.229704
+[06/03 16:27:20.696] Set heating speed: 0.229704
+[06/03 16:27:20.751] Set gasfire speed: 0.2387258
+[06/03 16:27:20.752] Set heating speed: 0.2387258
+[06/03 16:27:20.806] Set gasfire speed: 0.2447323
+[06/03 16:27:20.807] Set heating speed: 0.2447323
+[06/03 16:27:20.862] Set gasfire speed: 0.253666
+[06/03 16:27:20.863] Set heating speed: 0.253666
+[06/03 16:27:20.918] Set gasfire speed: 0.2621579
+[06/03 16:27:20.919] Set heating speed: 0.2621579
+[06/03 16:27:20.932] From OvenUsingTime | UsingCount: 0 UsingTime: 1.517654
+[06/03 16:27:20.974] Set gasfire speed: 0.2700882
+[06/03 16:27:20.975] Set heating speed: 0.2700882
+[06/03 16:27:21.030] Set gasfire speed: 0.2774323
+[06/03 16:27:21.030] Set heating speed: 0.2774323
+[06/03 16:27:21.084] Set gasfire speed: 0.2818168
+[06/03 16:27:21.085] Set heating speed: 0.2818168
+[06/03 16:27:21.141] Set gasfire speed: 0.2895369
+[06/03 16:27:21.142] Set heating speed: 0.2895369
+[06/03 16:27:21.197] Set gasfire speed: 0.2980908
+[06/03 16:27:21.197] Set heating speed: 0.2980908
+[06/03 16:27:21.252] Set gasfire speed: 0.3082664
+[06/03 16:27:21.252] Set heating speed: 0.3082664
+[06/03 16:27:21.308] Set gasfire speed: 0.3149895
+[06/03 16:27:21.308] Set heating speed: 0.3149895
+[06/03 16:27:21.363] Set gasfire speed: 0.3269013
+[06/03 16:27:21.364] Set heating speed: 0.3269013
+[06/03 16:27:21.419] Set gasfire speed: 0.3403175
+[06/03 16:27:21.419] Set heating speed: 0.3403175
+[06/03 16:27:21.433] From OvenUsingTime | UsingCount: 0 UsingTime: 2.020127
+[06/03 16:27:21.475] Set gasfire speed: 0.3541787
+[06/03 16:27:21.476] Set heating speed: 0.3541787
+[06/03 16:27:21.530] Set gasfire speed: 0.3703431
+[06/03 16:27:21.531] Set heating speed: 0.3703431
+[06/03 16:27:21.531] From ToasterUsingCount | UsingCount: 0 UsingTime: 0
+[06/03 16:27:21.585] Set gasfire speed: 0.3816748
+[06/03 16:27:21.586] Set heating speed: 0.3816748
+[06/03 16:27:21.642] Set gasfire speed: 0.399782
+[06/03 16:27:21.643] Set heating speed: 0.399782
+[06/03 16:27:21.698] Set gasfire speed: 0.4169666
+[06/03 16:27:21.698] Set heating speed: 0.4169666
+[06/03 16:27:21.753] Set gasfire speed: 0.4345902
+[06/03 16:27:21.754] Set heating speed: 0.4345902
+[06/03 16:27:21.810] Set gasfire speed: 0.4507905
+[06/03 16:27:21.810] Set heating speed: 0.4507905
+[06/03 16:27:21.864] Set gasfire speed: 0.4604376
+[06/03 16:27:21.864] Set heating speed: 0.4604376
+[06/03 16:27:21.920] Set gasfire speed: 0.474185
+[06/03 16:27:21.920] Set heating speed: 0.474185
+[06/03 16:27:21.934] From OvenUsingTime | UsingCount: 0 UsingTime: 2.520629
+[06/03 16:27:21.976] Set gasfire speed: 0.4871995
+[06/03 16:27:21.977] Set heating speed: 0.4871995
+[06/03 16:27:22.031] Set gasfire speed: 0.498232
+[06/03 16:27:22.032] Set heating speed: 0.498232
+[06/03 16:27:22.087] Set gasfire speed: 0.5048324
+[06/03 16:27:22.087] Set heating speed: 0.5048324
+[06/03 16:27:22.143] Set gasfire speed: 0.5136991
+[06/03 16:27:22.143] Set heating speed: 0.5136991
+[06/03 16:27:22.199] Set gasfire speed: 0.5223665
+[06/03 16:27:22.199] Set heating speed: 0.5223665
+[06/03 16:27:22.255] Set gasfire speed: 0.528127
+[06/03 16:27:22.255] Set heating speed: 0.528127
+[06/03 16:27:22.310] Set gasfire speed: 0.5338702
+[06/03 16:27:22.311] Set heating speed: 0.5338702
+[06/03 16:27:22.365] Set gasfire speed: 0.5376893
+[06/03 16:27:22.366] Set heating speed: 0.5376893
+[06/03 16:27:22.421] Set gasfire speed: 0.5434039
+[06/03 16:27:22.422] Set heating speed: 0.5434039
+[06/03 16:27:22.435] From OvenUsingTime | UsingCount: 0 UsingTime: 3.022269
+[06/03 16:27:22.477] Set gasfire speed: 0.5491012
+[06/03 16:27:22.478] Set heating speed: 0.5491012
+[06/03 16:27:22.532] Set gasfire speed: 0.5547816
+[06/03 16:27:22.532] Set heating speed: 0.5547816
+[06/03 16:27:22.588] Set gasfire speed: 0.560445
+[06/03 16:27:22.589] Set heating speed: 0.560445
+[06/03 16:27:22.950] From OvenUsingTime | UsingCount: 0 UsingTime: 3.535304
+[06/03 16:27:23.452] From OvenUsingTime | UsingCount: 0 UsingTime: 4.037801
+[06/03 16:27:23.953] From OvenUsingTime | UsingCount: 0 UsingTime: 4.538373
+[06/03 16:27:24.455] From OvenUsingTime | UsingCount: 0 UsingTime: 5.040991
+[06/03 16:27:24.956] From OvenUsingTime | UsingCount: 0 UsingTime: 5.541203
+[06/03 16:27:25.458] From OvenUsingTime | UsingCount: 0 UsingTime: 6.042697
+[06/03 16:27:25.972] From OvenUsingTime | UsingCount: 0 UsingTime: 6.5587
+[06/03 16:27:26.486] From OvenUsingTime | UsingCount: 0 UsingTime: 7.072016
+[06/03 16:27:26.989] From OvenUsingTime | UsingCount: 0 UsingTime: 7.574257
+[06/03 16:27:27.489] From OvenUsingTime | UsingCount: 0 UsingTime: 8.074993
+[06/03 16:27:28.003] From OvenUsingTime | UsingCount: 0 UsingTime: 8.589047
+[06/03 16:27:28.504] From OvenUsingTime | UsingCount: 0 UsingTime: 9.090881
+[06/03 16:27:29.005] From OvenUsingTime | UsingCount: 0 UsingTime: 9.591969
+[06/03 16:27:29.507] From OvenUsingTime | UsingCount: 0 UsingTime: 10.0928
+[06/03 16:27:30.009] From OvenUsingTime | UsingCount: 0 UsingTime: 10.59478
+[06/03 16:27:30.510] From OvenUsingTime | UsingCount: 0 UsingTime: 11.09503
+[06/03 16:27:31.011] From OvenUsingTime | UsingCount: 0 UsingTime: 11.5963
+[06/03 16:27:31.512] From OvenUsingTime | UsingCount: 0 UsingTime: 12.0972
+[06/03 16:27:32.014] From OvenUsingTime | UsingCount: 0 UsingTime: 12.59846
+[06/03 16:27:32.515] From OvenUsingTime | UsingCount: 0 UsingTime: 13.09992
+[06/03 16:27:33.016] From OvenUsingTime | UsingCount: 0 UsingTime: 13.60087
+[06/03 16:27:33.517] From OvenUsingTime | UsingCount: 0 UsingTime: 14.10202
+[06/03 16:27:34.018] From OvenUsingTime | UsingCount: 0 UsingTime: 14.60375
+[06/03 16:27:34.520] From OvenUsingTime | UsingCount: 0 UsingTime: 15.10521
+[06/03 16:27:35.021] From OvenUsingTime | UsingCount: 0 UsingTime: 15.60711
+[06/03 16:27:35.522] From OvenUsingTime | UsingCount: 0 UsingTime: 16.10843
+[06/03 16:27:36.023] From OvenUsingTime | UsingCount: 0 UsingTime: 16.60901
+[06/03 16:27:36.524] From OvenUsingTime | UsingCount: 0 UsingTime: 17.10994
+[06/03 16:27:36.650] From FridgeOpenCount | UsingCount: 0 UsingTime: 0
+[06/03 16:27:37.025] From OvenUsingTime | UsingCount: 0 UsingTime: 17.61114
+[06/03 16:27:37.526] From OvenUsingTime | UsingCount: 0 UsingTime: 18.11233
+[06/03 16:27:38.028] From OvenUsingTime | UsingCount: 0 UsingTime: 18.61338
+[06/03 16:27:38.530] From OvenUsingTime | UsingCount: 0 UsingTime: 19.11439
+[06/03 16:27:39.031] From OvenUsingTime | UsingCount: 0 UsingTime: 19.6155
+[06/03 16:27:39.532] From OvenUsingTime | UsingCount: 0 UsingTime: 20.117
+[06/03 16:27:40.033] From OvenUsingTime | UsingCount: 0 UsingTime: 20.61816
+[06/03 16:27:40.535] From OvenUsingTime | UsingCount: 0 UsingTime: 21.12
+[06/03 16:27:41.036] From OvenUsingTime | UsingCount: 0 UsingTime: 21.62149
+[06/03 16:27:41.536] From OvenUsingTime | UsingCount: 0 UsingTime: 22.12217
+[06/03 16:27:42.038] From OvenUsingTime | UsingCount: 0 UsingTime: 22.62309
+[06/03 16:27:42.539] From OvenUsingTime | UsingCount: 0 UsingTime: 23.12401
+[06/03 16:27:43.040] From OvenUsingTime | UsingCount: 0 UsingTime: 23.6252
+[06/03 16:27:43.541] From OvenUsingTime | UsingCount: 0 UsingTime: 24.12639
+[06/03 16:27:44.042] From OvenUsingTime | UsingCount: 0 UsingTime: 24.62791
+[06/03 16:27:44.543] From OvenUsingTime | UsingCount: 0 UsingTime: 25.12919
+[06/03 16:27:45.046] From OvenUsingTime | UsingCount: 0 UsingTime: 25.63142
+[06/03 16:27:45.547] From OvenUsingTime | UsingCount: 0 UsingTime: 26.13281
+[06/03 16:27:46.050] From OvenUsingTime | UsingCount: 0 UsingTime: 26.63377
+[06/03 16:27:46.549] From OvenUsingTime | UsingCount: 0 UsingTime: 27.13465
+[06/03 16:27:47.050] From OvenUsingTime | UsingCount: 0 UsingTime: 27.63499
+[06/03 16:27:47.552] From OvenUsingTime | UsingCount: 0 UsingTime: 28.13773
+[06/03 16:27:48.053] From OvenUsingTime | UsingCount: 0 UsingTime: 28.63913
+[06/03 16:27:48.555] From OvenUsingTime | UsingCount: 0 UsingTime: 29.14061
+[06/03 16:27:49.056] From OvenUsingTime | UsingCount: 0 UsingTime: 29.6413
+[06/03 16:27:49.556] From OvenUsingTime | UsingCount: 0 UsingTime: 30.14217
+[06/03 16:27:50.058] From OvenUsingTime | UsingCount: 0 UsingTime: 30.64268
+[06/03 16:27:50.561] From OvenUsingTime | UsingCount: 0 UsingTime: 31.14568
+[06/03 16:27:51.075] From OvenUsingTime | UsingCount: 0 UsingTime: 31.65999
+[06/03 16:27:51.576] From OvenUsingTime | UsingCount: 0 UsingTime: 32.16063
+[06/03 16:27:52.076] From OvenUsingTime | UsingCount: 0 UsingTime: 32.66103
+[06/03 16:27:52.577] From OvenUsingTime | UsingCount: 0 UsingTime: 33.16203
+[06/03 16:27:53.079] From OvenUsingTime | UsingCount: 0 UsingTime: 33.66315
+[06/03 16:27:53.580] From OvenUsingTime | UsingCount: 0 UsingTime: 34.16433
+[06/03 16:27:54.082] From OvenUsingTime | UsingCount: 0 UsingTime: 34.66574
+[06/03 16:27:54.582] From OvenUsingTime | UsingCount: 0 UsingTime: 35.168
+[06/03 16:27:55.083] From OvenUsingTime | UsingCount: 0 UsingTime: 35.66953
+[06/03 16:27:55.585] From OvenUsingTime | UsingCount: 0 UsingTime: 36.17146
+[06/03 16:27:56.087] From OvenUsingTime | UsingCount: 0 UsingTime: 36.67367
+[06/03 16:27:56.588] From OvenUsingTime | UsingCount: 0 UsingTime: 37.17382
+[06/03 16:27:57.089] From OvenUsingTime | UsingCount: 0 UsingTime: 37.67461
+[06/03 16:27:57.591] From OvenUsingTime | UsingCount: 0 UsingTime: 38.17566
+[06/03 16:27:58.092] From OvenUsingTime | UsingCount: 0 UsingTime: 38.67651
+[06/03 16:27:58.593] From OvenUsingTime | UsingCount: 0 UsingTime: 39.17763
+[06/03 16:27:59.094] From OvenUsingTime | UsingCount: 0 UsingTime: 39.67841
+[06/03 16:27:59.595] From OvenUsingTime | UsingCount: 0 UsingTime: 40.17957
+[06/03 16:28:00.096] From OvenUsingTime | UsingCount: 0 UsingTime: 40.68024
+[06/03 16:28:00.597] From OvenUsingTime | UsingCount: 0 UsingTime: 41.18084
+[06/03 16:28:00.795] Cooked: Fried Egg
+[06/03 16:28:01.099] From OvenUsingTime | UsingCount: 0 UsingTime: 41.68208
+[06/03 16:28:01.599] From OvenUsingTime | UsingCount: 0 UsingTime: 42.18347
+[06/03 16:28:02.101] From OvenUsingTime | UsingCount: 0 UsingTime: 42.68527
+[06/03 16:28:02.602] From OvenUsingTime | UsingCount: 0 UsingTime: 43.18821
+[06/03 16:28:03.103] From OvenUsingTime | UsingCount: 0 UsingTime: 43.68932
+[06/03 16:28:03.605] From OvenUsingTime | UsingCount: 0 UsingTime: 44.1905
+[06/03 16:28:04.106] From OvenUsingTime | UsingCount: 0 UsingTime: 44.69152
+[06/03 16:28:04.607] From OvenUsingTime | UsingCount: 0 UsingTime: 45.19267
+[06/03 16:28:05.108] From OvenUsingTime | UsingCount: 0 UsingTime: 45.69327
+[06/03 16:28:05.610] From OvenUsingTime | UsingCount: 0 UsingTime: 46.19442
+[06/03 16:28:06.111] From OvenUsingTime | UsingCount: 0 UsingTime: 46.69562
+[06/03 16:28:06.612] From OvenUsingTime | UsingCount: 0 UsingTime: 47.19641
+[06/03 16:28:07.113] From OvenUsingTime | UsingCount: 0 UsingTime: 47.69736
+[06/03 16:28:07.614] From OvenUsingTime | UsingCount: 0 UsingTime: 48.19886
+[06/03 16:28:08.116] From OvenUsingTime | UsingCount: 0 UsingTime: 48.69991
+[06/03 16:28:08.617] From OvenUsingTime | UsingCount: 0 UsingTime: 49.2012
+[06/03 16:28:09.118] From OvenUsingTime | UsingCount: 0 UsingTime: 49.70245
+[06/03 16:28:09.619] From OvenUsingTime | UsingCount: 0 UsingTime: 50.20425
+[06/03 16:28:10.120] From OvenUsingTime | UsingCount: 0 UsingTime: 50.70585
+[06/03 16:28:10.622] From OvenUsingTime | UsingCount: 0 UsingTime: 51.20688
+[06/03 16:28:11.122] From OvenUsingTime | UsingCount: 0 UsingTime: 51.70921
+[06/03 16:28:11.623] From OvenUsingTime | UsingCount: 0 UsingTime: 52.20979
+[06/03 16:28:12.126] From OvenUsingTime | UsingCount: 0 UsingTime: 52.7125
+[06/03 16:28:12.629] From OvenUsingTime | UsingCount: 0 UsingTime: 53.21355
+[06/03 16:28:13.130] From OvenUsingTime | UsingCount: 0 UsingTime: 53.71498
+[06/03 16:28:13.631] From OvenUsingTime | UsingCount: 0 UsingTime: 54.21621
+[06/03 16:28:14.132] From OvenUsingTime | UsingCount: 0 UsingTime: 54.71764
+[06/03 16:28:14.634] From OvenUsingTime | UsingCount: 0 UsingTime: 55.21906
+[06/03 16:28:15.135] From OvenUsingTime | UsingCount: 0 UsingTime: 55.72072
+[06/03 16:28:15.636] From OvenUsingTime | UsingCount: 0 UsingTime: 56.22144
+[06/03 16:28:16.149] From OvenUsingTime | UsingCount: 0 UsingTime: 56.73447
+[06/03 16:28:16.651] From OvenUsingTime | UsingCount: 0 UsingTime: 57.23688
+[06/03 16:28:17.152] From OvenUsingTime | UsingCount: 0 UsingTime: 57.73886
+[06/03 16:28:17.653] From OvenUsingTime | UsingCount: 0 UsingTime: 58.24134
+[06/03 16:28:18.154] From OvenUsingTime | UsingCount: 0 UsingTime: 58.74202
+[06/03 16:28:18.669] From OvenUsingTime | UsingCount: 0 UsingTime: 59.25547
+[06/03 16:28:19.170] From OvenUsingTime | UsingCount: 0 UsingTime: 59.75672
+[06/03 16:28:19.671] From OvenUsingTime | UsingCount: 0 UsingTime: 60.25781
+[06/03 16:28:20.174] From OvenUsingTime | UsingCount: 0 UsingTime: 60.76102
+[06/03 16:28:20.676] From OvenUsingTime | UsingCount: 0 UsingTime: 61.26103
+[06/03 16:28:21.176] From OvenUsingTime | UsingCount: 0 UsingTime: 61.76119
+[06/03 16:28:21.678] From OvenUsingTime | UsingCount: 0 UsingTime: 62.26247
+[06/03 16:28:22.179] From OvenUsingTime | UsingCount: 0 UsingTime: 62.76341
+[06/03 16:28:22.681] From OvenUsingTime | UsingCount: 0 UsingTime: 63.26459
+[06/03 16:28:23.182] From OvenUsingTime | UsingCount: 0 UsingTime: 63.7664
+[06/03 16:28:23.683] From OvenUsingTime | UsingCount: 0 UsingTime: 64.26807
+[06/03 16:28:24.184] From OvenUsingTime | UsingCount: 0 UsingTime: 64.76945
+[06/03 16:28:24.685] From OvenUsingTime | UsingCount: 0 UsingTime: 65.27097
+[06/03 16:28:25.186] From OvenUsingTime | UsingCount: 0 UsingTime: 65.7723
+[06/03 16:28:25.689] From OvenUsingTime | UsingCount: 0 UsingTime: 66.27434
+[06/03 16:28:26.189] From OvenUsingTime | UsingCount: 0 UsingTime: 66.77448
+[06/03 16:28:26.691] From OvenUsingTime | UsingCount: 0 UsingTime: 67.27515
+[06/03 16:28:27.192] From OvenUsingTime | UsingCount: 0 UsingTime: 67.77592
+[06/03 16:28:27.693] From OvenUsingTime | UsingCount: 0 UsingTime: 68.27795
+[06/03 16:28:28.194] From OvenUsingTime | UsingCount: 0 UsingTime: 68.7787
+[06/03 16:28:28.695] From OvenUsingTime | UsingCount: 0 UsingTime: 69.27999
+[06/03 16:28:29.196] From OvenUsingTime | UsingCount: 0 UsingTime: 69.78029
+[06/03 16:28:29.698] From OvenUsingTime | UsingCount: 0 UsingTime: 70.28118
+[06/03 16:28:30.199] From OvenUsingTime | UsingCount: 0 UsingTime: 70.78245
+[06/03 16:28:30.700] From OvenUsingTime | UsingCount: 0 UsingTime: 71.28381
+[06/03 16:28:31.202] From OvenUsingTime | UsingCount: 0 UsingTime: 71.78767
+[06/03 16:28:31.716] From OvenUsingTime | UsingCount: 0 UsingTime: 72.29994
+[06/03 16:28:32.217] From OvenUsingTime | UsingCount: 0 UsingTime: 72.80125
+[06/03 16:28:32.718] From OvenUsingTime | UsingCount: 0 UsingTime: 73.30289
+[06/03 16:28:33.220] From OvenUsingTime | UsingCount: 0 UsingTime: 73.80457
+[06/03 16:28:33.722] From OvenUsingTime | UsingCount: 0 UsingTime: 74.3063
+[06/03 16:28:34.222] From OvenUsingTime | UsingCount: 0 UsingTime: 74.80643
+[06/03 16:28:34.723] From OvenUsingTime | UsingCount: 0 UsingTime: 75.30827
+[06/03 16:28:35.225] From OvenUsingTime | UsingCount: 0 UsingTime: 75.80925
+[06/03 16:28:35.726] From OvenUsingTime | UsingCount: 0 UsingTime: 76.31076
+[06/03 16:28:36.227] From OvenUsingTime | UsingCount: 0 UsingTime: 76.81186
+[06/03 16:28:36.728] From OvenUsingTime | UsingCount: 0 UsingTime: 77.31286
+[06/03 16:28:37.230] From OvenUsingTime | UsingCount: 0 UsingTime: 77.81387
+[06/03 16:28:37.730] From OvenUsingTime | UsingCount: 0 UsingTime: 78.31425
+[06/03 16:28:38.232] From OvenUsingTime | UsingCount: 0 UsingTime: 78.81651
+[06/03 16:28:38.733] From OvenUsingTime | UsingCount: 0 UsingTime: 79.31734
+[06/03 16:28:39.234] From OvenUsingTime | UsingCount: 0 UsingTime: 79.81951
+[06/03 16:28:39.735] From OvenUsingTime | UsingCount: 0 UsingTime: 80.32019
+[06/03 16:28:40.237] From OvenUsingTime | UsingCount: 0 UsingTime: 80.82217
+[06/03 16:28:40.738] From OvenUsingTime | UsingCount: 0 UsingTime: 81.32268
+[06/03 16:28:41.240] From OvenUsingTime | UsingCount: 0 UsingTime: 81.82362
+[06/03 16:28:41.281] From FridgeOpenTime | UsingCount: 0 UsingTime: 0.5015505
+[06/03 16:28:41.336] From FridgeOpenCount | UsingCount: 1 UsingTime: 0
+[06/03 16:28:41.350] From FridgeOpenTime | UsingCount: 0 UsingTime: 0
+[06/03 16:28:41.740] From OvenUsingTime | UsingCount: 0 UsingTime: 82.32414
+[06/03 16:28:42.241] From OvenUsingTime | UsingCount: 0 UsingTime: 82.82557
+[06/03 16:28:42.742] From OvenUsingTime | UsingCount: 0 UsingTime: 83.32742
+[06/03 16:28:43.243] From OvenUsingTime | UsingCount: 0 UsingTime: 83.82898
+[06/03 16:28:43.744] From OvenUsingTime | UsingCount: 0 UsingTime: 84.32997
+[06/03 16:28:44.245] From OvenUsingTime | UsingCount: 0 UsingTime: 84.83067
+[06/03 16:28:44.746] From OvenUsingTime | UsingCount: 0 UsingTime: 85.33144
+[06/03 16:28:45.248] From OvenUsingTime | UsingCount: 0 UsingTime: 85.83281
+[06/03 16:28:45.750] From OvenUsingTime | UsingCount: 0 UsingTime: 86.33404
+[06/03 16:28:46.251] From OvenUsingTime | UsingCount: 0 UsingTime: 86.83559
+[06/03 16:28:46.752] From OvenUsingTime | UsingCount: 0 UsingTime: 87.33801
+[06/03 16:28:47.253] From OvenUsingTime | UsingCount: 0 UsingTime: 87.83875
+[06/03 16:28:47.754] From OvenUsingTime | UsingCount: 0 UsingTime: 88.33944
+[06/03 16:28:48.255] From OvenUsingTime | UsingCount: 0 UsingTime: 88.84109
+[06/03 16:28:48.757] From OvenUsingTime | UsingCount: 0 UsingTime: 89.34196
+[06/03 16:28:49.258] From OvenUsingTime | UsingCount: 0 UsingTime: 89.8428
+[06/03 16:28:49.760] From OvenUsingTime | UsingCount: 0 UsingTime: 90.3436
+[06/03 16:28:50.260] From OvenUsingTime | UsingCount: 0 UsingTime: 90.84441
+[06/03 16:28:50.761] From OvenUsingTime | UsingCount: 0 UsingTime: 91.34544
+[06/03 16:28:51.262] From OvenUsingTime | UsingCount: 0 UsingTime: 91.84695
+[06/03 16:28:51.763] From OvenUsingTime | UsingCount: 0 UsingTime: 92.34878
+[06/03 16:28:52.265] From OvenUsingTime | UsingCount: 0 UsingTime: 92.85
+[06/03 16:28:52.765] From OvenUsingTime | UsingCount: 0 UsingTime: 93.35148
+[06/03 16:28:53.267] From OvenUsingTime | UsingCount: 0 UsingTime: 93.85351
+[06/03 16:28:53.769] From OvenUsingTime | UsingCount: 0 UsingTime: 94.35467
+[06/03 16:28:54.270] From OvenUsingTime | UsingCount: 0 UsingTime: 94.85583
+[06/03 16:28:54.771] From OvenUsingTime | UsingCount: 0 UsingTime: 95.35708
+[06/03 16:28:55.273] From OvenUsingTime | UsingCount: 0 UsingTime: 95.85821
+[06/03 16:28:55.775] From OvenUsingTime | UsingCount: 0 UsingTime: 96.35921
+[06/03 16:28:56.276] From OvenUsingTime | UsingCount: 0 UsingTime: 96.86021
+[06/03 16:28:56.776] From OvenUsingTime | UsingCount: 0 UsingTime: 97.36139
+[06/03 16:28:57.277] From OvenUsingTime | UsingCount: 0 UsingTime: 97.86158
+[06/03 16:28:57.778] From OvenUsingTime | UsingCount: 0 UsingTime: 98.36219
+[06/03 16:28:58.280] From OvenUsingTime | UsingCount: 0 UsingTime: 98.86382
+[06/03 16:28:58.781] From OvenUsingTime | UsingCount: 0 UsingTime: 99.36478
+[06/03 16:28:59.281] From OvenUsingTime | UsingCount: 0 UsingTime: 99.86717
+[06/03 16:28:59.782] From OvenUsingTime | UsingCount: 0 UsingTime: 100.3677
+[06/03 16:29:00.283] From OvenUsingTime | UsingCount: 0 UsingTime: 100.8698
+[06/03 16:29:00.785] From OvenUsingTime | UsingCount: 0 UsingTime: 101.3717
+[06/03 16:29:01.286] From OvenUsingTime | UsingCount: 0 UsingTime: 101.873
+[06/03 16:29:01.788] From OvenUsingTime | UsingCount: 0 UsingTime: 102.3742
+[06/03 16:29:02.290] From OvenUsingTime | UsingCount: 0 UsingTime: 102.8747
+[06/03 16:29:02.791] From OvenUsingTime | UsingCount: 0 UsingTime: 103.3761
+[06/03 16:29:03.292] From OvenUsingTime | UsingCount: 0 UsingTime: 103.8774
+[06/03 16:29:03.804] From OvenUsingTime | UsingCount: 0 UsingTime: 104.3918
+[06/03 16:29:04.306] From OvenUsingTime | UsingCount: 0 UsingTime: 104.8922
+[06/03 16:29:04.806] From OvenUsingTime | UsingCount: 0 UsingTime: 105.3929
+[06/03 16:29:05.308] From OvenUsingTime | UsingCount: 0 UsingTime: 105.8933
+[06/03 16:29:05.810] From OvenUsingTime | UsingCount: 0 UsingTime: 106.3947
+[06/03 16:29:06.311] From OvenUsingTime | UsingCount: 0 UsingTime: 106.8958
+[06/03 16:29:06.813] From OvenUsingTime | UsingCount: 0 UsingTime: 107.3974
+[06/03 16:29:07.315] From OvenUsingTime | UsingCount: 0 UsingTime: 107.8993
+[06/03 16:29:07.816] From OvenUsingTime | UsingCount: 0 UsingTime: 108.4003
+[06/03 16:29:08.317] From OvenUsingTime | UsingCount: 0 UsingTime: 108.9016
+[06/03 16:29:08.818] From OvenUsingTime | UsingCount: 0 UsingTime: 109.4033
+[06/03 16:29:09.319] From OvenUsingTime | UsingCount: 0 UsingTime: 109.9049
+[06/03 16:29:09.821] From OvenUsingTime | UsingCount: 0 UsingTime: 110.4058
+[06/03 16:29:10.322] From OvenUsingTime | UsingCount: 0 UsingTime: 110.9072
+[06/03 16:29:10.823] From OvenUsingTime | UsingCount: 0 UsingTime: 111.4093
+[06/03 16:29:11.324] From OvenUsingTime | UsingCount: 0 UsingTime: 111.91
+[06/03 16:29:11.825] From OvenUsingTime | UsingCount: 0 UsingTime: 112.4106
+[06/03 16:29:12.326] From OvenUsingTime | UsingCount: 0 UsingTime: 112.9112
+[06/03 16:29:12.827] From OvenUsingTime | UsingCount: 0 UsingTime: 113.4127
+[06/03 16:29:13.328] From OvenUsingTime | UsingCount: 0 UsingTime: 113.9133
+[06/03 16:29:13.831] From OvenUsingTime | UsingCount: 0 UsingTime: 114.4149
+[06/03 16:29:14.332] From OvenUsingTime | UsingCount: 0 UsingTime: 114.9162
+[06/03 16:29:14.832] From OvenUsingTime | UsingCount: 0 UsingTime: 115.4178
+[06/03 16:29:15.334] From OvenUsingTime | UsingCount: 0 UsingTime: 115.9192
+[06/03 16:29:15.835] From OvenUsingTime | UsingCount: 0 UsingTime: 116.4212
+[06/03 16:29:16.337] From OvenUsingTime | UsingCount: 0 UsingTime: 116.9215
+[06/03 16:29:16.837] From OvenUsingTime | UsingCount: 0 UsingTime: 117.4221
+[06/03 16:29:17.339] From OvenUsingTime | UsingCount: 0 UsingTime: 117.9238
+[06/03 16:29:17.840] From OvenUsingTime | UsingCount: 0 UsingTime: 118.425
+[06/03 16:29:18.341] From OvenUsingTime | UsingCount: 0 UsingTime: 118.926
+[06/03 16:29:18.842] From OvenUsingTime | UsingCount: 0 UsingTime: 119.4291
+[06/03 16:29:19.344] From OvenUsingTime | UsingCount: 0 UsingTime: 119.9296
+[06/03 16:29:19.845] From OvenUsingTime | UsingCount: 0 UsingTime: 120.4308
+[06/03 16:29:20.346] From OvenUsingTime | UsingCount: 0 UsingTime: 120.9316
+[06/03 16:29:20.846] From OvenUsingTime | UsingCount: 0 UsingTime: 121.4328
+[06/03 16:29:21.349] From OvenUsingTime | UsingCount: 0 UsingTime: 121.9339
+[06/03 16:29:21.850] From OvenUsingTime | UsingCount: 0 UsingTime: 122.4347
+[06/03 16:29:22.351] From OvenUsingTime | UsingCount: 0 UsingTime: 122.9392
+[06/03 16:29:22.866] From OvenUsingTime | UsingCount: 0 UsingTime: 123.4512
+[06/03 16:29:23.366] From OvenUsingTime | UsingCount: 0 UsingTime: 123.9524
+[06/03 16:29:23.869] From OvenUsingTime | UsingCount: 0 UsingTime: 124.4546
+[06/03 16:29:24.371] From OvenUsingTime | UsingCount: 0 UsingTime: 124.9561
+[06/03 16:29:24.871] From OvenUsingTime | UsingCount: 0 UsingTime: 125.4569
+[06/03 16:29:25.373] From OvenUsingTime | UsingCount: 0 UsingTime: 125.9578
+[06/03 16:29:25.874] From OvenUsingTime | UsingCount: 0 UsingTime: 126.4595
+[06/03 16:29:26.376] From OvenUsingTime | UsingCount: 0 UsingTime: 126.96
+[06/03 16:29:26.877] From OvenUsingTime | UsingCount: 0 UsingTime: 127.4614
+[06/03 16:29:27.378] From OvenUsingTime | UsingCount: 0 UsingTime: 127.9623
+[06/03 16:29:27.879] From OvenUsingTime | UsingCount: 0 UsingTime: 128.4629
+[06/03 16:29:28.380] From OvenUsingTime | UsingCount: 0 UsingTime: 128.964
+[06/03 16:29:28.882] From OvenUsingTime | UsingCount: 0 UsingTime: 129.4656
+[06/03 16:29:29.382] From OvenUsingTime | UsingCount: 0 UsingTime: 129.9677
+[06/03 16:29:29.883] From OvenUsingTime | UsingCount: 0 UsingTime: 130.4687
+[06/03 16:29:30.385] From OvenUsingTime | UsingCount: 0 UsingTime: 130.9712
+[06/03 16:29:30.886] From OvenUsingTime | UsingCount: 0 UsingTime: 131.4719
+[06/03 16:29:31.388] From OvenUsingTime | UsingCount: 0 UsingTime: 131.9735
+[06/03 16:29:31.889] From OvenUsingTime | UsingCount: 0 UsingTime: 132.4755
+[06/03 16:29:32.402] From OvenUsingTime | UsingCount: 0 UsingTime: 132.9889
+[06/03 16:29:32.903] From OvenUsingTime | UsingCount: 0 UsingTime: 133.4905
+[06/03 16:29:33.404] From OvenUsingTime | UsingCount: 0 UsingTime: 133.9905
+[06/03 16:29:33.906] From OvenUsingTime | UsingCount: 0 UsingTime: 134.4919
+[06/03 16:29:34.407] From OvenUsingTime | UsingCount: 0 UsingTime: 134.9923
+[06/03 16:29:34.909] From OvenUsingTime | UsingCount: 0 UsingTime: 135.4937
+[06/03 16:29:35.410] From OvenUsingTime | UsingCount: 0 UsingTime: 135.9945
+[06/03 16:29:35.911] From OvenUsingTime | UsingCount: 0 UsingTime: 136.4957
+[06/03 16:29:36.413] From OvenUsingTime | UsingCount: 0 UsingTime: 136.9969
+[06/03 16:29:36.914] From OvenUsingTime | UsingCount: 0 UsingTime: 137.4984
+[06/03 16:29:37.415] From OvenUsingTime | UsingCount: 0 UsingTime: 137.9999
+[06/03 16:29:37.415] Set heating speed: 0.9796655
+[06/03 16:29:37.471] Set heating speed: 0.9518599
+[06/03 16:29:37.526] Set heating speed: 0.9246465
+[06/03 16:29:37.582] Set heating speed: 0.9100147
+[06/03 16:29:37.638] Set heating speed: 0.9193609
+[06/03 16:29:37.694] Set heating speed: 0.9522524
+[06/03 16:29:37.749] Set heating speed: 0.9999675
+[06/03 16:29:37.916] From OvenUsingTime | UsingCount: 0 UsingTime: 138.5004
+[06/03 16:29:38.417] From OvenUsingTime | UsingCount: 0 UsingTime: 139.0022
+[06/03 16:29:38.807] Set heating speed: 0.9894789
+[06/03 16:29:38.862] Set heating speed: 0.9576291
+[06/03 16:29:38.918] From OvenUsingTime | UsingCount: 0 UsingTime: 139.5039
+[06/03 16:29:38.919] Set heating speed: 0.9187987
+[06/03 16:29:38.975] Set heating speed: 0.8704736
+[06/03 16:29:39.030] Set heating speed: 0.8174472
+[06/03 16:29:39.085] Set heating speed: 0.780227
+[06/03 16:29:39.141] Set heating speed: 0.7250798
+[06/03 16:29:39.197] Set heating speed: 0.6791738
+[06/03 16:29:39.253] Set heating speed: 0.636303
+[06/03 16:29:39.308] Set heating speed: 0.613041
+[06/03 16:29:39.363] Set heating speed: 0.5775862
+[06/03 16:29:39.420] From OvenUsingTime | UsingCount: 0 UsingTime: 140.0052
+[06/03 16:29:39.420] Set heating speed: 0.5430308
+[06/03 16:29:39.476] Set heating speed: 0.5078763
+[06/03 16:29:39.531] Set heating speed: 0.473303
+[06/03 16:29:39.586] Set heating speed: 0.4511956
+[06/03 16:29:39.643] Set heating speed: 0.4217812
+[06/03 16:29:39.698] Set heating speed: 0.3985682
+[06/03 16:29:39.754] Set heating speed: 0.3865965
+[06/03 16:29:39.810] Set heating speed: 0.3755964
+[06/03 16:29:39.921] From OvenUsingTime | UsingCount: 0 UsingTime: 140.5069
+[06/03 16:29:39.922] Set heating speed: 0.3703268
+[06/03 16:29:39.977] Set heating speed: 0.3671777
+[06/03 16:29:40.032] Set heating speed: 0.3640381
+[06/03 16:29:40.088] Set heating speed: 0.3609078
+[06/03 16:29:40.199] Set heating speed: 0.3557117
+[06/03 16:29:40.422] From OvenUsingTime | UsingCount: 0 UsingTime: 141.0075
+[06/03 16:29:40.922] From OvenUsingTime | UsingCount: 0 UsingTime: 141.5087
+[06/03 16:29:41.341] From FridgeOpenCount | UsingCount: 0 UsingTime: 0
+[06/03 16:29:41.424] From OvenUsingTime | UsingCount: 0 UsingTime: 142.0099
+[06/03 16:29:41.925] From OvenUsingTime | UsingCount: 0 UsingTime: 142.5102
+[06/03 16:29:42.385] Set oven time 29.18728
+[06/03 16:29:42.386] From OvenUsingCount | UsingCount: 1 UsingTime: 0
+[06/03 16:29:42.426] From OvenUsingTime | UsingCount: 0 UsingTime: 143.0113
+[06/03 16:29:42.928] From OvenUsingTime | UsingCount: 0 UsingTime: 143.5127
+[06/03 16:29:43.429] From OvenUsingTime | UsingCount: 0 UsingTime: 144.0138
+[06/03 16:29:43.930] From OvenUsingTime | UsingCount: 0 UsingTime: 144.5151
+[06/03 16:29:44.432] From OvenUsingTime | UsingCount: 0 UsingTime: 145.0167
+[06/03 16:29:44.933] From OvenUsingTime | UsingCount: 0 UsingTime: 145.5178
+[06/03 16:29:45.435] From OvenUsingTime | UsingCount: 0 UsingTime: 146.0193
+[06/03 16:29:45.936] From OvenUsingTime | UsingCount: 0 UsingTime: 146.5204
+[06/03 16:29:46.437] From OvenUsingTime | UsingCount: 0 UsingTime: 147.0215
+[06/03 16:29:46.939] From OvenUsingTime | UsingCount: 0 UsingTime: 147.523
+[06/03 16:29:47.439] From OvenUsingTime | UsingCount: 0 UsingTime: 148.0239
+[06/03 16:29:47.940] From OvenUsingTime | UsingCount: 0 UsingTime: 148.525
+[06/03 16:29:48.441] From OvenUsingTime | UsingCount: 0 UsingTime: 149.0255
+[06/03 16:29:48.942] From OvenUsingTime | UsingCount: 0 UsingTime: 149.5274
+[06/03 16:29:49.443] From OvenUsingTime | UsingCount: 0 UsingTime: 150.0288
+[06/03 16:29:49.944] From OvenUsingTime | UsingCount: 0 UsingTime: 150.5297
+[06/03 16:29:50.445] From OvenUsingTime | UsingCount: 0 UsingTime: 151.0307
+[06/03 16:29:50.947] From OvenUsingTime | UsingCount: 0 UsingTime: 151.5319
+[06/03 16:29:51.449] From OvenUsingTime | UsingCount: 0 UsingTime: 152.0347
+[06/03 16:29:51.950] From OvenUsingTime | UsingCount: 0 UsingTime: 152.5357
+[06/03 16:29:52.452] From OvenUsingTime | UsingCount: 0 UsingTime: 153.0378
+[06/03 16:29:52.953] From OvenUsingTime | UsingCount: 0 UsingTime: 153.5387
+[06/03 16:29:53.454] From OvenUsingTime | UsingCount: 0 UsingTime: 154.0413
+[06/03 16:29:53.969] From OvenUsingTime | UsingCount: 0 UsingTime: 154.5561
+[06/03 16:29:54.470] From OvenUsingTime | UsingCount: 0 UsingTime: 155.0562
+[06/03 16:29:54.972] From OvenUsingTime | UsingCount: 0 UsingTime: 155.5589
+[06/03 16:29:55.473] From OvenUsingTime | UsingCount: 0 UsingTime: 156.0597
+[06/03 16:29:55.988] From OvenUsingTime | UsingCount: 0 UsingTime: 156.574
+[06/03 16:29:56.490] From OvenUsingTime | UsingCount: 0 UsingTime: 157.0753
+[06/03 16:29:56.990] From OvenUsingTime | UsingCount: 0 UsingTime: 157.5758
+[06/03 16:29:57.492] From OvenUsingTime | UsingCount: 0 UsingTime: 158.0771
+[06/03 16:29:57.993] From OvenUsingTime | UsingCount: 0 UsingTime: 158.578
+[06/03 16:29:58.494] From OvenUsingTime | UsingCount: 0 UsingTime: 159.0788
+[06/03 16:29:58.995] From OvenUsingTime | UsingCount: 0 UsingTime: 159.5798
+[06/03 16:29:59.496] From OvenUsingTime | UsingCount: 0 UsingTime: 160.0804
+[06/03 16:29:59.998] From OvenUsingTime | UsingCount: 0 UsingTime: 160.5818
+[06/03 16:30:00.499] From OvenUsingTime | UsingCount: 0 UsingTime: 161.0836
+[06/03 16:30:01.000] From OvenUsingTime | UsingCount: 0 UsingTime: 161.5849
+[06/03 16:30:01.500] From OvenUsingTime | UsingCount: 0 UsingTime: 162.087
+[06/03 16:30:02.002] From OvenUsingTime | UsingCount: 0 UsingTime: 162.5882
+[06/03 16:30:02.227] Finish task2
+[06/03 16:30:02.503] From OvenUsingTime | UsingCount: 0 UsingTime: 163.0891
+[06/03 16:30:03.005] From OvenUsingTime | UsingCount: 0 UsingTime: 163.5909
+[06/03 16:30:03.506] From OvenUsingTime | UsingCount: 0 UsingTime: 164.0924
+[06/03 16:30:03.729] From ToasterUsingTime | UsingCount: 0 UsingTime: 0
+[06/03 16:30:04.008] From OvenUsingTime | UsingCount: 0 UsingTime: 164.5928
+[06/03 16:30:04.509] From OvenUsingTime | UsingCount: 0 UsingTime: 165.0935
+[06/03 16:30:05.010] From OvenUsingTime | UsingCount: 0 UsingTime: 165.5946
+[06/03 16:30:05.511] From OvenUsingTime | UsingCount: 0 UsingTime: 166.0956
+[06/03 16:30:06.012] From OvenUsingTime | UsingCount: 0 UsingTime: 166.5986
+[06/03 16:30:06.527] From OvenUsingTime | UsingCount: 0 UsingTime: 167.1121
+[06/03 16:30:07.028] From OvenUsingTime | UsingCount: 0 UsingTime: 167.6131
+[06/03 16:30:07.530] From OvenUsingTime | UsingCount: 0 UsingTime: 168.1145
+[06/03 16:30:08.030] From OvenUsingTime | UsingCount: 0 UsingTime: 168.6151
+[06/03 16:30:08.532] From OvenUsingTime | UsingCount: 0 UsingTime: 169.1172
+[06/03 16:30:09.034] From OvenUsingTime | UsingCount: 0 UsingTime: 169.6188
+[06/03 16:30:09.535] From OvenUsingTime | UsingCount: 0 UsingTime: 170.1203
+[06/03 16:30:10.035] From OvenUsingTime | UsingCount: 0 UsingTime: 170.621
+[06/03 16:30:10.537] From OvenUsingTime | UsingCount: 0 UsingTime: 171.1219
+[06/03 16:30:11.038] From OvenUsingTime | UsingCount: 0 UsingTime: 171.623
+[06/03 16:30:11.540] From OvenUsingTime | UsingCount: 0 UsingTime: 172.1243
+[06/03 16:30:12.041] From OvenUsingTime | UsingCount: 0 UsingTime: 172.6248
+[06/03 16:30:12.542] From OvenUsingTime | UsingCount: 0 UsingTime: 173.1259
+[06/03 16:30:13.043] From OvenUsingTime | UsingCount: 0 UsingTime: 173.628
+[06/03 16:30:13.544] From OvenUsingTime | UsingCount: 0 UsingTime: 174.1287
+[06/03 16:30:14.045] From OvenUsingTime | UsingCount: 0 UsingTime: 174.6298
+[06/03 16:30:14.546] From OvenUsingTime | UsingCount: 0 UsingTime: 175.1311
+[06/03 16:30:15.048] From OvenUsingTime | UsingCount: 0 UsingTime: 175.6325
+[06/03 16:30:15.550] From OvenUsingTime | UsingCount: 0 UsingTime: 176.1341
+[06/03 16:30:16.051] From OvenUsingTime | UsingCount: 0 UsingTime: 176.6353
+[06/03 16:30:16.552] From OvenUsingTime | UsingCount: 0 UsingTime: 177.1374
+[06/03 16:30:17.053] From OvenUsingTime | UsingCount: 0 UsingTime: 177.6386
+[06/03 16:30:17.554] From OvenUsingTime | UsingCount: 0 UsingTime: 178.1397
+[06/03 16:30:18.055] From OvenUsingTime | UsingCount: 0 UsingTime: 178.6404
+[06/03 16:30:18.557] From OvenUsingTime | UsingCount: 0 UsingTime: 179.1413
+[06/03 16:30:19.058] From OvenUsingTime | UsingCount: 0 UsingTime: 179.6425
+[06/03 16:30:19.560] From OvenUsingTime | UsingCount: 0 UsingTime: 180.1433
+[06/03 16:30:20.060] From OvenUsingTime | UsingCount: 0 UsingTime: 180.6453
+[06/03 16:30:20.561] From OvenUsingTime | UsingCount: 0 UsingTime: 181.1455
+[06/03 16:30:21.063] From OvenUsingTime | UsingCount: 0 UsingTime: 181.6474
+[06/03 16:30:21.563] From OvenUsingTime | UsingCount: 0 UsingTime: 182.1485
+[06/03 16:30:22.065] From OvenUsingTime | UsingCount: 0 UsingTime: 182.6492
+[06/03 16:30:22.565] From OvenUsingTime | UsingCount: 0 UsingTime: 183.1509
+[06/03 16:30:23.067] From OvenUsingTime | UsingCount: 0 UsingTime: 183.6523
+[06/03 16:30:23.569] From OvenUsingTime | UsingCount: 0 UsingTime: 184.1545
+[06/03 16:30:24.070] From OvenUsingTime | UsingCount: 0 UsingTime: 184.6561
+[06/03 16:30:24.571] From OvenUsingTime | UsingCount: 0 UsingTime: 185.1565
+[06/03 16:30:25.072] From OvenUsingTime | UsingCount: 0 UsingTime: 185.6577
+[06/03 16:30:25.574] From OvenUsingTime | UsingCount: 0 UsingTime: 186.159
+[06/03 16:30:26.075] From OvenUsingTime | UsingCount: 0 UsingTime: 186.6597
+[06/03 16:30:26.576] From OvenUsingTime | UsingCount: 0 UsingTime: 187.1608
+[06/03 16:30:27.077] From OvenUsingTime | UsingCount: 0 UsingTime: 187.6614
+[06/03 16:30:27.578] From OvenUsingTime | UsingCount: 0 UsingTime: 188.1624
+[06/03 16:30:28.079] From OvenUsingTime | UsingCount: 0 UsingTime: 188.6633
+[06/03 16:30:28.580] From OvenUsingTime | UsingCount: 0 UsingTime: 189.1638
+[06/03 16:30:29.082] From OvenUsingTime | UsingCount: 0 UsingTime: 189.6662
+[06/03 16:30:29.583] From OvenUsingTime | UsingCount: 0 UsingTime: 190.169
+[06/03 16:30:30.085] From OvenUsingTime | UsingCount: 0 UsingTime: 190.671
+[06/03 16:30:30.587] From OvenUsingTime | UsingCount: 0 UsingTime: 191.1725
+[06/03 16:30:31.088] From OvenUsingTime | UsingCount: 0 UsingTime: 191.6734
+[06/03 16:30:31.589] From OvenUsingTime | UsingCount: 0 UsingTime: 192.1745
+[06/03 16:30:32.091] From OvenUsingTime | UsingCount: 0 UsingTime: 192.6752
+[06/03 16:30:32.592] From OvenUsingTime | UsingCount: 0 UsingTime: 193.1763
+[06/03 16:30:33.093] From OvenUsingTime | UsingCount: 0 UsingTime: 193.6777
+[06/03 16:30:33.594] From OvenUsingTime | UsingCount: 0 UsingTime: 194.1784
+[06/03 16:30:34.095] From OvenUsingTime | UsingCount: 0 UsingTime: 194.6794
+[06/03 16:30:34.597] From OvenUsingTime | UsingCount: 0 UsingTime: 195.1802
+[06/03 16:30:35.098] From OvenUsingTime | UsingCount: 0 UsingTime: 195.6812
+[06/03 16:30:35.599] From OvenUsingTime | UsingCount: 0 UsingTime: 196.1826
+[06/03 16:30:36.100] From OvenUsingTime | UsingCount: 0 UsingTime: 196.684
+[06/03 16:30:36.601] From OvenUsingTime | UsingCount: 0 UsingTime: 197.1865
+[06/03 16:30:37.102] From OvenUsingTime | UsingCount: 0 UsingTime: 197.6883
+[06/03 16:30:37.603] From OvenUsingTime | UsingCount: 0 UsingTime: 198.1894
+[06/03 16:30:38.105] From OvenUsingTime | UsingCount: 0 UsingTime: 198.6904
+[06/03 16:30:38.605] From OvenUsingTime | UsingCount: 0 UsingTime: 199.1912
+[06/03 16:30:39.108] From OvenUsingTime | UsingCount: 0 UsingTime: 199.6932
+[06/03 16:30:39.609] From OvenUsingTime | UsingCount: 0 UsingTime: 200.1935
+[06/03 16:30:40.110] From OvenUsingTime | UsingCount: 0 UsingTime: 200.6942
+[06/03 16:30:40.610] From OvenUsingTime | UsingCount: 0 UsingTime: 201.1952
+[06/03 16:30:41.112] From OvenUsingTime | UsingCount: 0 UsingTime: 201.696
+[06/03 16:30:41.613] From OvenUsingTime | UsingCount: 0 UsingTime: 202.1973
+[06/03 16:30:42.114] From OvenUsingTime | UsingCount: 0 UsingTime: 202.6989
+[06/03 16:30:42.615] From OvenUsingTime | UsingCount: 0 UsingTime: 203.1995
+[06/03 16:30:43.117] From OvenUsingTime | UsingCount: 0 UsingTime: 203.701
+[06/03 16:30:43.618] From OvenUsingTime | UsingCount: 0 UsingTime: 204.2027
+[06/03 16:30:44.119] From OvenUsingTime | UsingCount: 0 UsingTime: 204.7039
+[06/03 16:30:44.620] From OvenUsingTime | UsingCount: 0 UsingTime: 205.2057
+[06/03 16:30:45.122] From OvenUsingTime | UsingCount: 0 UsingTime: 205.707
+[06/03 16:30:45.622] From OvenUsingTime | UsingCount: 0 UsingTime: 206.208
+[06/03 16:30:46.124] From OvenUsingTime | UsingCount: 0 UsingTime: 206.7092
+[06/03 16:30:46.624] From OvenUsingTime | UsingCount: 0 UsingTime: 207.2101
+[06/03 16:30:47.126] From OvenUsingTime | UsingCount: 0 UsingTime: 207.7112
+[06/03 16:30:47.627] From OvenUsingTime | UsingCount: 0 UsingTime: 208.2122
+[06/03 16:30:48.129] From OvenUsingTime | UsingCount: 0 UsingTime: 208.7133
+[06/03 16:30:48.630] From OvenUsingTime | UsingCount: 0 UsingTime: 209.2145
+[06/03 16:30:49.131] From OvenUsingTime | UsingCount: 0 UsingTime: 209.7153
+[06/03 16:30:49.632] From OvenUsingTime | UsingCount: 0 UsingTime: 210.2168
+[06/03 16:30:50.133] From OvenUsingTime | UsingCount: 0 UsingTime: 210.7177
+[06/03 16:30:50.635] From OvenUsingTime | UsingCount: 0 UsingTime: 211.2203
+[06/03 16:30:51.136] From OvenUsingTime | UsingCount: 0 UsingTime: 211.7221
+[06/03 16:30:51.638] From OvenUsingTime | UsingCount: 0 UsingTime: 212.2233
+[06/03 16:30:52.139] From OvenUsingTime | UsingCount: 0 UsingTime: 212.7242
+[06/03 16:30:52.640] From OvenUsingTime | UsingCount: 0 UsingTime: 213.225
+[06/03 16:30:53.142] From OvenUsingTime | UsingCount: 0 UsingTime: 213.7259
+[06/03 16:30:53.643] From OvenUsingTime | UsingCount: 0 UsingTime: 214.228
+[06/03 16:30:54.144] From OvenUsingTime | UsingCount: 0 UsingTime: 214.7291
+[06/03 16:30:54.645] From OvenUsingTime | UsingCount: 0 UsingTime: 215.2304
+[06/03 16:30:55.146] From OvenUsingTime | UsingCount: 0 UsingTime: 215.7314
+[06/03 16:30:55.647] From OvenUsingTime | UsingCount: 0 UsingTime: 216.2323
+[06/03 16:30:56.149] From OvenUsingTime | UsingCount: 0 UsingTime: 216.7336
+[06/03 16:30:56.650] From OvenUsingTime | UsingCount: 0 UsingTime: 217.2352
+[06/03 16:30:57.151] From OvenUsingTime | UsingCount: 0 UsingTime: 217.7367
+[06/03 16:30:57.653] From OvenUsingTime | UsingCount: 0 UsingTime: 218.2384
+[06/03 16:30:58.154] From OvenUsingTime | UsingCount: 0 UsingTime: 218.7394
+[06/03 16:30:58.655] From OvenUsingTime | UsingCount: 0 UsingTime: 219.2409
+[06/03 16:30:59.156] From OvenUsingTime | UsingCount: 0 UsingTime: 219.7415
+[06/03 16:30:59.658] From OvenUsingTime | UsingCount: 0 UsingTime: 220.2419
+[06/03 16:31:00.158] From OvenUsingTime | UsingCount: 0 UsingTime: 220.7424
+[06/03 16:31:00.660] From OvenUsingTime | UsingCount: 0 UsingTime: 221.2443
+[06/03 16:31:01.161] From OvenUsingTime | UsingCount: 0 UsingTime: 221.7453
+[06/03 16:31:01.662] From OvenUsingTime | UsingCount: 0 UsingTime: 222.2464
+[06/03 16:31:02.163] From OvenUsingTime | UsingCount: 0 UsingTime: 222.748
+[06/03 16:31:02.664] From OvenUsingTime | UsingCount: 0 UsingTime: 223.2495
+[06/03 16:31:03.165] From OvenUsingTime | UsingCount: 0 UsingTime: 223.7508
+[06/03 16:31:03.666] From OvenUsingTime | UsingCount: 0 UsingTime: 224.2515
+[06/03 16:31:04.168] From OvenUsingTime | UsingCount: 0 UsingTime: 224.7533
+[06/03 16:31:04.669] From OvenUsingTime | UsingCount: 0 UsingTime: 225.2548
+[06/03 16:31:05.170] From OvenUsingTime | UsingCount: 0 UsingTime: 225.7557
+[06/03 16:31:05.672] From OvenUsingTime | UsingCount: 0 UsingTime: 226.2577
+[06/03 16:31:06.173] From OvenUsingTime | UsingCount: 0 UsingTime: 226.7586
+[06/03 16:31:06.674] From OvenUsingTime | UsingCount: 0 UsingTime: 227.2598
+[06/03 16:31:07.176] From OvenUsingTime | UsingCount: 0 UsingTime: 227.7602
+[06/03 16:31:07.677] From OvenUsingTime | UsingCount: 0 UsingTime: 228.2613
+[06/03 16:31:08.178] From OvenUsingTime | UsingCount: 0 UsingTime: 228.7619
+[06/03 16:31:08.679] From OvenUsingTime | UsingCount: 0 UsingTime: 229.2629
+[06/03 16:31:09.180] From OvenUsingTime | UsingCount: 0 UsingTime: 229.7643
+[06/03 16:31:09.681] From OvenUsingTime | UsingCount: 0 UsingTime: 230.2655
+[06/03 16:31:10.182] From OvenUsingTime | UsingCount: 0 UsingTime: 230.7681
+[06/03 16:31:10.683] From OvenUsingTime | UsingCount: 0 UsingTime: 231.2688
+[06/03 16:31:11.184] From OvenUsingTime | UsingCount: 0 UsingTime: 231.7711
+[06/03 16:31:11.698] From OvenUsingTime | UsingCount: 0 UsingTime: 232.2828
+[06/03 16:31:12.200] From OvenUsingTime | UsingCount: 0 UsingTime: 232.7834
+[06/03 16:31:12.701] From OvenUsingTime | UsingCount: 0 UsingTime: 233.2854
+[06/03 16:31:13.202] From OvenUsingTime | UsingCount: 0 UsingTime: 233.7885
+[06/03 16:31:13.703] From OvenUsingTime | UsingCount: 0 UsingTime: 234.2892
+[06/03 16:31:14.204] From OvenUsingTime | UsingCount: 0 UsingTime: 234.7911
+[06/03 16:31:14.705] From OvenUsingTime | UsingCount: 0 UsingTime: 235.2919
+[06/03 16:31:15.207] From OvenUsingTime | UsingCount: 0 UsingTime: 235.7926
+[06/03 16:31:15.709] From OvenUsingTime | UsingCount: 0 UsingTime: 236.293
+[06/03 16:31:16.210] From OvenUsingTime | UsingCount: 0 UsingTime: 236.7948
+[06/03 16:31:16.711] From OvenUsingTime | UsingCount: 0 UsingTime: 237.2953
+[06/03 16:31:17.212] From OvenUsingTime | UsingCount: 0 UsingTime: 237.7965
+[06/03 16:31:17.725] From OvenUsingTime | UsingCount: 0 UsingTime: 238.3108
+[06/03 16:31:18.227] From OvenUsingTime | UsingCount: 0 UsingTime: 238.8126
+[06/03 16:31:18.730] From OvenUsingTime | UsingCount: 0 UsingTime: 239.314
+[06/03 16:31:19.231] From OvenUsingTime | UsingCount: 0 UsingTime: 239.8153
+[06/03 16:31:19.732] From OvenUsingTime | UsingCount: 0 UsingTime: 240.3169
+[06/03 16:31:20.233] From OvenUsingTime | UsingCount: 0 UsingTime: 240.8193
+[06/03 16:31:20.734] From OvenUsingTime | UsingCount: 0 UsingTime: 241.3205
+[06/03 16:31:21.249] From OvenUsingTime | UsingCount: 0 UsingTime: 241.8338
+[06/03 16:31:21.750] From OvenUsingTime | UsingCount: 0 UsingTime: 242.335
+[06/03 16:31:22.252] From OvenUsingTime | UsingCount: 0 UsingTime: 242.8374
+[06/03 16:31:22.753] From OvenUsingTime | UsingCount: 0 UsingTime: 243.3387
+[06/03 16:31:22.977] Set gasfire speed: 0.5354645
+[06/03 16:31:22.977] Set heating speed: 0.5354645
+[06/03 16:31:23.032] Set gasfire speed: 0.5135579
+[06/03 16:31:23.032] Set heating speed: 0.5135579
+[06/03 16:31:23.087] Set gasfire speed: 0.5010983
+[06/03 16:31:23.087] Set heating speed: 0.5010983
+[06/03 16:31:23.143] Set gasfire speed: 0.4801662
+[06/03 16:31:23.143] Set heating speed: 0.4801662
+[06/03 16:31:23.199] Set gasfire speed: 0.4594523
+[06/03 16:31:23.199] Set heating speed: 0.4594523
+[06/03 16:31:23.254] From OvenUsingTime | UsingCount: 0 UsingTime: 243.8453
+[06/03 16:31:23.254] Set gasfire speed: 0.4391961
+[06/03 16:31:23.255] Set heating speed: 0.4391961
+[06/03 16:31:23.310] Set gasfire speed: 0.4174445
+[06/03 16:31:23.310] Set heating speed: 0.4174445
+[06/03 16:31:23.365] Set gasfire speed: 0.4038513
+[06/03 16:31:23.365] Set heating speed: 0.4038513
+[06/03 16:31:23.421] Set gasfire speed: 0.3847652
+[06/03 16:31:23.422] Set heating speed: 0.3847652
+[06/03 16:31:23.477] Set gasfire speed: 0.3674015
+[06/03 16:31:23.478] Set heating speed: 0.3674015
+[06/03 16:31:23.533] Set gasfire speed: 0.3507877
+[06/03 16:31:23.533] Set heating speed: 0.3507877
+[06/03 16:31:23.589] Set gasfire speed: 0.3350286
+[06/03 16:31:23.589] Set heating speed: 0.3350286
+[06/03 16:31:23.644] Set gasfire speed: 0.3246991
+[06/03 16:31:23.644] Set heating speed: 0.3246991
+[06/03 16:31:23.699] Set gasfire speed: 0.3091229
+[06/03 16:31:23.700] Set heating speed: 0.3091229
+[06/03 16:31:23.755] Set gasfire speed: 0.293245
+[06/03 16:31:23.756] Set heating speed: 0.293245
+[06/03 16:31:23.769] From OvenUsingTime | UsingCount: 0 UsingTime: 244.3554
+[06/03 16:31:23.811] Set gasfire speed: 0.2783241
+[06/03 16:31:23.811] Set heating speed: 0.2783241
+[06/03 16:31:23.866] Set gasfire speed: 0.2679386
+[06/03 16:31:23.866] Set heating speed: 0.2679386
+[06/03 16:31:23.922] Set gasfire speed: 0.2521944
+[06/03 16:31:23.923] Set heating speed: 0.2521944
+[06/03 16:31:23.978] Set gasfire speed: 0.237465
+[06/03 16:31:23.978] Set heating speed: 0.237465
+[06/03 16:31:24.034] Set gasfire speed: 0.2236365
+[06/03 16:31:24.034] Set heating speed: 0.2236365
+[06/03 16:31:24.090] Set gasfire speed: 0.2107522
+[06/03 16:31:24.090] Set heating speed: 0.2107522
+[06/03 16:31:24.144] Set gasfire speed: 0.2026189
+[06/03 16:31:24.145] Set heating speed: 0.2026189
+[06/03 16:31:24.201] Set gasfire speed: 0.1916381
+[06/03 16:31:24.201] Set heating speed: 0.1916381
+[06/03 16:31:24.257] Set gasfire speed: 0.1807972
+[06/03 16:31:24.257] Set heating speed: 0.1807972
+[06/03 16:31:24.271] From OvenUsingTime | UsingCount: 0 UsingTime: 244.8563
+[06/03 16:31:24.312] Set gasfire speed: 0.1711903
+[06/03 16:31:24.312] Set heating speed: 0.1711903
+[06/03 16:31:24.367] Set gasfire speed: 0.1646166
+[06/03 16:31:24.367] Set heating speed: 0.1646166
+[06/03 16:31:24.423] Set gasfire speed: 0.155586
+[06/03 16:31:24.424] Set heating speed: 0.155586
+[06/03 16:31:24.479] Set gasfire speed: 0.1453591
+[06/03 16:31:24.480] Set heating speed: 0.1453591
+[06/03 16:31:24.535] Set gasfire speed: 0.1335643
+[06/03 16:31:24.536] Set heating speed: 0.1335643
+[06/03 16:31:24.591] Set gasfire speed: 0.1217758
+[06/03 16:31:24.591] Set heating speed: 0.1217758
+[06/03 16:31:24.646] Set gasfire speed: 0.114025
+[06/03 16:31:24.646] Set heating speed: 0.114025
+[06/03 16:31:24.702] Set gasfire speed: 0.104333
+[06/03 16:31:24.702] Set heating speed: 0.104333
+[06/03 16:31:24.759] Set gasfire speed: 0.09447634
+[06/03 16:31:24.759] Set heating speed: 0.09447634
+[06/03 16:31:24.772] From OvenUsingTime | UsingCount: 0 UsingTime: 245.3578
+[06/03 16:31:24.813] Set gasfire speed: 0.08750051
+[06/03 16:31:24.814] Set heating speed: 0.08750051
+[06/03 16:31:24.869] Set gasfire speed: 0.08270308
+[06/03 16:31:24.870] Set heating speed: 0.08270308
+[06/03 16:31:24.925] Set gasfire speed: 0.07942166
+[06/03 16:31:24.925] Set heating speed: 0.07942166
+[06/03 16:31:24.980] Set gasfire speed: 0.07451181
+[06/03 16:31:24.981] Set heating speed: 0.07451181
+[06/03 16:31:25.036] Set gasfire speed: 0.0696167
+[06/03 16:31:25.036] Set heating speed: 0.0696167
+[06/03 16:31:25.092] Set gasfire speed: 0.06473624
+[06/03 16:31:25.093] Set heating speed: 0.06473624
+[06/03 16:31:25.147] Set gasfire speed: 0.06149074
+[06/03 16:31:25.148] Set heating speed: 0.06149074
+[06/03 16:31:25.203] Set gasfire speed: 0.05663463
+[06/03 16:31:25.203] Set heating speed: 0.05663463
+[06/03 16:31:25.260] Set gasfire speed: 0.05179308
+[06/03 16:31:25.260] Set heating speed: 0.05179308
+[06/03 16:31:25.273] From OvenUsingTime | UsingCount: 0 UsingTime: 245.8589
+[06/03 16:31:25.594] Set gasfire speed: 0.05863257
+[06/03 16:31:25.595] Set heating speed: 0.05863257
+[06/03 16:31:25.649] Set gasfire speed: 0.08252486
+[06/03 16:31:25.649] Set heating speed: 0.08252486
+[06/03 16:31:25.704] Set gasfire speed: 0.09506881
+[06/03 16:31:25.705] Set heating speed: 0.09506881
+[06/03 16:31:25.760] Set gasfire speed: 0.1145576
+[06/03 16:31:25.761] Set heating speed: 0.1145576
+[06/03 16:31:25.774] From OvenUsingTime | UsingCount: 0 UsingTime: 246.3603
+[06/03 16:31:25.816] Set gasfire speed: 0.1298765
+[06/03 16:31:25.816] Set heating speed: 0.1298765
+[06/03 16:31:25.872] Set gasfire speed: 0.1429749
+[06/03 16:31:25.872] Set heating speed: 0.1429749
+[06/03 16:31:25.926] Set gasfire speed: 0.1488701
+[06/03 16:31:25.927] Set heating speed: 0.1488701
+[06/03 16:31:25.982] Set gasfire speed: 0.1560576
+[06/03 16:31:25.982] Set heating speed: 0.1560576
+[06/03 16:31:26.039] Set gasfire speed: 0.1598833
+[06/03 16:31:26.039] Set heating speed: 0.1598833
+[06/03 16:31:26.094] Set gasfire speed: 0.1629175
+[06/03 16:31:26.094] Set heating speed: 0.1629175
+[06/03 16:31:26.290] From OvenUsingTime | UsingCount: 0 UsingTime: 246.8747
+[06/03 16:31:26.373] Set gasfire speed: 0.1567148
+[06/03 16:31:26.374] Set heating speed: 0.1567148
+[06/03 16:31:26.428] Set gasfire speed: 0.1523169
+[06/03 16:31:26.428] Set heating speed: 0.1523169
+[06/03 16:31:26.483] Set gasfire speed: 0.145067
+[06/03 16:31:26.483] Set heating speed: 0.145067
+[06/03 16:31:26.540] Set gasfire speed: 0.138157
+[06/03 16:31:26.540] Set heating speed: 0.138157
+[06/03 16:31:26.595] Set gasfire speed: 0.1319177
+[06/03 16:31:26.596] Set heating speed: 0.1319177
+[06/03 16:31:26.651] Set gasfire speed: 0.1255048
+[06/03 16:31:26.651] Set heating speed: 0.1255048
+[06/03 16:31:26.706] Set gasfire speed: 0.120915
+[06/03 16:31:26.707] Set heating speed: 0.120915
+[06/03 16:31:26.763] Set gasfire speed: 0.1140786
+[06/03 16:31:26.763] Set heating speed: 0.1140786
+[06/03 16:31:26.790] From OvenUsingTime | UsingCount: 0 UsingTime: 247.3752
+[06/03 16:31:26.818] Set gasfire speed: 0.1081133
+[06/03 16:31:26.819] Set heating speed: 0.1081133
+[06/03 16:31:26.874] Set gasfire speed: 0.1019721
+[06/03 16:31:26.874] Set heating speed: 0.1019721
+[06/03 16:31:26.929] Set gasfire speed: 0.0966371
+[06/03 16:31:26.930] Set heating speed: 0.0966371
+[06/03 16:31:26.985] Set gasfire speed: 0.09303214
+[06/03 16:31:26.985] Set heating speed: 0.09303214
+[06/03 16:31:27.041] Set gasfire speed: 0.08774786
+[06/03 16:31:27.042] Set heating speed: 0.08774786
+[06/03 16:31:27.097] Set gasfire speed: 0.08217476
+[06/03 16:31:27.097] Set heating speed: 0.08217476
+[06/03 16:31:27.152] Set gasfire speed: 0.07711907
+[06/03 16:31:27.153] Set heating speed: 0.07711907
+[06/03 16:31:27.207] Set gasfire speed: 0.07322259
+[06/03 16:31:27.208] Set heating speed: 0.07322259
+[06/03 16:31:27.292] From OvenUsingTime | UsingCount: 0 UsingTime: 247.8758
+[06/03 16:31:27.319] Set gasfire speed: 0.06727532
+[06/03 16:31:27.320] Set heating speed: 0.06727532
+[06/03 16:31:27.375] Set gasfire speed: 0.06346685
+[06/03 16:31:27.376] Set heating speed: 0.06346685
+[06/03 16:31:27.431] Set gasfire speed: 0.05966979
+[06/03 16:31:27.431] Set heating speed: 0.05966979
+[06/03 16:31:27.486] Set gasfire speed: 0.05588411
+[06/03 16:31:27.487] Set heating speed: 0.05588411
+[06/03 16:31:27.598] Set gasfire speed: 0.04959985
+[06/03 16:31:27.598] Set heating speed: 0.04959985
+[06/03 16:31:27.654] Set gasfire speed: 0.04584436
+[06/03 16:31:27.654] Set heating speed: 0.04584436
+[06/03 16:31:27.793] From OvenUsingTime | UsingCount: 0 UsingTime: 248.3774
+[06/03 16:31:28.294] From OvenUsingTime | UsingCount: 0 UsingTime: 248.8788
+[06/03 16:31:28.796] From OvenUsingTime | UsingCount: 0 UsingTime: 249.38
+[06/03 16:31:28.879] Set gasfire speed: 0.06501676
+[06/03 16:31:28.880] Set heating speed: 0.06501676
+[06/03 16:31:28.935] Set gasfire speed: 0.09330603
+[06/03 16:31:28.935] Set heating speed: 0.09330603
+[06/03 16:31:28.991] Set gasfire speed: 0.1196864
+[06/03 16:31:28.991] Set heating speed: 0.1196864
+[06/03 16:31:29.045] Set gasfire speed: 0.1351134
+[06/03 16:31:29.046] Set heating speed: 0.1351134
+[06/03 16:31:29.101] Set gasfire speed: 0.1582306
+[06/03 16:31:29.101] Set heating speed: 0.1582306
+[06/03 16:31:29.158] Set gasfire speed: 0.1782777
+[06/03 16:31:29.158] Set heating speed: 0.1782777
+[06/03 16:31:29.213] Set gasfire speed: 0.1962079
+[06/03 16:31:29.214] Set heating speed: 0.1962079
+[06/03 16:31:29.269] Set gasfire speed: 0.2113148
+[06/03 16:31:29.269] Set heating speed: 0.2113148
+[06/03 16:31:29.297] From OvenUsingTime | UsingCount: 0 UsingTime: 249.8801
+[06/03 16:31:29.324] Set gasfire speed: 0.2175513
+[06/03 16:31:29.324] Set heating speed: 0.2175513
+[06/03 16:31:29.380] Set gasfire speed: 0.2231948
+[06/03 16:31:29.381] Set heating speed: 0.2231948
+[06/03 16:31:29.602] Set gasfire speed: 0.2138489
+[06/03 16:31:29.603] Set heating speed: 0.2138489
+[06/03 16:31:29.659] Set gasfire speed: 0.2050551
+[06/03 16:31:29.660] Set heating speed: 0.2050551
+[06/03 16:31:29.714] Set gasfire speed: 0.1945023
+[06/03 16:31:29.715] Set heating speed: 0.1945023
+[06/03 16:31:29.770] Set gasfire speed: 0.1825287
+[06/03 16:31:29.770] Set heating speed: 0.1825287
+[06/03 16:31:29.797] From OvenUsingTime | UsingCount: 0 UsingTime: 250.3809
+[06/03 16:31:29.825] Set gasfire speed: 0.1748027
+[06/03 16:31:29.825] Set heating speed: 0.1748027
+[06/03 16:31:29.881] Set gasfire speed: 0.1636141
+[06/03 16:31:29.881] Set heating speed: 0.1636141
+[06/03 16:31:29.937] Set gasfire speed: 0.1526274
+[06/03 16:31:29.938] Set heating speed: 0.1526274
+[06/03 16:31:29.993] Set gasfire speed: 0.1434368
+[06/03 16:31:29.994] Set heating speed: 0.1434368
+[06/03 16:31:30.048] Set gasfire speed: 0.1378331
+[06/03 16:31:30.049] Set heating speed: 0.1378331
+[06/03 16:31:30.103] Set gasfire speed: 0.1314449
+[06/03 16:31:30.104] Set heating speed: 0.1314449
+[06/03 16:31:30.160] Set gasfire speed: 0.1256424
+[06/03 16:31:30.161] Set heating speed: 0.1256424
+[06/03 16:31:30.216] Set gasfire speed: 0.1210643
+[06/03 16:31:30.216] Set heating speed: 0.1210643
+[06/03 16:31:30.271] Set gasfire speed: 0.1180052
+[06/03 16:31:30.272] Set heating speed: 0.1180052
+[06/03 16:31:30.298] From OvenUsingTime | UsingCount: 0 UsingTime: 250.8828
+[06/03 16:31:30.382] Set gasfire speed: 0.1120372
+[06/03 16:31:30.383] Set heating speed: 0.1120372
+[06/03 16:31:30.439] Set gasfire speed: 0.1075156
+[06/03 16:31:30.439] Set heating speed: 0.1075156
+[06/03 16:31:30.494] Set gasfire speed: 0.1030915
+[06/03 16:31:30.495] Set heating speed: 0.1030915
+[06/03 16:31:30.549] Set gasfire speed: 0.09779593
+[06/03 16:31:30.550] Set heating speed: 0.09779593
+[06/03 16:31:30.661] Set gasfire speed: 0.0884598
+[06/03 16:31:30.662] Set heating speed: 0.0884598
+[06/03 16:31:30.717] Set gasfire speed: 0.08117776
+[06/03 16:31:30.718] Set heating speed: 0.08117776
+[06/03 16:31:30.773] Set gasfire speed: 0.07205739
+[06/03 16:31:30.773] Set heating speed: 0.07205739
+[06/03 16:31:30.799] From OvenUsingTime | UsingCount: 0 UsingTime: 251.3845
+[06/03 16:31:30.828] Set gasfire speed: 0.06599233
+[06/03 16:31:30.828] Set heating speed: 0.06599233
+[06/03 16:31:30.883] Set gasfire speed: 0.05691743
+[06/03 16:31:30.884] Set heating speed: 0.05691743
+[06/03 16:31:30.939] Set gasfire speed: 0.04786976
+[06/03 16:31:30.940] Set heating speed: 0.04786976
+[06/03 16:31:30.995] Set gasfire speed: 0.0388492
+[06/03 16:31:30.995] Set heating speed: 0.0388492
+[06/03 16:31:31.051] Set gasfire speed: 0.02985566
+[06/03 16:31:31.051] Set heating speed: 0.02985566
+[06/03 16:31:31.106] Set gasfire speed: 0.02387495
+[06/03 16:31:31.107] Set heating speed: 0.02387495
+[06/03 16:31:31.162] Set gasfire speed: 0.02088908
+[06/03 16:31:31.163] Set heating speed: 0.02088908
+[06/03 16:31:31.302] From OvenUsingTime | UsingCount: 0 UsingTime: 251.8857
+[06/03 16:31:31.802] From OvenUsingTime | UsingCount: 0 UsingTime: 252.3878
+[06/03 16:31:32.304] From OvenUsingTime | UsingCount: 0 UsingTime: 252.8907
+[06/03 16:31:32.804] From OvenUsingTime | UsingCount: 0 UsingTime: 253.391
+[06/03 16:31:33.306] From OvenUsingTime | UsingCount: 0 UsingTime: 253.8916
+[06/03 16:31:33.808] From OvenUsingTime | UsingCount: 0 UsingTime: 254.3936
+[06/03 16:31:34.322] From OvenUsingTime | UsingCount: 0 UsingTime: 254.9078
+[06/03 16:31:34.823] From OvenUsingTime | UsingCount: 0 UsingTime: 255.4095
+[06/03 16:31:35.324] From OvenUsingTime | UsingCount: 0 UsingTime: 255.9095
+[06/03 16:31:35.826] From OvenUsingTime | UsingCount: 0 UsingTime: 256.4111
+[06/03 16:31:36.327] From OvenUsingTime | UsingCount: 0 UsingTime: 256.9121
+[06/03 16:31:36.454] Restore oven
+[06/03 16:31:36.829] From OvenUsingTime | UsingCount: 0 UsingTime: 257.4131
+[06/03 16:31:37.330] From OvenUsingTime | UsingCount: 0 UsingTime: 257.9146
+[06/03 16:31:37.831] From OvenUsingTime | UsingCount: 0 UsingTime: 258.4157
+[06/03 16:31:38.333] From OvenUsingTime | UsingCount: 0 UsingTime: 258.9202
+[06/03 16:31:38.847] From OvenUsingTime | UsingCount: 0 UsingTime: 259.4319
+[06/03 16:31:39.349] From OvenUsingTime | UsingCount: 0 UsingTime: 259.9333
+[06/03 16:31:39.849] From OvenUsingTime | UsingCount: 0 UsingTime: 260.4335
+[06/03 16:31:40.351] From OvenUsingTime | UsingCount: 0 UsingTime: 260.937
+[06/03 16:31:40.852] From OvenUsingTime | UsingCount: 0 UsingTime: 261.4375
+[06/03 16:31:41.353] From OvenUsingTime | UsingCount: 0 UsingTime: 261.938
+[06/03 16:31:41.855] From OvenUsingTime | UsingCount: 0 UsingTime: 262.4407
+[06/03 16:31:42.356] From OvenUsingTime | UsingCount: 0 UsingTime: 262.9417
+[06/03 16:31:42.397] From OvenUsingCount | UsingCount: 0 UsingTime: 0
+[06/03 16:31:42.871] From OvenUsingTime | UsingCount: 0 UsingTime: 263.4563
+[06/03 16:31:43.374] From OvenUsingTime | UsingCount: 0 UsingTime: 263.9586
+[06/03 16:31:43.875] From OvenUsingTime | UsingCount: 0 UsingTime: 264.4595
+[06/03 16:31:44.376] From OvenUsingTime | UsingCount: 0 UsingTime: 264.9608
+[06/03 16:31:44.877] From OvenUsingTime | UsingCount: 0 UsingTime: 265.4611
+[06/03 16:31:45.378] From OvenUsingTime | UsingCount: 0 UsingTime: 265.9623
+[06/03 16:31:45.879] From OvenUsingTime | UsingCount: 0 UsingTime: 266.465
+[06/03 16:31:46.394] From OvenUsingTime | UsingCount: 0 UsingTime: 266.979
+[06/03 16:31:46.895] From OvenUsingTime | UsingCount: 0 UsingTime: 267.48
+[06/03 16:31:47.396] From OvenUsingTime | UsingCount: 0 UsingTime: 267.9807
+[06/03 16:31:47.898] From OvenUsingTime | UsingCount: 0 UsingTime: 268.4819
+[06/03 16:31:48.399] From OvenUsingTime | UsingCount: 0 UsingTime: 268.9827
+[06/03 16:31:48.900] From OvenUsingTime | UsingCount: 0 UsingTime: 269.4838
+[06/03 16:31:49.401] From OvenUsingTime | UsingCount: 0 UsingTime: 269.9852
+[06/03 16:31:49.902] From OvenUsingTime | UsingCount: 0 UsingTime: 270.4879
+[06/03 16:31:50.403] From OvenUsingTime | UsingCount: 0 UsingTime: 270.9902
+[06/03 16:31:50.919] From OvenUsingTime | UsingCount: 0 UsingTime: 271.5027
+[06/03 16:31:51.420] From OvenUsingTime | UsingCount: 0 UsingTime: 272.0055
+[06/03 16:31:51.921] From OvenUsingTime | UsingCount: 0 UsingTime: 272.5065
+[06/03 16:31:52.422] From OvenUsingTime | UsingCount: 0 UsingTime: 273.0087
+[06/03 16:31:52.923] From OvenUsingTime | UsingCount: 0 UsingTime: 273.5093
+[06/03 16:31:53.424] From OvenUsingTime | UsingCount: 0 UsingTime: 274.0102
+[06/03 16:31:53.925] From OvenUsingTime | UsingCount: 0 UsingTime: 274.5112
+[06/03 16:31:54.427] From OvenUsingTime | UsingCount: 0 UsingTime: 275.012
+[06/03 16:31:54.929] From OvenUsingTime | UsingCount: 0 UsingTime: 275.5134
+[06/03 16:31:55.430] From OvenUsingTime | UsingCount: 0 UsingTime: 276.0142
+[06/03 16:31:55.931] From OvenUsingTime | UsingCount: 0 UsingTime: 276.515
+[06/03 16:31:56.432] From OvenUsingTime | UsingCount: 0 UsingTime: 277.0164
+[06/03 16:31:56.934] From OvenUsingTime | UsingCount: 0 UsingTime: 277.5187
+[06/03 16:31:57.434] From OvenUsingTime | UsingCount: 0 UsingTime: 278.0193
+[06/03 16:31:57.935] From OvenUsingTime | UsingCount: 0 UsingTime: 278.5211
+[06/03 16:31:58.437] From OvenUsingTime | UsingCount: 0 UsingTime: 279.0221
+[06/03 16:31:58.938] From OvenUsingTime | UsingCount: 0 UsingTime: 279.5234
+[06/03 16:31:59.440] From OvenUsingTime | UsingCount: 0 UsingTime: 280.024
+[06/03 16:31:59.940] From OvenUsingTime | UsingCount: 0 UsingTime: 280.5256
+[06/03 16:32:00.441] From OvenUsingTime | UsingCount: 0 UsingTime: 281.0258
+[06/03 16:32:00.942] From OvenUsingTime | UsingCount: 0 UsingTime: 281.5271
+[06/03 16:32:01.444] From OvenUsingTime | UsingCount: 0 UsingTime: 282.0285
+[06/03 16:32:01.945] From OvenUsingTime | UsingCount: 0 UsingTime: 282.5297
+[06/03 16:32:02.446] From OvenUsingTime | UsingCount: 0 UsingTime: 283.0313
+[06/03 16:32:02.948] From OvenUsingTime | UsingCount: 0 UsingTime: 283.5324
+[06/03 16:32:03.449] From OvenUsingTime | UsingCount: 0 UsingTime: 284.0339
+[06/03 16:32:03.950] From OvenUsingTime | UsingCount: 0 UsingTime: 284.5346
+[06/03 16:32:04.451] From OvenUsingTime | UsingCount: 0 UsingTime: 285.0367
+[06/03 16:32:04.953] From OvenUsingTime | UsingCount: 0 UsingTime: 285.5381
+[06/03 16:32:05.454] From OvenUsingTime | UsingCount: 0 UsingTime: 286.0401
+[06/03 16:32:05.955] From OvenUsingTime | UsingCount: 0 UsingTime: 286.5402
+[06/03 16:32:06.457] From OvenUsingTime | UsingCount: 0 UsingTime: 287.0421
+[06/03 16:32:06.971] From OvenUsingTime | UsingCount: 0 UsingTime: 287.5573
+[06/03 16:32:07.473] From OvenUsingTime | UsingCount: 0 UsingTime: 288.0576
+[06/03 16:32:07.974] From OvenUsingTime | UsingCount: 0 UsingTime: 288.559
+[06/03 16:32:08.475] From OvenUsingTime | UsingCount: 0 UsingTime: 289.0594
+[06/03 16:32:08.977] From OvenUsingTime | UsingCount: 0 UsingTime: 289.5619
+[06/03 16:32:09.492] From OvenUsingTime | UsingCount: 0 UsingTime: 290.0756
+[06/03 16:32:09.992] From OvenUsingTime | UsingCount: 0 UsingTime: 290.5761
+[06/03 16:32:10.493] From OvenUsingTime | UsingCount: 0 UsingTime: 291.0778
+[06/03 16:32:10.995] From OvenUsingTime | UsingCount: 0 UsingTime: 291.5789
+[06/03 16:32:11.496] From OvenUsingTime | UsingCount: 0 UsingTime: 292.0795
+[06/03 16:32:11.997] From OvenUsingTime | UsingCount: 0 UsingTime: 292.5807
+[06/03 16:32:12.499] From OvenUsingTime | UsingCount: 0 UsingTime: 293.0825
+[06/03 16:32:12.999] From OvenUsingTime | UsingCount: 0 UsingTime: 293.5829
+[06/03 16:32:13.500] From OvenUsingTime | UsingCount: 0 UsingTime: 294.0851
+[06/03 16:32:14.001] From OvenUsingTime | UsingCount: 0 UsingTime: 294.5873
+[06/03 16:32:14.503] From OvenUsingTime | UsingCount: 0 UsingTime: 295.0887
+[06/03 16:32:15.004] From OvenUsingTime | UsingCount: 0 UsingTime: 295.59
+[06/03 16:32:15.505] From OvenUsingTime | UsingCount: 0 UsingTime: 296.0899
+[06/03 16:32:16.007] From OvenUsingTime | UsingCount: 0 UsingTime: 296.5917
+[06/03 16:32:16.509] From OvenUsingTime | UsingCount: 0 UsingTime: 297.0927
+[06/03 16:32:17.010] From OvenUsingTime | UsingCount: 0 UsingTime: 297.5933
+[06/03 16:32:17.511] From OvenUsingTime | UsingCount: 0 UsingTime: 298.0944
+[06/03 16:32:18.012] From OvenUsingTime | UsingCount: 0 UsingTime: 298.5956
+[06/03 16:32:18.514] From OvenUsingTime | UsingCount: 0 UsingTime: 299.097
+[06/03 16:32:19.015] From OvenUsingTime | UsingCount: 0 UsingTime: 299.5982
+[06/03 16:32:19.517] From OvenUsingTime | UsingCount: 0 UsingTime: 300.1003
+[06/03 16:32:20.030] From OvenUsingTime | UsingCount: 0 UsingTime: 300.6136
+[06/03 16:32:20.531] From OvenUsingTime | UsingCount: 0 UsingTime: 301.1148
+[06/03 16:32:21.032] From OvenUsingTime | UsingCount: 0 UsingTime: 301.616
+[06/03 16:32:21.535] From OvenUsingTime | UsingCount: 0 UsingTime: 302.12
+[06/03 16:32:22.037] From OvenUsingTime | UsingCount: 0 UsingTime: 302.6207
+[06/03 16:32:22.538] From OvenUsingTime | UsingCount: 0 UsingTime: 303.1217
+[06/03 16:32:23.039] From OvenUsingTime | UsingCount: 0 UsingTime: 303.6232
+[06/03 16:32:23.541] From OvenUsingTime | UsingCount: 0 UsingTime: 304.1243
+[06/03 16:32:24.042] From OvenUsingTime | UsingCount: 0 UsingTime: 304.6251
+[06/03 16:32:24.543] From OvenUsingTime | UsingCount: 0 UsingTime: 305.127
+[06/03 16:32:25.043] From OvenUsingTime | UsingCount: 0 UsingTime: 305.6273
+[06/03 16:32:25.545] From OvenUsingTime | UsingCount: 0 UsingTime: 306.129
+[06/03 16:32:26.046] From OvenUsingTime | UsingCount: 0 UsingTime: 306.6302
+[06/03 16:32:26.547] From OvenUsingTime | UsingCount: 0 UsingTime: 307.1316
+[06/03 16:32:27.049] From OvenUsingTime | UsingCount: 0 UsingTime: 307.633
+[06/03 16:32:27.510] Start cleaning
+[06/03 16:32:27.511] From DishwasherUsingCount | UsingCount: 1 UsingTime: 0
+[06/03 16:32:27.550] From OvenUsingTime | UsingCount: 0 UsingTime: 308.1342
+[06/03 16:32:28.053] From OvenUsingTime | UsingCount: 0 UsingTime: 308.643
+[06/03 16:32:28.566] From OvenUsingTime | UsingCount: 0 UsingTime: 309.1505
+[06/03 16:32:29.068] From OvenUsingTime | UsingCount: 0 UsingTime: 309.6522
+[06/03 16:32:29.569] From OvenUsingTime | UsingCount: 0 UsingTime: 310.1529
+[06/03 16:32:30.070] From OvenUsingTime | UsingCount: 0 UsingTime: 310.6541
+[06/03 16:32:30.571] From OvenUsingTime | UsingCount: 0 UsingTime: 311.1552
+[06/03 16:32:31.071] From OvenUsingTime | UsingCount: 0 UsingTime: 311.6563
+[06/03 16:32:31.573] From OvenUsingTime | UsingCount: 0 UsingTime: 312.1572
+[06/03 16:32:32.075] From OvenUsingTime | UsingCount: 0 UsingTime: 312.6584
+[06/03 16:32:32.576] From OvenUsingTime | UsingCount: 0 UsingTime: 313.1593
+[06/03 16:32:33.077] From OvenUsingTime | UsingCount: 0 UsingTime: 313.66
+[06/03 16:32:33.578] From OvenUsingTime | UsingCount: 0 UsingTime: 314.1609
+[06/03 16:32:34.079] From OvenUsingTime | UsingCount: 0 UsingTime: 314.662
+[06/03 16:32:34.580] From OvenUsingTime | UsingCount: 0 UsingTime: 315.1631
+[06/03 16:32:35.081] From OvenUsingTime | UsingCount: 0 UsingTime: 315.6646
+[06/03 16:32:35.582] From OvenUsingTime | UsingCount: 0 UsingTime: 316.1664
+[06/03 16:32:36.083] From OvenUsingTime | UsingCount: 0 UsingTime: 316.6681
+[06/03 16:32:36.585] From OvenUsingTime | UsingCount: 0 UsingTime: 317.1702
+[06/03 16:32:37.086] From OvenUsingTime | UsingCount: 0 UsingTime: 317.6715
+[06/03 16:32:37.587] From OvenUsingTime | UsingCount: 0 UsingTime: 318.1729
+[06/03 16:32:38.088] From OvenUsingTime | UsingCount: 0 UsingTime: 318.6733
+[06/03 16:32:38.590] From OvenUsingTime | UsingCount: 0 UsingTime: 319.1743
+[06/03 16:32:39.092] From OvenUsingTime | UsingCount: 0 UsingTime: 319.6753
+[06/03 16:32:39.593] From OvenUsingTime | UsingCount: 0 UsingTime: 320.1771
+[06/03 16:32:40.094] From OvenUsingTime | UsingCount: 0 UsingTime: 320.678
+[06/03 16:32:40.595] From OvenUsingTime | UsingCount: 0 UsingTime: 321.1786
+[06/03 16:32:41.096] From OvenUsingTime | UsingCount: 0 UsingTime: 321.6795
+[06/03 16:32:41.597] From OvenUsingTime | UsingCount: 0 UsingTime: 322.1801
+[06/03 16:32:42.098] From OvenUsingTime | UsingCount: 0 UsingTime: 322.6819
+[06/03 16:32:42.599] From OvenUsingTime | UsingCount: 0 UsingTime: 323.1834
+[06/03 16:32:43.101] From OvenUsingTime | UsingCount: 0 UsingTime: 323.6843
+[06/03 16:32:43.602] From OvenUsingTime | UsingCount: 0 UsingTime: 324.1871
+[06/03 16:32:44.103] From OvenUsingTime | UsingCount: 0 UsingTime: 324.6886
+[06/03 16:32:44.604] From OvenUsingTime | UsingCount: 0 UsingTime: 325.1909
